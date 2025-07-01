@@ -6,7 +6,7 @@
 ## Planeswalkers (0)
 *None*
 
-## Creatures (29)
+## Creatures (28)
 * [Akroma, Angel of Fury](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Akroma%2C+Angel+of+Fury)
 * [Angel of Despair](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Angel+of+Despair)
 * [Angelic Arbiter](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Angelic+Arbiter)
@@ -77,22 +77,27 @@
 * [Vow of Lightning](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Vow+of+Lightning)
 * [Vow of Malice](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Vow+of+Malice)
 
-## Lands (37)
-* [Boros Garrison](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Boros+Garrison)
-* [Evolving Wilds](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Evolving+Wilds)
-* [Orzhov Basilica](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Orzhov+Basilica)
-* [Rakdos Carnarium](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Rakdos+Carnarium)
-* [Terramorphic Expanse](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Terramorphic+Expanse)
-* [Vivid Crag](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Vivid+Crag)
-* [Vivid Marsh](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Vivid+Marsh)
-* [Vivid Meadow](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Vivid+Meadow)
-* Mountain ×6  
-* Plains ×6  
-* Swamp ×6  
+## Lands (38)
+* [Akoum Refuge](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Akoum+Refuge)  
+* [Barren Moor](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Barren+Moor)  
+* [Bojuka Bog](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Bojuka+Bog)  
+* [Boros Garrison](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Boros+Garrison)  
+* [Command Tower](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Command+Tower)  
+* [Evolving Wilds](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Evolving+Wilds)  
+* [Forgotten Cave](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Forgotten+Cave)  
+* [Molten Slagheap](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Molten+Slagheap)  
+* [Orzhov Basilica](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Orzhov+Basilica)  
+* [Rakdos Carnarium](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Rakdos+Carnarium)  
+* [Rupture Spire](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Rupture+Spire)  
+* [Secluded Steppe](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Secluded+Steppe)  
+* [Vivid Meadow](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Vivid+Meadow)  
+* [Zoetic Cavern](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Zoetic+Cavern)
+* Mountain ×8
+* Plains ×8
+* Swamp ×8 
 
 ## Tokens (4)
 * 1x Angel (4/4 white, flying, vigilance)  
 * 1x Dragon (5/5 red, flying)  
 * 1x Demon (5/5 black, flying)  
 * 1x Spirit (1/1 white, flying) 
-
