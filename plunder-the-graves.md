@@ -6,7 +6,7 @@
 ## Planeswalkers (0)
 *None*
 
-## Creatures (38)
+## Creatures (37)
 * [Acidic Slime](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Acidic+Slime)
 * [Banshee of the Dread Choir](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Banshee+of+the+Dread+Choir)
 * [Blood Bairn](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Blood+Bairn)
@@ -77,17 +77,24 @@
 ## Enchantments (1)
 * [Diabolic Servitude](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Diabolic+Servitude)
 
-## Lands (34)
-* [Command Tower](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Command+Tower)
-* [Golgari Rot Farm](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Golgari+Rot+Farm)
-* [Jund Panorama](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Jund+Panorama)
-* [Opal Palace](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Opal+Palace)
-* [Tainted Wood](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Tainted+Wood)
-* [Temple of Malady](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Temple+of+Malady)
-* Swamp ×13  
-* Forest ×14  
+## Lands (38)
+* [Command Tower](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Command+Tower)  
+* [Evolving Wilds](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Evolving+Wilds)  
+* [Golgari Guildgate](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Golgari+Guildgate)  
+* [Golgari Rot Farm](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Golgari+Rot+Farm)  
+* [Grim Backwoods](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Grim+Backwoods)  
+* [High Market](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=High+Market)  
+* [Jungle Hollow](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Jungle+Hollow)  
+* [Polluted Mire](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Polluted+Mire)  
+* [Slippery Karst](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Slippery+Karst)  
+* [Tainted Wood](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Tainted+Wood)  
+* [Terramorphic Expanse](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Terramorphic+Expanse)  
+* [Vivid Grove](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Vivid+Grove)  
+* [Vivid Marsh](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Vivid+Marsh)
+* Swamp ×12
+* Forest ×12  
 
-## Tokens (7)
+## Tokens (8)
 * 1x Beast (3/3 green)  
 * 1x Elephant (3/3 green)  
 * 1x Saproling (1/1 green)  
@@ -95,3 +102,4 @@
 * 1x Spider (1/2 green with reach)  
 * 1x Zombie (2/2 black)  
 * 1x Insect (1/1 black)
+* 1x Experience counter
