@@ -96,8 +96,7 @@
 * Plains ×8
 * Swamp ×8 
 
-## Tokens (4)
-* 1x Angel (4/4 white, flying, vigilance)  
-* 1x Dragon (5/5 red, flying)  
-* 1x Demon (5/5 black, flying)  
-* 1x Spirit (1/1 white, flying) 
+## Tokens (11)
+* 1 1/1 White Kithkin Soldier Token  
+* 4 5/5 Red Dragon Token 
+* 6 2/2 Black Zombie Token  
