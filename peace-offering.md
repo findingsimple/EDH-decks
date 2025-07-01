@@ -76,32 +76,46 @@
 * [Tenuous Truce](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Tenuous+Truce)
 * [Wizard Class](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Wizard+Class)
 
-## Lands (37)
-* [Azorius Chancery](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Azorius+Chancery)
-* [Bant Panorama](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Bant+Panorama)
-* [Blossoming Sands](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Blossoming+Sands)
-* [Command Tower](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Command+Tower)
-* [Cottage Garden](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Cottage+Garden)
-* [Exotic Orchard](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Exotic+Orchard)
-* [Graypelt Refuge](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Graypelt+Refuge)
-* [Jungle Hollow](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Jungle+Hollow)
-* [Krosan Verge](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Krosan+Verge)
-* [Orzhov Basilica](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Orzhov+Basilica)
-* [Path of Ancestry](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Path+of+Ancestry)
-* [Selesnya Sanctuary](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Selesnya+Sanctuary)
-* [Simic Growth Chamber](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Simic+Growth+Chamber)
-* [Tranquil Cove](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Tranquil+Cove)
-* [Vivid Grove](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Vivid+Grove)
-* [Vivid Meadow](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Vivid+Meadow)
-* [Vivid Sky](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Vivid+Sky)
-* Forest ×5  
-* Island ×5  
-* Plains ×4  
+## Lands (38)
+* [Adarkar Wastes](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Adarkar+Wastes)  
+* [Brushland](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Brushland)  
+* [Canopy Vista](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Canopy+Vista)  
+* [Command Tower](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Command+Tower)  
+* [Evolving Wilds](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Evolving+Wilds)  
+* [Exotic Orchard](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Exotic+Orchard)  
+* [Flooded Grove](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Flooded+Grove)  
+* [Glacial Fortress](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Glacial+Fortress)  
+* [Hinterland Harbor](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Hinterland+Harbor)  
+* [Overflowing Basin](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Overflowing+Basin)  
+* [Prairie Stream](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Prairie+Stream)  
+* [Razorverge Thicket](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Razorverge+Thicket)  
+* [Reliquary Tower](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Reliquary+Tower)  
+* [Seachrome Coast](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Seachrome+Coast)  
+* [Seaside Citadel](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Seaside+Citadel)  
+* [Skycloud Expanse](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Skycloud+Expanse)  
+* [Sungrass Prairie](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Sungrass+Prairie)  
+* [Sunpetal Grove](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Sunpetal+Grove)  
+* [Temple of Enlightenment](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Temple+of+Enlightenment)  
+* [Temple of Mystery](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Temple+of+Mystery)  
+* [Temple of Plenty](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Temple+of+Plenty)  
+* [Terramorphic Expanse](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Terramorphic+Expanse)  
+* [Thriving Grove](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Thriving+Grove)  
+* [Thriving Heath](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Thriving+Heath)  
+* [Thriving Isle](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Thriving+Isle)  
+* [Yavimaya Coast](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Yavimaya+Coast)
+* Forest ×4
+* Island ×4
+* Plains ×4
 
-## Tokens (6)
-* 1x Beast (3/3 green)  
-* 1x Copy  
-* 1x Elemental (4/4 red)  
-* 1x Frog (1/1 green)  
-* 1x Gerbil (1/1 white)  
-* 1x Treasure  
+## Tokens (10)
+* Elephant // Squid token
+* Steelburr Champion Offspring // Squid token
+* Rabbit // Octopus token
+* Treasure // Cat token
+* Rabbit // Fish token
+* Bird (Blue) // Fish token
+* Bird (Blue) // Shark token
+* Elemental (4/4) // Shark token
+* Elemental (4/4) // Cat token
+* Poison counter // Rabbit token
+
