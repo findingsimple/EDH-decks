@@ -7,7 +7,6 @@
 *None*
 
 ## Creatures (24)
-* [Aerith, Last Ancient](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Aerith%2C+Last+Ancient)
 * [Armory Automaton](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Armory+Automaton)
 * [Avalanche of Sector 7](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Avalanche+of+Sector+7)
 * [Barret Wallace](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Barret+Wallace)
@@ -17,6 +16,7 @@
 * [Bugenhagen, Wise Elder](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Bugenhagen%2C+Wise+Elder)
 * [Cait Sith, Fortune Teller](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Cait+Sith%2C+Fortune+Teller)
 * [Cid, Freeflier Pilot](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Cid%2C+Freeflier+Pilot)
+* [Cloud, Planet's Champion](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Cloud+Planets+Champion)
 * [Elena, Turk Recruit](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Elena%2C+Turk+Recruit)
 * [Heidegger, Shinra Executive](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Heidegger%2C+Shinra+Executive)
 * [Helitrooper](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Helitrooper)
@@ -26,7 +26,6 @@
 * [Puresteel Paladin](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Puresteel+Paladin)
 * [Red XIII, Proud Warrior](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Red+XIII%2C+Proud+Warrior)
 * [Sephiroth, Fallen Hero](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Sephiroth%2C+Fallen+Hero)
-* [Summon: Kujata](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Summon%3A+Kujata)
 * [Tifa, Martial Artist](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Tifa%2C+Martial+Artist)
 * [Vincent, Vengeful Atoner](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Vincent%2C+Vengeful+Atoner)
 * [Yuffie, Materia Hunter](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Yuffie%2C+Materia+Hunter)
@@ -72,6 +71,7 @@
 * [Summoning Materia](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Summoning+Materia)
 * [Sword of the Animist](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Sword+of+the+Animist)
 * [Trailblazer's Boots](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Trailblazer's+Boots)
+* [Ultima Weapon](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Ultima+Weapon)
 * [Wrecking Ball Arm](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Wrecking+Ball+Arm)
 
 ## Enchantments (2)
