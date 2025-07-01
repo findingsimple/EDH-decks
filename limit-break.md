@@ -79,29 +79,38 @@
 * [SOLDIER Military Program](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=SOLDIER+Military+Program)
 
 ## Lands (37)
-* [Boros Garrison](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Boros+Garrison)
-* [Clifftop Retreat](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Clifftop+Retreat)
-* [Command Tower](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Command+Tower)
-* [Cinder Glade](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Cinder+Glade)
-* [Exotic Orchard](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Exotic+Orchard)
-* [Game Trail](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Game+Trail)
-* [Jungle Shrine](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Jungle+Shrine)
-* [Path of Ancestry](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Path+of+Ancestry)
-* [Rootbound Crag](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Rootbound+Crag)
-* [Sacred Foundry](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Sacred+Foundry)
-* [Stomping Ground](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Stomping+Ground)
-* [Sunpetal Grove](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Sunpetal+Grove)
-* [Temple Garden](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Temple+Garden)
-* [Temple of Triumph](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Temple+of+Triumph)
-* Mountain ×5  
-* Plains ×5  
-* Forest ×5  
+* [Ash Barrens](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Ash+Barrens)  
+* [Battlefield Forge](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Battlefield+Forge)  
+* [Bonders' Enclave](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Bonders'+Enclave)  
+* [Brushland](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Brushland)  
+* [Canopy Vista](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Canopy+Vista)  
+* [Cinder Glade](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Cinder+Glade)  
+* [Clifftop Retreat](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Clifftop+Retreat)  
+* [Command Tower](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Command+Tower)  
+* [Exotic Orchard](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Exotic+Orchard)  
+* [Evolving Wilds](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Evolving+Wilds)  
+* [Fire-Lit Thicket](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Fire-Lit+Thicket)  
+* [Fortified Village](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Fortified+Village)  
+* [Furycalm Snarl](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Furycalm+Snarl)  
+* [Game Trail](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Game+Trail)  
+* [Jungle Shrine](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Jungle+Shrine)  
+* [Mossfire Valley](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Mossfire+Valley)  
+* [Path of Ancestry](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Path+of+Ancestry)  
+* [Radiant Grove](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Radiant+Grove)  
+* [Rootbound Crag](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Rootbound+Crag)  
+* [Rugged Prairie](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Rugged+Prairie)  
+* [Sacred Peaks](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Sacred+Peaks)  
+* [Scavenger Grounds](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Scavenger+Grounds)  
+* [Slayers' Stronghold](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Slayers'+Stronghold)  
+* [Spire of Industry](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Spire+of+Industry)  
+* [Sungrass Prairie](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Sungrass+Prairie)  
+* [Sunpetal Grove](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Sunpetal+Grove)  
+* [Sunscorched Divide](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Sunscorched+Divide)  
+* [Wooded Ridgeline](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Wooded+Ridgeline)
+* Mountain ×3
+* Plains ×3
+* Forest ×3
 
 ## Tokens (8)
-* 1x Cloud’s Limit Break Emblem  
-* 1x Copy  
-* 1x Equipment  
-* 1x Soldier (1/1 white)  
-* 1x Spirit (1/1 white, flying)  
-* 1x Trample Emblem  
-* 2x Treasure
+* 8x Soldier // Rebel tokens
+* 2x Foretell (helper) // Treasure tokens
