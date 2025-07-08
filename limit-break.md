@@ -7,7 +7,6 @@
 *None*
 
 ## Creatures (24)
-* [Armory Automaton](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Armory+Automaton)
 * [Avalanche of Sector 7](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Avalanche+of+Sector+7)
 * [Barret Wallace](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Barret+Wallace)
 * [Barret, Avalanche Leader](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Barret%2C+Avalanche+Leader)
@@ -16,6 +15,7 @@
 * [Cait Sith, Fortune Teller](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Cait+Sith%2C+Fortune+Teller)
 * [Cid, Freeflier Pilot](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Cid%2C+Freeflier+Pilot)
 * [Cloud, Planet's Champion](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Cloud+Planets+Champion)
+* [Cloud, Midgar Mercenary](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Cloud+Midgar+Mercenary)
 * [Elena, Turk Recruit](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Elena%2C+Turk+Recruit)
 * [Elspeth, Storm Slayer](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Elspeth+Storm+Slayer )
 * [Heidegger, Shinra Executive](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Heidegger%2C+Shinra+Executive)
