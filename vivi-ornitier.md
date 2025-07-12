@@ -7,6 +7,7 @@
 
 ## Creatures ()
 * [Niv-Mizzet, Dracogenius](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Niv-Mizzet+Dracogenius)
+* [Gogo, Master of Mimicry](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Gogo+Master+of+Mimicry)
 
 ## Sorceries ()
 
