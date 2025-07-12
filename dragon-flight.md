@@ -6,6 +6,7 @@
 ## Planeswalkers ()
 
 ## Creatures ()
+* [Garth One Eye](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Garth+One+Eye)
 
 ## Sorceries ()
 
