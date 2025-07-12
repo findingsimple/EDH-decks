@@ -96,7 +96,6 @@
 * Plains ×8
 * Swamp ×8 
 
-## Tokens (11)
-* 1 1/1 White Kithkin Soldier Token  
+## Tokens (10) 
 * 4 5/5 Red Dragon Token 
 * 6 2/2 Black Zombie Token  
