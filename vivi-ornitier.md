@@ -6,12 +6,16 @@
 ## Planeswalkers ()
 
 ## Creatures ()
+* [Niv-Mizzet, Dracogenius](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Niv-Mizzet+Dracogenius)
 
 ## Sorceries ()
 
 ## Instants ()
 
 ## Artifacts ()
+* [Izzet Signet](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Izzet+Signet)
+* [Spellbook](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Spellbook)
+* [Swiftfoot Boots](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Swiftfoot+Boots)
 
 ## Enchantments ()
 
