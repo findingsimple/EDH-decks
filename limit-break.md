@@ -7,7 +7,7 @@
 *None*
 
 ## Creatures (24)
-* [Avalanche of Sector 7](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Avalanche+of+Sector+7)
+* [Adelbert Steiner](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Adelbert+Steiner)
 * [Barret Wallace](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Barret+Wallace)
 * [Barret, Avalanche Leader](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Barret%2C+Avalanche+Leader)
 * [Bastion Protector](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Bastion+Protector)
@@ -50,6 +50,7 @@
 * [Cloud's Limit Break](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Cloud's+Limit+Break)
 * [Dispatch](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Dispatch)
 * [Lifestream's Blessing](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Lifestream's+Blessing)
+* [Slash of Light](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Slash+of+Light)
 * [Ultimate Magic: Holy](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Ultimate+Magic%3A+Holy)
 
 ## Artifacts (19)
@@ -59,6 +60,7 @@
 * [Colossus Hammer](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Colossus+Hammer)
 * [Conformer Shuriken](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Conformer+Shuriken)
 * [Conqueror's Flail](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Conqueror's+Flail)
+* [Dancer's Chakrams](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Dancer's+Chakrams)
 * [Darksteel Plate](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Darksteel+Plate)
 * [Explorer's Scope](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Explorer's+Scope)
 * [Hero's Blade](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Hero's+Blade)
@@ -75,7 +77,6 @@
 * [Wrecking Ball Arm](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Wrecking+Ball+Arm)
 
 ## Enchantments (2)
-* [Furious Rise](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Furious+Rise)
 * [SOLDIER Military Program](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=SOLDIER+Military+Program)
 
 ## Lands (37)
