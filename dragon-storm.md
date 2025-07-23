@@ -40,7 +40,7 @@
 * [Utvara Hellkite](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Utvara+Hellkite)
 * [Whirlwing Stormbrood](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Whirlwing+Stormbrood)
 
-## Artifacts (6)
+## Artifacts (8)
 * [Arcane Signet](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Arcane+Signet)
 * [Dragon's Hoard](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Dragon%27s+Hoard)
 * [Dragonstorm Globe](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Dragonstorm+Globe)
@@ -50,7 +50,7 @@
 * [Sol Ring](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Sol+Ring)
 * [Urza's Incubator](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Urza%27s+Incubator)
 
-## Sorceries (5)
+## Sorceries (6)
 * [Cruel Ultimatum](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Cruel+Ultimatum)
 * [Crux of Fate](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Crux+of+Fate)
 * [Cultivate](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Cultivate)
