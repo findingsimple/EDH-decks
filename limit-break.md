@@ -106,7 +106,7 @@
 * [Spire of Industry](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Spire+of+Industry)  
 * [Sungrass Prairie](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Sungrass+Prairie)  
 * [Sunpetal Grove](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Sunpetal+Grove)  
-* [Sunscorched Divide](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Sunscorched+Divide)  
+* [Sunscorched Divide](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Sunscorched+Divide)
 * [Wooded Ridgeline](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Wooded+Ridgeline)
 * Mountain ×3
 * Plains ×3
