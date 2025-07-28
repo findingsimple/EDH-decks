@@ -40,8 +40,9 @@
 * [Utvara Hellkite](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Utvara+Hellkite)
 * [Whirlwing Stormbrood](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Whirlwing+Stormbrood)
 
-## Artifacts (8)
+## Artifacts (9)
 * [Arcane Signet](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Arcane+Signet)
+* [Chromatic Lantern](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Chromatic+Lantern)
 * [Dragon's Hoard](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Dragon%27s+Hoard)
 * [Dragonstorm Globe](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Dragonstorm+Globe)
 * [Herald's Horn](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Herald%27s+Horn)
@@ -83,6 +84,7 @@
 * [Crumbling Necropolis](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Crumbling+Necropolis)
 * [Evolving Wilds](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Evolving+Wilds)
 * [Exotic Orchard](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Exotic+Orchard)
+* [Fabled Passage](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Fabled+Passage)
 * [Frontier Bivouac](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Frontier+Bivouac)
 * [Hallowed Fountain](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Hallowed+Fountain)
 * [Jungle Shrine](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Jungle+Shrine)
@@ -98,7 +100,11 @@
 * [Steam Vents](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Steam+Vents)
 * [Stomping Ground](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Stomping+Ground)
 * [Radiant Fountain](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Radiant+Fountain)
+* [Riverpyre Verge](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Riverpyre+Verge)
 * [Rogue's Passage](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Rogue%27s+Passage)
+* [Temple Garden](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Temple+Garden)
+* [Windswept Heath](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Windswept+Heath)
+* [Wooded Foothills](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Wooded+Foothills)
 * Plains * 2
 * Island * 2
 * Swamp * 2
