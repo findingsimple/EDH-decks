@@ -5,7 +5,7 @@
 
 ## Planeswalkers ()
 
-## Creatures (26)
+## Creatures (28)
 * [Rotting Regisaur]()
 * [Gisa, the Hellraiser]()
 * [Vile Entomber]()
@@ -32,6 +32,8 @@
 * [Undead Butler]()
 * [Gorging Vulture]()
 * [Qarsi Revenant]()
+* [Kokusho, the Evening Star]()
+* [Rune-Scarred Demon]()
 
 ## Sorceries (7)
 * [Bone Shards]()
@@ -52,19 +54,21 @@
 * [Entomb]()
 * [Reckoner's Bargain]()
 
-## Artifacts (10)
+## Artifacts (12)
 * [Sol Ring]()
 * [Jet Medallion]()
 * [Staff of Domination]()
 * [The Darkness Crystal]()
 * [Thousand-Year Elixir]()
 * [Mask of Griselbrand]()
-* [Bubbling Cauldron]()
 * [Mindstone]()
 * [Zephyr Boots]()
 * [Swiftfoot Boots]()
+* [Lightning Greaves]()
+* [Altar of Dementia]()
+* [Magewright's Stone]()
 
-## Enchantments (3)
+## Enchantments (4)
 * [The Sibsig Ceremony]()
 * [Sothera, the Supervoid]()
 * [Corpses of the Lost]()
@@ -76,9 +80,12 @@
 * [Susur Secundi, Void Altar]()
 * [Witch's Cottage]()
 * [Midgar City of Mako // Reactor Raid]()
-* Swamp * 33
+* [Mortuary Mire]()
+* [Endless Sands]()
+* [Cabal Stronghold]()
+* Swamp * 30
 
-## Wants
+## Upgrades
 * Phyrexian Tower
 * Phyrexian Altar
 * Phyrexian Dreadnought
@@ -88,8 +95,4 @@
 * Shadowheart, Dark Justiciar
 * Conjurors Closet
 * Accursed Duneyard
-
-
-* Underworld cookbook
-* Corrupted Conviction
 * https://scryfall.com/search?q=type%3Acreature+color%3C%3DB+(game%3Apaper)+pow%3E5&unique=cards&as=grid&order=cmc&dir=
