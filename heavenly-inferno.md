@@ -29,11 +29,11 @@
 * [Liesa, Forgotten Archangel](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Liesa+Forgotten+Archangel)
 * [Oros, the Avenger](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Oros%2C+the+Avenger)
 * [Master of Cruelties](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Master+of+Cruelties)
-* [Rune-scarred Demon](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Rune-scarred+Demon)
 * [Reiver Demon](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Reiver+Demon)
 * [Serra Angel](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Serra+Angel)
 * [Shattered Angel](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Shattered+Angel)
 * [Tariel, Reckoner of Souls](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Tariel%2C+Reckoner+of+Souls)
+* [Twinmore Stormbrood](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Twinmore+Stormbrood)
 * [Voice of All](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Voice+of+All)
 
 ## Sorceries (6)
