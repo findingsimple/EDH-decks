@@ -50,11 +50,12 @@
 * [Swiftfoot Boots](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Swiftfoot+Boots)
 * [White Auracite](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=White+Auracite)
 
-## Sorceries (4)
+## Sorceries (5)
 * [Austere Command](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Austere+Command)
 * [Fumigate](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Fumigate)
 * [Late to Dinner](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Late+to+Dinner)
 * [Dusk/Dawn](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Dusk%2FDawn)
+* [Storm Herd](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Storm+Herd)
 
 ## Instants (8)
 * [Blacksmith's Skill](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Blacksmith%27s+Skill)
@@ -84,5 +85,4 @@
 *None*
 
 ## Want
-* Storm Herd
 * Summon: Ixion
