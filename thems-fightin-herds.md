@@ -33,13 +33,14 @@
 * [Sungrace Pegasus](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Sungrace+Pegasus)
 * [Trusted Pegasus](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Trusted+Pegasus)
 
-## Artifact Creature (4)
+## Artifact Creature (5)
 * [Adaptive Automaton](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Adaptive+Automaton)
 * [Diamond Mare](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Diamond+Mare)
 * [Esper Sentinel](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Esper+Sentinel)
 * [Opaline Unicorn](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Opaline+Unicorn)
+* [Summon: Ixion](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Summon+Ixion)
 
-## Artifacts (8)
+## Artifacts (9)
 * [Banner of Kinship](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Banner+of+Kinship)
 * [Cathar's Shield](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Cathar%27s+Shield)
 * [Hedron Archive](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Hedron+Archive)
@@ -67,7 +68,7 @@
 * [Swords to Plowshares](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Swords+to+Plowshares)
 * [You're Not Alone](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=You%27re+Not+Alone)
 
-## Enchantments (9)
+## Enchantments (10)
 * [Angelic Destiny](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Angelic+Destiny)
 * [Ashes of the Abhorrent](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Ashes+of+the+Abhorrent)
 * [Authority of the Consuls](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Authority+of+the+Consuls)
@@ -76,13 +77,11 @@
 * [Felidar Retreat](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Felidar+Retreat)
 * [Journey to Nowhere](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Journey+to+Nowhere)
 * [Oblivion Ring](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Oblivion+Ring)
+* [Land Tax](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Land+Tax)
 * [Sacred Mesa](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Sacred+Mesa)
 
-## Lands (38)
-* Plains * 38
+## Lands (37)
+* Plains * 37
 
 ## Tokens (0)
 *None*
-
-## Want
-* Summon: Ixion
