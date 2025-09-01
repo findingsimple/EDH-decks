@@ -8,7 +8,6 @@
 
 ## Creatures (28)
 * [Baird, Steward of Argive](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Baird%2C+Steward+of+Argive)
-* [Bloodroot Apothecary](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Bloodroot+Apothecary)
 * [Body of Knowledge](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Body+of+Knowledge)
 * [Chasm Skulker](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Chasm+Skulker)
 * [Coiling Oracle](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Coiling+Oracle)
@@ -16,6 +15,7 @@
 * [Faeburrow Elder](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Faeburrow+Elder)
 * [Forgotten Ancient](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Forgotten+Ancient)
 * [Gluntch, the Bestower](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Gluntch+the+Bestower)
+* [Insidious Fungus](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Realm-Insidious+Fungus)
 * [Jolly Gerbils](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Jolly+Gerbils)
 * [Jolrael, Mwonvuli Recluse](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Jolrael%2C+Mwonvuli+Recluse)
 * [Kalonian Hydra](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Kalonian+Hydra)
@@ -24,9 +24,8 @@
 * [Managorger Hydra](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Managorger+Hydra)
 * [Mangara, the Diplomat](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Mangara%2C+the+Diplomat)
 * [Mr. Foxglove](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Mr.+Foxglove)
-* [Octomancer](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Octomancer)
+* [Patrolling Peacemaker](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Patrolling+Peacemaker)
 * [Psychosis Crawler](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Psychosis+Crawler)
-* [Realm-Cloaked Giant // Cast Off](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Realm-Cloaked+Giant)
 * [Rishkar, Peema Renegade](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Rishkar%2C+Peema+Renegade)
 * [Selvala, Explorer Returned](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Selvala%2C+Explorer+Returned)
 * [Sphinx of Enlightenment](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Sphinx+of+Enlightenment)
@@ -35,6 +34,7 @@
 * [Sunscorch Regent](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Sunscorch+Regent)
 * [Triskaidekaphile](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Triskaidekaphile)
 * [Twenty-Toed Toad](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Twenty-Toed+Toad)
+* [Uthros Psionicist](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Uthros+Psionicist)
 
 ## Sorceries (7)
 * [Cultivate](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Cultivate)
@@ -60,7 +60,6 @@
 
 ## Artifacts (9)
 * [Arcane Signet](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Arcane+Signet)
-* [Coveted Jewel](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Coveted+Jewel)
 * [Fellwar Stone](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Fellwar+Stone)
 * [Ghirapur Orrery](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Ghirapur+Orrery)
 * [Mind Stone](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Mind+Stone)
@@ -70,12 +69,13 @@
 * [Wedding Ring](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Wedding+Ring)
 
 ## Enchantments (7)
+* [Authority of the Consuls](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Authority+of+the+Consuls)
 * [Communal Brewing](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Communal+Brewing)
-* [Fisher's Talent](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Fisher's+Talent)
+* [Journey to Nowhere](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Journey+to+Nowhere)
+* [Loading Zone](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Loading+Zone)
 * [Rites of Flourishing](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Rites+of+Flourishing)
 * [Rhystic Study](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Rhystic+Study)  
 * [Simic Ascendancy](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Simic+Ascendancy)
-* [Tenuous Truce](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Tenuous+Truce)
 * [Wizard Class](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Wizard+Class)
 
 ## Lands (36)
