@@ -14,12 +14,12 @@
 * [Celestial Unicorn](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Celestial+Unicorn)
 * [Crested Sunmare](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Crested+Sunmare)
 * [Emiel the Blessed](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Emiel+the+Blessed)
-* [Insipiring Unicorn](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Inspiring+Unicorn)
+* [Inspiring Unicorn](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Inspiring+Unicorn)
 * [Keleth, Sunmane Familiar](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Keleth%2C+Sunmane+Familiar)
 * [Linden, the Steadfast Queen](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Linden+the+Steadfast+Queen)
 * [Loyal Unicorn](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Loyal+Unicorn)
 * [Mesa Unicorn](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Mesa+Unicorn)
-* [Nxborn Unicorn](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Nyxborn+Unicorn)
+* [Nyxborn Unicorn](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Nyxborn+Unicorn)
 * [Pegasus Courser](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Pegasus+Courser)
 * [Pegasus Guardian](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Pegasus+Guardian)
 * [Regal Bunnicorn](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Regal+Bunnicorn)
@@ -32,16 +32,15 @@
 * [Sungrace Pegasus](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Sungrace+Pegasus)
 * [Trusted Pegasus](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Trusted+Pegasus)
 
-## Artifact Creature (5)
+## Artifact Creatures (4)
 * [Adaptive Automaton](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Adaptive+Automaton)
 * [Diamond Mare](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Diamond+Mare)
 * [Esper Sentinel](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Esper+Sentinel)
 * [Summon: Ixion](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Summon+Ixion)
 
-## Artifacts (9)
+## Artifacts (8)
 * [Banner of Kinship](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Banner+of+Kinship)
 * [Cathar's Shield](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Cathar%27s+Shield)
-* [Hedron Archive](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Hedron+Archive)
 * [Heraldic Banner](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Heraldic+Banner)
 * [Pearl Medallion](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Pearl+Medallion)
 * [Spear of Heliod](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Spear+of+Heliod)
@@ -49,7 +48,7 @@
 * [Swiftfoot Boots](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Swiftfoot+Boots)
 * [White Auracite](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=White+Auracite)
 
-## Sorceries (5)
+## Sorceries (6)
 * [Austere Command](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Austere+Command)
 * [Fumigate](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Fumigate)
 * [Honor](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Honor)
@@ -58,16 +57,16 @@
 * [Storm Herd](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Storm+Herd)
 
 ## Instants (8)
+* [Akroma's Will](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Akroma%27s+Will)
 * [Blacksmith's Skill](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Blacksmith%27s+Skill)
 * [Disenchant](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Disenchant)
-* [Immolating Glare](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Immolating+Glare)
-* [Invoke the Divine](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Invoke+the+Divine)
-* [Make a Stand](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Make+a+Stand)
-* [Safe Passage](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Safe+Passage)
+* [Enlightened Tutor](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Enlightened+Tutor)
+* [Path to Exile](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Path+to+Exile)
 * [Swords to Plowshares](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Swords+to+Plowshares)
+* [Teferi's Protection](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Teferi%27s+Protection)
 * [You're Not Alone](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=You%27re+Not+Alone)
 
-## Enchantments (10)
+## Enchantments (12)
 * [Angelic Destiny](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Angelic+Destiny)
 * [Ashes of the Abhorrent](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Ashes+of+the+Abhorrent)
 * [Authority of the Consuls](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Authority+of+the+Consuls)
@@ -78,10 +77,11 @@
 * [Land Tax](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Land+Tax)
 * [Oblivion Ring](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Oblivion+Ring)
 * [Sacred Mesa](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Sacred+Mesa)
+* [Smothering Tithe](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Smothering+Tithe)
 * [Super State](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Super+State)
 
-## Lands (37)
-* Plains * 37
+## Lands (36)
+* Plains * 36
 
 ## Tokens (0)
 *None*
