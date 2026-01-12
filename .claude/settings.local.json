@@ -1,7 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "mcp__scryfall-local__data_status"
+      "mcp__scryfall-local__data_status",
+      "mcp__scryfall-local__get_cards_batch"
     ]
   }
 }
