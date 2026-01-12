@@ -1,101 +1,94 @@
 # Heavenly Inferno
 
-## Commander (1)
-* [Kaalia of the Vast](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Kaalia+of+the+Vast)
-
-## Planeswalkers (0)
-*None*
+## Commander
+Kaalia of the Vast
 
 ## Creatures (28)
-* [Akroma, Angel of Fury](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Akroma%2C+Angel+of+Fury)
-* [Angel of Despair](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Angel+of+Despair)
-* [Angelic Arbiter](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Angelic+Arbiter)
-* [Anger](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Anger)
-* [Archangel of Strife](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Archangel+of+Strife)
-* [Aurelia, the Warleader](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Aurelia+the+Warleader)
-* [Avacyn, Angel of Hope](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Avacyn+Angel+of+Hope)
-* [Basandra, Battle Seraph](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Basandra%2C+Battle+Seraph)
-* [Boros Guildmage](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Boros+Guildmage)
-* [Dread Cacodemon](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Dread+Cacodemon)
-* [Duergar Hedge-Mage](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Duergar+Hedge-Mage)
-* [Fallen Angel](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Fallen+Angel)
-* [Gisela, Blade of Goldnight](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Gisela+Blade+of+Goldnight)
-* [Lathliss, Dragon Queen](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Lathliss+Dragon+Queen)
-* [Lightkeeper of Emeria](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Lightkeeper+of+Emeria)
-* [Lyra Dawnbringer](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Lyra+Dawnbringer)
-* [Malfegor](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Malfegor)
-* [Mana-Charged Dragon](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Mana-Charged+Dragon)
-* [Mother of Runes](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Mother+of+Runes)
-* [Liesa, Forgotten Archangel](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Liesa+Forgotten+Archangel)
-* [Oros, the Avenger](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Oros%2C+the+Avenger)
-* [Master of Cruelties](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Master+of+Cruelties)
-* [Reiver Demon](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Reiver+Demon)
-* [Serra Angel](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Serra+Angel)
-* [Shattered Angel](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Shattered+Angel)
-* [Tariel, Reckoner of Souls](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Tariel%2C+Reckoner+of+Souls)
-* [Twinmore Stormbrood](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Twinmore+Stormbrood)
-* [Voice of All](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Voice+of+All)
+Akroma, Angel of Fury
+Angel of Despair
+Angelic Arbiter
+Anger
+Archangel of Strife
+Aurelia, the Warleader
+Avacyn, Angel of Hope
+Basandra, Battle Seraph
+Boros Guildmage
+Dread Cacodemon
+Duergar Hedge-Mage
+Fallen Angel
+Gisela, Blade of Goldnight
+Lathliss, Dragon Queen
+Lightkeeper of Emeria
+Lyra Dawnbringer
+Malfegor
+Mana-Charged Dragon
+Mother of Runes
+Liesa, Forgotten Archangel
+Oros, the Avenger
+Master of Cruelties
+Reiver Demon
+Serra Angel
+Shattered Angel
+Tariel, Reckoner of Souls
+Twinmore Stormbrood
+Voice of All
 
 ## Sorceries (6)
-* [Akroma's Vengeance](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Akroma's+Vengeance)
-* [Diabolic Tutor](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Diabolic+Tutor)
-* [Earthquake](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Earthquake)
-* [Evincar's Justice](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Evincar's+Justice)
-* [Syphon Flesh](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Syphon+Flesh)
-* [Syphon Mind](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Syphon+Mind)
+Akroma's Vengeance
+Diabolic Tutor
+Earthquake
+Evincar's Justice
+Syphon Flesh
+Syphon Mind
 
 ## Instants (12)
-* [Bathe in Light](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Bathe+in+Light)
-* [Cleansing Beam](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Cleansing+Beam)
-* [Comet Storm](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Comet+Storm)
-* [Congregate](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Congregate)
-* [Master Warcraft](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Master+Warcraft)
-* [Mortify](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Mortify)
-* [Orim's Thunder](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Orim's+Thunder)
-* [Path to Exile](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Path+to+Exile)
-* [Return to Dust](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Return+to+Dust)
-* [Sulfurous Blast](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Sulfurous+Blast)
-* [Terminate](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Terminate)
-* [Wrecking Ball](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Wrecking+Ball)
+Bathe in Light
+Cleansing Beam
+Comet Storm
+Congregate
+Master Warcraft
+Mortify
+Orim's Thunder
+Path to Exile
+Return to Dust
+Sulfurous Blast
+Terminate
+Wrecking Ball
 
 ## Artifacts (8)
-* [Armillary Sphere](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Armillary+Sphere)
-* [Boros Signet](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Boros+Signet)
-* [Darksteel Ingot](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Darksteel+Ingot)
-* [Lightning Greaves](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Lightning+Greaves)
-* [Orzhov Signet](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Orzhov+Signet)
-* [Rakdos Signet](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Rakdos+Signet)
-* [Sol Ring](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Sol+Ring)
-* [Swiftfoot Boots](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Swiftfoot+Boots)
+Armillary Sphere
+Boros Signet
+Darksteel Ingot
+Lightning Greaves
+Orzhov Signet
+Rakdos Signet
+Sol Ring
+Swiftfoot Boots
 
 ## Enchantments (7)
-* [Pyrohemia](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Pyrohemia)
-* [Righteous Cause](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Righteous+Cause)
-* [Soul Snare](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Soul+Snare)
-* [Stranglehold](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Stranglehold)
-* [Vow of Duty](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Vow+of+Duty)
-* [Vow of Lightning](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Vow+of+Lightning)
-* [Vow of Malice](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Vow+of+Malice)
+Pyrohemia
+Righteous Cause
+Soul Snare
+Stranglehold
+Vow of Duty
+Vow of Lightning
+Vow of Malice
 
 ## Lands (38)
-* [Akoum Refuge](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Akoum+Refuge)  
-* [Barren Moor](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Barren+Moor)  
-* [Bojuka Bog](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Bojuka+Bog)  
-* [Boros Garrison](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Boros+Garrison)  
-* [Command Tower](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Command+Tower)  
-* [Evolving Wilds](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Evolving+Wilds)  
-* [Forgotten Cave](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Forgotten+Cave)  
-* [Molten Slagheap](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Molten+Slagheap)  
-* [Orzhov Basilica](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Orzhov+Basilica)  
-* [Rakdos Carnarium](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Rakdos+Carnarium)  
-* [Rupture Spire](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Rupture+Spire)  
-* [Secluded Steppe](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Secluded+Steppe)  
-* [Vivid Meadow](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Vivid+Meadow)  
-* [Zoetic Cavern](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Zoetic+Cavern)
-* Mountain ×8
-* Plains ×8
-* Swamp ×8 
-
-## Tokens (10) 
-* 4 5/5 Red Dragon Token 
-* 6 2/2 Black Zombie Token  
+Akoum Refuge
+Barren Moor
+Bojuka Bog
+Boros Garrison
+Command Tower
+Evolving Wilds
+Forgotten Cave
+Molten Slagheap
+Orzhov Basilica
+Rakdos Carnarium
+Rupture Spire
+Secluded Steppe
+Vivid Meadow
+Zoetic Cavern
+Mountain x8
+Plains x8
+Swamp x8

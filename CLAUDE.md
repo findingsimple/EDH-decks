@@ -13,27 +13,40 @@ Each deck file (`*.md`) follows this structure:
 ```markdown
 # Deck Name
 
-## Commander (1)
-* [Card Name](cardkingdom-search-url)
+## Commander
+Card Name
 
 ## Planeswalkers (count)
+Card Name
+Card Name
+
 ## Creatures (count)
+Card Name
+Card Name
+
 ## Sorceries (count)
 ## Instants (count)
 ## Artifacts (count)
 ## Enchantments (count)
+
 ## Lands (count)
-## Tokens (count) [optional]
+Named Land
+Named Land
+Basic Land xN
+
+## Notes (optional)
+Strategy notes, upgrade ideas, etc.
 ```
 
-Card entries use this format:
-- Full URL: `* [Card Name](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Card+Name)`
-- Empty URL (pending): `* [Card Name]()`
-- Basic lands: `* Swamp ×12` or `* Mountain x 10`
+**Format rules:**
+- One card per line, no bullets or links
+- Section headers include card counts in parentheses
+- Basic lands use `Basic Land xN` format (e.g., `Swamp x12`)
+- Optional `## Notes` section for strategy/upgrade ideas
 
 ## Card Information
 
-Use the scryfall-local MCP server for looking up card information, finding cards by criteria, checking card legality, or any MTG-related queries. The server has a local cache of all MTG cards with fast search.
+Use the scryfall-local MCP server for looking up card information, finding cards by criteria, checking card legality, or any MTG-related queries.
 
 Key search syntax examples:
 - `c:blue t:instant cmc<=2` - Blue instants with mana value 2 or less

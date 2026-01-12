@@ -1,112 +1,112 @@
 # Dragon Storm
 
-## Commander (1)
-* [The Ur-Dragon](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=The+Ur-Dragon)
+## Commander
+The Ur-Dragon
 
 ## Planeswalkers (1)
-* [Sarkhan, Fireblood](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Sarkhan%2C+Fireblood)
+Sarkhan, Fireblood
 
 ## Creatures (32)
-* [Ancient Copper Dragon](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Ancient+Copper+Dragon)
-* [Ancient Gold Dragon](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Ancient+Gold+Dragon)
-* [Ancient Silver Dragon](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Ancient+Silver+Dragon)
-* [Atarka, World Render](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Atarka%2C+World+Render)
-* [Bladewing the Risen](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Bladewing+the+Risen)
-* [Broodmate Dragon](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Broodmate+Dragon)
-* [Dragon Egg](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Dragon+Egg)
-* [Dragonlord's Servant](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Dragonlord%27s+Servant)
-* [Dragonspeaker Shaman](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Dragonspeaker+Shaman)
-* [Dragonlord Kolaghan](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Dragonlord+Kolaghan)
-* [Enduring Scalelord](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Enduring+Scalelord)
-* [Garth One Eye](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Garth+One-Eye)
-* [Lathliss, Dragon Queen](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Lathliss%2C+Dragon+Queen)
-* [Marang River Regent](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Marang+River+Regent)
-* [Miirym, Sentinel Wyrm](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Miirym%2C+Sentinel+Wyrm)
-* [Nova Hellkite](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Nova+Hellkite)
-* [Ramos, Dragon Engine](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Ramos%2C+Dragon+Engine)
-* [Rith, Liberated Primeval](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Rith%2C+Liberated+Primeval)
-* [Rivaz of the Claw](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Rivaz+of+the+Claw)
-* [Sarkhan, Dragon Ascendant](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Sarkhan%2C+Dragon+Ascendant)
-* [Sarkhan, Soul Aflame](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Sarkhan%2C+Soul+Aflame)
-* [Savage Ventmaw](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Savage+Ventmaw)
-* [Scavenger Regent](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Scavenger+Regent)
-* [Scion of Draco](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Scion+of+Draco)
-* [Scion of the Ur-Dragon](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Scion+of+the+Ur-Dragon)
-* [Shiko, Paragon of the Way](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Shiko%2C+Paragon+of+the+Way)
-* [Tyrant's Familiar](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Tyrant%27s+Familiar)
-* [Tiamat](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Tiamat)
-* [Ureni, the Song Unending](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Ureni%2C+the+Song+Unending)
-* [Ureni of the Unwritten](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Ureni+of+the+Unwritten)
-* [Utvara Hellkite](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Utvara+Hellkite)
-* [Whirlwing Stormbrood](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Whirlwing+Stormbrood)
+Ancient Copper Dragon
+Ancient Gold Dragon
+Ancient Silver Dragon
+Atarka, World Render
+Bladewing the Risen
+Broodmate Dragon
+Dragon Egg
+Dragonlord's Servant
+Dragonspeaker Shaman
+Dragonlord Kolaghan
+Enduring Scalelord
+Garth One-Eye
+Lathliss, Dragon Queen
+Marang River Regent
+Miirym, Sentinel Wyrm
+Nova Hellkite
+Ramos, Dragon Engine
+Rith, Liberated Primeval
+Rivaz of the Claw
+Sarkhan, Dragon Ascendant
+Sarkhan, Soul Aflame
+Savage Ventmaw
+Scavenger Regent
+Scion of Draco
+Scion of the Ur-Dragon
+Shiko, Paragon of the Way
+Tyrant's Familiar
+Tiamat
+Ureni, the Song Unending
+Ureni of the Unwritten
+Utvara Hellkite
+Whirlwing Stormbrood
 
 ## Artifacts (9)
-* [Arcane Signet](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Arcane+Signet)
-* [Chromatic Lantern](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Chromatic+Lantern)
-* [Dragon's Hoard](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Dragon%27s+Hoard)
-* [Dragonstorm Globe](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Dragonstorm+Globe)
-* [Herald's Horn](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Herald%27s+Horn)
-* [Lightning Greaves](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Lightning+Greaves)
-* [Orb of Dragonkind](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Orb+of+Dragonkind)
-* [Sol Ring](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Sol+Ring)
-* [Urza's Incubator](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Urza%27s+Incubator)
+Arcane Signet
+Chromatic Lantern
+Dragon's Hoard
+Dragonstorm Globe
+Herald's Horn
+Lightning Greaves
+Orb of Dragonkind
+Sol Ring
+Urza's Incubator
 
 ## Sorceries (6)
-* [Cruel Ultimatum](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Cruel+Ultimatum)
-* [Crux of Fate](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Crux+of+Fate)
-* [Cultivate](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Cultivate)
-* [Farseek](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Farseek)
-* [Kodama's Reach](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Kodama%27s+Reach)
-* [Rampant Growth](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Rampant+Growth)
+Cruel Ultimatum
+Crux of Fate
+Cultivate
+Farseek
+Kodama's Reach
+Rampant Growth
 
 ## Instants (7)
-* [Counterspell](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Counterspell)
-* [Cyclonic Rift](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Cyclonic+Rift)
-* [Path to Exile](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Path+to+Exile)
-* [Safe Passage](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Safe+Passage)
-* [Sarkhan's Resolve](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Sarkhan%27s+Resolve)
-* [Sarkhan's Triumph](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Sarkhan%27s+Triumph)
-* [Swords to Plowshares](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Swords+to+Plowshares)
+Counterspell
+Cyclonic Rift
+Path to Exile
+Safe Passage
+Sarkhan's Resolve
+Sarkhan's Triumph
+Swords to Plowshares
 
 ## Enchantments (6)
-* [Call the Spirit Dragons](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Call+the+Spirit+Dragons)
-* [Cathars' Crusade](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Cathars%27+Crusade)
-* [Dragonback Assault](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Dragonback+Assault)
-* [Garruk's Uprising](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Garruk%27s+Uprising)
-* [Mana Echoes](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Mana+Echoes)
-* [Dracogenesis](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Dracogenesis)
+Call the Spirit Dragons
+Cathars' Crusade
+Dragonback Assault
+Garruk's Uprising
+Mana Echoes
+Dracogenesis
 
 ## Lands (38)
-* [Arcane Sanctum](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Arcane+Sanctum)
-* [Arid Mesa](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Arid+Mesa)
-* [Blood Crypt](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Blood+Crypt)
-* [Command Tower](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Command+Tower)
-* [Crumbling Necropolis](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Crumbling+Necropolis)
-* [Evolving Wilds](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Evolving+Wilds)
-* [Exotic Orchard](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Exotic+Orchard)
-* [Fabled Passage](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Fabled+Passage)
-* [Frontier Bivouac](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Frontier+Bivouac)
-* [Hallowed Fountain](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Hallowed+Fountain)
-* [Jungle Shrine](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Jungle+Shrine)
-* [Misty Rainforest](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Misty+Rainforest)
-* [Mystic Monastery](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Mystic+Monastery)
-* [Nomad Outpost](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Nomad+Outpost)
-* [Opulent Palace](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Opulent+Palace)
-* [Overgrown Tomb](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Overgrown+Tomb)
-* [Sacred Foundry](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Sacred+Foundry)
-* [Sandsteppe Citadel](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Sandsteppe+Citadel)
-* [Savage Lands](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Savage+Lands)
-* [Seaside Citadel](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Seaside+Citadel)
-* [Steam Vents](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Steam+Vents)
-* [Stomping Ground](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Stomping+Ground)
-* [Radiant Fountain](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Radiant+Fountain)
-* [Riverpyre Verge](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Riverpyre+Verge)
-* [Rogue's Passage](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Rogue%27s+Passage)
-* [Temple Garden](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Temple+Garden)
-* [Windswept Heath](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Windswept+Heath)
-* [Wooded Foothills](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Wooded+Foothills)
-* Plains * 2
-* Island * 2
-* Swamp * 2
-* Mountain * 2
-* Forest * 2
+Arcane Sanctum
+Arid Mesa
+Blood Crypt
+Command Tower
+Crumbling Necropolis
+Evolving Wilds
+Exotic Orchard
+Fabled Passage
+Frontier Bivouac
+Hallowed Fountain
+Jungle Shrine
+Misty Rainforest
+Mystic Monastery
+Nomad Outpost
+Opulent Palace
+Overgrown Tomb
+Sacred Foundry
+Sandsteppe Citadel
+Savage Lands
+Seaside Citadel
+Steam Vents
+Stomping Ground
+Radiant Fountain
+Riverpyre Verge
+Rogue's Passage
+Temple Garden
+Windswept Heath
+Wooded Foothills
+Plains x2
+Island x2
+Swamp x2
+Mountain x2
+Forest x2

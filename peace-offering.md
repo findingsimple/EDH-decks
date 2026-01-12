@@ -1,108 +1,108 @@
 # Peace Offering
 
-## Commander (1)
-* [Ms. Bumbleflower](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Ms.+Bumbleflower)
+## Commander
+Ms. Bumbleflower
 
 ## Planeswalkers (1)
-* [Tamiyo, Field Researcher](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Tamiyo%2C+Field+Researcher)
+Tamiyo, Field Researcher
 
 ## Creatures (29)
-* [Baird, Steward of Argive](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Baird%2C+Steward+of+Argive)
-* [Bloom Tender](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Bloom+Tender)
-* [Byrke, Long Ear of the Law](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Byrke+Long+Ear+of+the+Law)
-* [Chasm Skulker](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Chasm+Skulker)
-* [Consecrated Sphinx](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Consecrated+Sphinx)
-* [Cosmogrand Zenith](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Cosmogrand+Zenith)
-* [Craterhoof Behemoth](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Craterhoof+Behemoth)
-* [Deepglow Skate](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Deepglow+Skate)
-* [Elesh Norn, Mother of Machines](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Elesh+Norn%2C+Mother+of+Machines)
-* [Forgotten Ancient](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Forgotten+Ancient)
-* [Gluntch, the Bestower](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Gluntch+the+Bestower)
-* [Good-Fortune Unicorn](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Good+Fortune+Unicorn)
-* [Heroes' Bane](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Heroes+Bane)
-* [Jolrael, Mwonvuli Recluse](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Jolrael%2C+Mwonvuli+Recluse)
-* [Kalonian Hydra](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Kalonian+Hydra)
-* [Koma, Cosmos Serpent](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Koma%2C+Cosmos+Serpent)
-* [Kwain, Itinerant Meddler](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Kwain%2C+Itinerant+Meddler)
-* [Loran of the Third Path](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Loran+of+the+Third+Path)
-* [Managorger Hydra](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Managorger+Hydra)
-* [Mangara, the Diplomat](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Mangara%2C+the+Diplomat)
-* [Mr. Foxglove](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Mr.+Foxglove)
-* [Psychosis Crawler](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Psychosis+Crawler)
-* [Rishkar, Peema Renegade](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Rishkar%2C+Peema+Renegade)
-* [Selvala, Explorer Returned](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Selvala%2C+Explorer+Returned)
-* [Spore Frog](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Spore+Frog)
-* [Sunscorch Regent](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Sunscorch+Regent)
-* [Triskaidekaphile](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Triskaidekaphile)
-* [Twenty-Toed Toad](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Twenty-Toed+Toad)
-* [Uthros Psionicist](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Uthros+Psionicist)
+Baird, Steward of Argive
+Bloom Tender
+Byrke, Long Ear of the Law
+Chasm Skulker
+Consecrated Sphinx
+Cosmogrand Zenith
+Craterhoof Behemoth
+Deepglow Skate
+Elesh Norn, Mother of Machines
+Forgotten Ancient
+Gluntch, the Bestower
+Good-Fortune Unicorn
+Heroes' Bane
+Jolrael, Mwonvuli Recluse
+Kalonian Hydra
+Koma, Cosmos Serpent
+Kwain, Itinerant Meddler
+Loran of the Third Path
+Managorger Hydra
+Mangara, the Diplomat
+Mr. Foxglove
+Psychosis Crawler
+Rishkar, Peema Renegade
+Selvala, Explorer Returned
+Spore Frog
+Sunscorch Regent
+Triskaidekaphile
+Twenty-Toed Toad
+Uthros Psionicist
 
-## Instants (10)
-* [Collective Resistance](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Collective+Resistance)
-* [Cyclonic Rift](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Cyclonic+Rift)
-* [Heroic Intervention](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Heroic+Intervention)
-* [Illusionist's Gambit](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Illusionist%27s+Gambit)
-* [Mystic Confluence](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Mystic+Confluence)
-* [Negate](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Negate)
-* [Peerless Recycling](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Peerless+Recycling)
-* [Perplexing Test](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Perplexing+Test)
-* [Pull from Tomorrow](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Pull+from+Tomorrow)
-* [Swords to Plowshares](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Swords+to+Plowshares)
-* [Teferi's Protection](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Teferi%27s+Protection)
+## Instants (11)
+Collective Resistance
+Cyclonic Rift
+Heroic Intervention
+Illusionist's Gambit
+Mystic Confluence
+Negate
+Peerless Recycling
+Perplexing Test
+Pull from Tomorrow
+Swords to Plowshares
+Teferi's Protection
 
 ## Sorceries (6)
-* [Approach of the Second Sun](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Approach+of+the+Second+Sun)
-* [Austere Command](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Austere+Command)
-* [Cultivate](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Cultivate)
-* [Farseek](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Farseek)
-* [Season of Gathering](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Season+of+Gathering)
-* [Tempt with Discovery](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Tempt+with+Discovery)
+Approach of the Second Sun
+Austere Command
+Cultivate
+Farseek
+Season of Gathering
+Tempt with Discovery
 
 ## Artifacts (7)
-* [Arcane Signet](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Arcane+Signet)
-* [Chromatic Lantern](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Chromatic+Lantern)
-* [Sensei's Divining Top](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Sensei%27s+Divining+Top)
-* [Sol Ring](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Sol+Ring)
-* [Swiftfoot Boots](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Swiftfoot+Boots)
-* [The Great Henge](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=The+Great+Henge)
-* [Thought Vessel](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Thought+Vessel)
+Arcane Signet
+Chromatic Lantern
+Sensei's Divining Top
+Sol Ring
+Swiftfoot Boots
+The Great Henge
+Thought Vessel
 
 ## Enchantments (9)
-* [Authority of the Consuls](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Authority+of+the+Consuls)
-* [Doubling Season](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Doubling+Season)
-* [Loading Zone](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Loading+Zone)
-* [Mirari's Wake](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Mirari%27s+Wake)
-* [Rhystic Study](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Rhystic+Study)
-* [Rites of Flourishing](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Rites+of+Flourishing)
-* [Simic Ascendancy](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Simic+Ascendancy)
-* [Smothering Tithe](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Smothering+Tithe)
-* [Smuggler's Share](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Smuggler%27s+Share)
+Authority of the Consuls
+Doubling Season
+Loading Zone
+Mirari's Wake
+Rhystic Study
+Rites of Flourishing
+Simic Ascendancy
+Smothering Tithe
+Smuggler's Share
 
 ## Lands (36)
-* [Adarkar Wastes](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Adarkar+Wastes)
-* [Alchemist's Refuge](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Alchemist%27s+Refuge)
-* [Boseiju, Who Endures](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Boseiju%2C+Who+Endures)
-* [Breeding Pool](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Breeding+Pool)
-* [Brushland](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Brushland)
-* [Canopy Vista](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Canopy+Vista)
-* [Command Tower](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Command+Tower)
-* [Evolving Wilds](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Evolving+Wilds)
-* [Exotic Orchard](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Exotic+Orchard)
-* [Flooded Grove](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Flooded+Grove)
-* [Gavony Township](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Gavony+Township)
-* [Glacial Fortress](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Glacial+Fortress)
-* [Hinterland Harbor](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Hinterland+Harbor)
-* [Misty Rainforest](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Misty+Rainforest)
-* [Prairie Stream](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Prairie+Stream)
-* [Radiant Fountain](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Radiant+Fountain)
-* [Razorverge Thicket](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Razorverge+Thicket)
-* [Reliquary Tower](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Reliquary+Tower)
-* [Seachrome Coast](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Seachrome+Coast)
-* [Seaside Citadel](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Seaside+Citadel)
-* [Spara's Headquarters](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Spara%27s+Headquarters)
-* [Sunpetal Grove](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Sunpetal+Grove)
-* [Thriving Isle](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Thriving+Isle)
-* [Yavimaya Coast](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Yavimaya+Coast)
-* [Forest ×4]()
-* [Island ×4]()
-* [Plains ×4]()
+Adarkar Wastes
+Alchemist's Refuge
+Boseiju, Who Endures
+Breeding Pool
+Brushland
+Canopy Vista
+Command Tower
+Evolving Wilds
+Exotic Orchard
+Flooded Grove
+Gavony Township
+Glacial Fortress
+Hinterland Harbor
+Misty Rainforest
+Prairie Stream
+Radiant Fountain
+Razorverge Thicket
+Reliquary Tower
+Seachrome Coast
+Seaside Citadel
+Spara's Headquarters
+Sunpetal Grove
+Thriving Isle
+Yavimaya Coast
+Forest x4
+Island x4
+Plains x4

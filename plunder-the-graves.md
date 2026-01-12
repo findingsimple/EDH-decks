@@ -1,105 +1,92 @@
 # Plunder the Graves
 
-## Commander (1)
-* [Meren of Clan Nel Toth](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Meren+of+Clan+Nel+Toth)
-
-## Planeswalkers (0)
-*None*
+## Commander
+Meren of Clan Nel Toth
 
 ## Creatures (37)
-* [Acidic Slime](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Acidic+Slime)
-* [Banshee of the Dread Choir](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Banshee+of+the+Dread+Choir)
-* [Blood Bairn](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Blood+Bairn)
-* [Bloodspore Thrinax](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Bloodspore+Thrinax)
-* [Butcher of Malakir](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Butcher+of+Malakir)
-* [Caller of the Pack](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Caller+of+the+Pack)
-* [Centaur Vinecrasher](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Centaur+Vinecrasher)
-* [Champion of Stray Souls](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Champion+of+Stray+Souls)
-* [Cloudthresher](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Cloudthresher)
-* [Corpse Augur](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Corpse+Augur)
-* [Eater of Hope](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Eater+of+Hope)
-* [Eternal Witness](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Eternal+Witness)
-* [Extractor Demon](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Extractor+Demon)
-* [Great Oak Guardian](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Great+Oak+Guardian)
-* [Indrik Stomphowler](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Indrik+Stomphowler)
-* [Jarad, Golgari Lich Lord](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Jarad%2C+Golgari+Lich+Lord)
-* [Kessig Cagebreakers](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Kessig+Cagebreakers)
-* [Korozda Guildmage](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Korozda+Guildmage)
-* [Lotleth Troll](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Lotleth+Troll)
-* [Mazirek, Kraul Death Priest](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Mazirek%2C+Kraul+Death+Priest)
-* [Mycoloth](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Mycoloth)
-* [Pathbreaker Ibex](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Pathbreaker+Ibex)
-* [Phyrexian Plaguelord](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Phyrexian+Plaguelord)
-* [Phyrexian Rager](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Phyrexian+Rager)
-* [Sakura-Tribe Elder](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Sakura-Tribe+Elder)
-* [Satyr Wayfinder](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Satyr+Wayfinder)
-* [Scourge of Nel Toth](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Scourge+of+Nel+Toth)
-* [Shriekmaw](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Shriekmaw)
-* [Skullwinder](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Skullwinder)
-* [Terastodon](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Terastodon)
-* [Thief of Blood](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Thief+of+Blood)
-* [Verdant Force](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Verdant+Force)
-* [Viridian Emissary](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Viridian+Emissary)
-* [Viridian Zealot](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Viridian+Zealot)
-* [Vulturous Zombie](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Vulturous+Zombie)
-* [Wall of Blossoms](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Wall+of+Blossoms)
-* [Wood Elves](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Wood+Elves)
+Acidic Slime
+Banshee of the Dread Choir
+Blood Bairn
+Bloodspore Thrinax
+Butcher of Malakir
+Caller of the Pack
+Centaur Vinecrasher
+Champion of Stray Souls
+Cloudthresher
+Corpse Augur
+Eater of Hope
+Eternal Witness
+Extractor Demon
+Great Oak Guardian
+Indrik Stomphowler
+Jarad, Golgari Lich Lord
+Kessig Cagebreakers
+Korozda Guildmage
+Lotleth Troll
+Mazirek, Kraul Death Priest
+Mycoloth
+Pathbreaker Ibex
+Phyrexian Plaguelord
+Phyrexian Rager
+Sakura-Tribe Elder
+Satyr Wayfinder
+Scourge of Nel Toth
+Shriekmaw
+Skullwinder
+Terastodon
+Thief of Blood
+Verdant Force
+Viridian Emissary
+Viridian Zealot
+Vulturous Zombie
+Wall of Blossoms
+Wood Elves
 
 ## Sorceries (10)
-* [Ambition's Cost](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Ambition's+Cost)
-* [Barter in Blood](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Barter+in+Blood)
-* [Dread Summons](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Dread+Summons)
-* [Mulch](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Mulch)
-* [Overwhelming Stampede](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Overwhelming+Stampede)
-* [Primal Growth](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Primal+Growth)
-* [Rise from the Grave](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Rise+from+the+Grave)
-* [Sever the Bloodline](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Sever+the+Bloodline)
-* [Spider Spawning](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Spider+Spawning)
-* [Victimize](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Victimize)
+Ambition's Cost
+Barter in Blood
+Dread Summons
+Mulch
+Overwhelming Stampede
+Primal Growth
+Rise from the Grave
+Sever the Bloodline
+Spider Spawning
+Victimize
 
 ## Instants (6)
-* [Altar's Reap](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Altar's+Reap)
-* [Golgari Charm](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Golgari+Charm)
-* [Grisly Salvage](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Grisly+Salvage)
-* [Putrefy](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Putrefy)
-* [Tribute to the Wild](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Tribute+to+the+Wild)
-* [Wretched Confluence](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Wretched+Confluence)
+Altar's Reap
+Golgari Charm
+Grisly Salvage
+Putrefy
+Tribute to the Wild
+Wretched Confluence
 
 ## Artifacts (7)
-* [Bonehoard](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Bonehoard)
-* [Eldrazi Monument](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Eldrazi+Monument)
-* [Golgari Signet](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Golgari+Signet)
-* [Lightning Greaves](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Lightning+Greaves)
-* [Skullclamp](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Skullclamp)
-* [Sol Ring](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Sol+Ring)
-* [Thought Vessel](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Thought+Vessel)
+Bonehoard
+Eldrazi Monument
+Golgari Signet
+Lightning Greaves
+Skullclamp
+Sol Ring
+Thought Vessel
 
 ## Enchantments (1)
-* [Diabolic Servitude](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Diabolic+Servitude)
+Diabolic Servitude
 
 ## Lands (38)
-* [Command Tower](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Command+Tower)  
-* [Evolving Wilds](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Evolving+Wilds)  
-* [Golgari Guildgate](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Golgari+Guildgate)  
-* [Golgari Rot Farm](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Golgari+Rot+Farm)  
-* [Grim Backwoods](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Grim+Backwoods)  
-* [High Market](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=High+Market)  
-* [Jungle Hollow](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Jungle+Hollow)  
-* [Polluted Mire](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Polluted+Mire)  
-* [Slippery Karst](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Slippery+Karst)  
-* [Tainted Wood](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Tainted+Wood)  
-* [Terramorphic Expanse](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Terramorphic+Expanse)  
-* [Vivid Grove](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Vivid+Grove)  
-* [Vivid Marsh](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Vivid+Marsh)
-* Swamp ×12
-* Forest ×12  
-
-## Tokens (8)
-* 1x Beast (3/3 green)  
-* 1x Elephant (3/3 green)  
-* 1x Saproling (1/1 green)  
-* 1x Snake (1/1 green, deathtouch)  
-* 1x Spider (1/2 green with reach)  
-* 1x Zombie (2/2 black)  
-* 1x Insect (1/1 black)
-* 1x Experience counter
+Command Tower
+Evolving Wilds
+Golgari Guildgate
+Golgari Rot Farm
+Grim Backwoods
+High Market
+Jungle Hollow
+Polluted Mire
+Slippery Karst
+Tainted Wood
+Terramorphic Expanse
+Vivid Grove
+Vivid Marsh
+Swamp x12
+Forest x12
