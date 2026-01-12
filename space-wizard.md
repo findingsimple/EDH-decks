@@ -55,7 +55,7 @@ Lethal Scheme
 Reckoner's Bargain
 Sheoldred's Edict
 
-## Artifacts (13)
+## Artifacts (14)
 Altar of Dementia
 Conjurer's Closet
 Jet Medallion
@@ -66,6 +66,7 @@ Mind Stone
 Sol Ring
 Staff of Domination
 Swiftfoot Boots
+The Soul Stone
 Thousand-Year Elixir
 The Darkness Crystal
 Zephyr Boots
