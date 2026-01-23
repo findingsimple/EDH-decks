@@ -1,107 +1,107 @@
 # Cunning Conqueror
 
 ## Commander
-Alela, Cunning Conqueror
+- Alela, Cunning Conqueror
 
 ## Creatures (24)
-Archmage of Echoes
-Baleful Strix
-Blightwing Bandit
-Brazen Borrower
-Enduring Curiosity
-Faerie Mastermind
-Faerie Seer
-Glen Elendra Archmage
-High Fae Trickster
-Mistbind Clique
-Nettling Nuisance
-Notion Thief
-Nymris, Oona's Trickster
-Obyra, Dreaming Duelist
-Oona's Blackguard
-Oona, Queen of the Fae
-Rankle, Master of Pranks
-Scion of Oona
-Slitherwisp
-Sneaky Snacker
-Sower of Temptation
-Spellstutter Sprite
-Talion, the Kindly Lord
-Tegwyll, Duke of Splendor
+- Archmage of Echoes
+- Baleful Strix
+- Blightwing Bandit
+- Brazen Borrower
+- Enduring Curiosity
+- Faerie Mastermind
+- Faerie Seer
+- Glen Elendra Archmage
+- High Fae Trickster
+- Mistbind Clique
+- Nettling Nuisance
+- Notion Thief
+- Nymris, Oona's Trickster
+- Obyra, Dreaming Duelist
+- Oona's Blackguard
+- Oona, Queen of the Fae
+- Rankle, Master of Pranks
+- Scion of Oona
+- Slitherwisp
+- Sneaky Snacker
+- Sower of Temptation
+- Spellstutter Sprite
+- Talion, the Kindly Lord
+- Tegwyll, Duke of Splendor
 
 ## Instants (23)
-Arcane Denial
-Brainstorm
-Consider
-Counterspell
-Countersquall
-Deadly Rollick
-Didn't Say Please
-Dig Through Time
-Dissipate
-Drown in the Loch
-Fact or Fiction
-Go for the Throat
-Infernal Grasp
-Into the Roil
-Mana Leak
-Negate
-Pongify
-Rapid Hybridization
-Reality Shift
-Saw It Coming
-Snuff Out
-Swan Song
-Murderous Cut
+- Arcane Denial
+- Brainstorm
+- Consider
+- Counterspell
+- Countersquall
+- Deadly Rollick
+- Didn't Say Please
+- Dig Through Time
+- Dissipate
+- Drown in the Loch
+- Fact or Fiction
+- Go for the Throat
+- Infernal Grasp
+- Into the Roil
+- Mana Leak
+- Negate
+- Pongify
+- Rapid Hybridization
+- Reality Shift
+- Saw It Coming
+- Snuff Out
+- Swan Song
+- Murderous Cut
 
 ## Sorceries (4)
-Ponder
-Preordain
-Feed the Swarm
-Distant Melody
+- Ponder
+- Preordain
+- Feed the Swarm
+- Distant Melody
 
 ## Artifacts (8)
-Sol Ring
-Arcane Signet
-Dimir Signet
-Talisman of Dominance
-Swiftfoot Boots
-Lightning Greaves
-Vedalken Orrery
-Coat of Arms
+- Sol Ring
+- Arcane Signet
+- Dimir Signet
+- Talisman of Dominance
+- Swiftfoot Boots
+- Lightning Greaves
+- Vedalken Orrery
+- Coat of Arms
 
 ## Enchantments (6)
-Bitterblossom
-Rhystic Study
-Kindred Discovery
-Reflections of Littjara
-Bident of Thassa
-Leyline of Anticipation
+- Bitterblossom
+- Rhystic Study
+- Kindred Discovery
+- Reflections of Littjara
+- Bident of Thassa
+- Leyline of Anticipation
 
 ## Lands (34)
-Command Tower
-Watery Grave
-Drowned Catacomb
-Darkwater Catacombs
-Morphic Pool
-Underground River
-Sunken Hollow
-Clearwater Pathway
-Shipwreck Marsh
-Choked Estuary
-Temple of Deceit
-Tainted Isle
-Dimir Aqueduct
-Secluded Glen
-Path of Ancestry
-Reliquary Tower
-Rogue's Passage
-Castle Vantress
-Castle Locthwain
-Access Tunnel
-Mutavault
-Island x7
-Swamp x6
+- Command Tower
+- Watery Grave
+- Drowned Catacomb
+- Darkwater Catacombs
+- Morphic Pool
+- Underground River
+- Sunken Hollow
+- Clearwater Pathway
+- Shipwreck Marsh
+- Choked Estuary
+- Temple of Deceit
+- Tainted Isle
+- Dimir Aqueduct
+- Secluded Glen
+- Path of Ancestry
+- Reliquary Tower
+- Rogue's Passage
+- Castle Vantress
+- Castle Locthwain
+- Access Tunnel
+- Mutavault
+- Island x7
+- Swamp x6
 
 ## Notes
 Strategy: Hold up mana, cast instants and flash creatures on opponents' turns to generate Faerie tokens. Goad opponents' creatures to keep them fighting each other while you build an evasive flying army.

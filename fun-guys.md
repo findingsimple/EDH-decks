@@ -1,4 +1,4 @@
 # Fun Guys
 
 ## Commander
-Shroofus Sproutsire
+- Shroofus Sproutsire

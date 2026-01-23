@@ -1,4 +1,4 @@
 # Chatterfang
 
 ## Commander
-Chatterfang, Squirrel General
+- Chatterfang, Squirrel General
