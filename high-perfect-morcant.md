@@ -8,95 +8,95 @@
 - Vraska, Betrayal's Sting
 
 ## Creatures (37)
-- Llanowar Elves
-- Elvish Mystic
-- Fyndhorn Elves
-- Elves of Deep Shadow
-- Virulent Emissary
-- Deathrite Shaman
-- Priest of Titania
-- Elvish Archdruid
-- Wirewood Symbiote
-- Quirion Ranger
-- Imperious Perfect
-- Leaf-Crowned Visionary
-- Reclamation Sage
-- Marwyn, the Nurturer
-- Timberwatch Elf
-- Shaman of the Pack
-- Morcant's Loyalist
-- Dwynen's Elite
-- Elvish Warmaster
-- Lys Alana Huntmaster
-- Beast Whisperer
-- Champions of the Perfect
-- Canopy Tactician
-- Dwynen, Gilt-Leaf Daen
-- Drove of Elves
 - Abomination of Llanowar
-- Miara, Thorn of the Glade
-- Ezuri, Renegade Leader
-- Lathril, Blade of the Elves
-- Wolverine Riders
-- Pollenbright Druid
-- Dionus, Elvish Archdruid
-- Necroskitter
-- Prowess of the Fair
-- Selfless Safewright
-- Formidable Speaker
+- Beast Whisperer
+- Canopy Tactician
+- Champions of the Perfect
 - Craterhoof Behemoth
+- Deathrite Shaman
+- Dionus, Elvish Archdruid
+- Drove of Elves
+- Dwynen, Gilt-Leaf Daen
+- Dwynen's Elite
+- Elves of Deep Shadow
+- Elvish Archdruid
+- Elvish Mystic
+- Elvish Warmaster
+- Ezuri, Renegade Leader
+- Formidable Speaker
+- Fyndhorn Elves
+- Imperious Perfect
+- Lathril, Blade of the Elves
+- Leaf-Crowned Visionary
+- Llanowar Elves
+- Lys Alana Huntmaster
+- Marwyn, the Nurturer
+- Miara, Thorn of the Glade
+- Morcant's Loyalist
+- Necroskitter
+- Pollenbright Druid
+- Priest of Titania
+- Prowess of the Fair
+- Quirion Ranger
+- Reclamation Sage
+- Selfless Safewright
+- Shaman of the Pack
+- Timberwatch Elf
+- Virulent Emissary
+- Wirewood Symbiote
+- Wolverine Riders
 
 ## Sorceries (7)
-- Rampant Growth
-- Green Sun's Zenith
-- Exsanguinate
-- Elvish Promenade
-- Trystan's Command
 - Black Sun's Zenith
+- Elvish Promenade
+- Exsanguinate
+- Green Sun's Zenith
+- Rampant Growth
+- Trystan's Command
 - Vat Emergence
 
 ## Instants (3)
-- Chord of Calling
 - Atomize
+- Chord of Calling
 - Unnatural Restoration
 
 ## Artifacts (8)
-- Sol Ring
 - Arcane Signet
-- Golgari Signet
-- Skullclamp
-- Coat of Arms
 - Chronicle of Victory
+- Coat of Arms
 - Contagion Clasp
 - Contagion Engine
+- Golgari Signet
+- Skullclamp
+- Sol Ring
 
 ## Enchantments (6)
+- Blowfly Infestation
 - Crumbling Ashes
-- Harald Unites the Elves
-- Parallel Lives
 - Doubling Season
 - Flourishing Defenses
-- Blowfly Infestation
+- Harald Unites the Elves
+- Parallel Lives
 
 ## Lands (36)
-- Overgrown Tomb
+- Bojuka Bog
 - Command Tower
-- Golgari Rot Farm
-- Woodland Cemetery
-- Llanowar Wastes
-- Twilight Mire
 - Darkbore Pathway
 - Deathcap Glade
-- Necroblossom Snarl
-- Temple of Malady
-- Bojuka Bog
 - Golgari Guildgate
-- Jungle Hollow
-- Witherbloom Campus
+- Golgari Rot Farm
 - Ifnir Deadlands
-- Path of Ancestry
-- Wirewood Lodge
+- Jungle Hollow
+- Llanowar Wastes
+- Necroblossom Snarl
 - Oran-Rief, the Vastwood
+- Overgrown Tomb
+- Path of Ancestry
+- Temple of Malady
+- Twilight Mire
+- Wirewood Lodge
+- Witherbloom Campus
+- Woodland Cemetery
 - Yavimaya, Cradle of Growth
 - Forest x9
 - Swamp x8
