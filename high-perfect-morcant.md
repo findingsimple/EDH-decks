@@ -3,26 +3,28 @@
 ## Commander
 - High Perfect Morcant
 
-## Planeswalkers (2)
+## Planeswalkers (1)
 - Tyvar Kell
-- Vraska, Betrayal's Sting
 
-## Creatures (37)
+## Creatures (36)
 - Abomination of Llanowar
 - Beast Whisperer
 - Canopy Tactician
 - Champions of the Perfect
+- Circle of Dreams Druid
 - Craterhoof Behemoth
-- Deathrite Shaman
 - Dionus, Elvish Archdruid
-- Drove of Elves
 - Dwynen, Gilt-Leaf Daen
 - Dwynen's Elite
 - Elves of Deep Shadow
 - Elvish Archdruid
+- Elvish Champion
+- Elvish Harbinger
 - Elvish Mystic
 - Elvish Warmaster
+- Evolution Sage
 - Ezuri, Renegade Leader
+- Flissa Sunslayer
 - Formidable Speaker
 - Fyndhorn Elves
 - Imperious Perfect
@@ -30,86 +32,78 @@
 - Leaf-Crowned Visionary
 - Llanowar Elves
 - Lys Alana Huntmaster
+- Maha, Its Feathers Night
 - Marwyn, the Nurturer
-- Miara, Thorn of the Glade
 - Morcant's Loyalist
 - Necroskitter
-- Pollenbright Druid
+- Poison-Tip Archer
 - Priest of Titania
-- Prowess of the Fair
-- Quirion Ranger
 - Reclamation Sage
 - Selfless Safewright
 - Shaman of the Pack
-- Timberwatch Elf
 - Virulent Emissary
-- Wirewood Symbiote
 - Wolverine Riders
 
-## Sorceries (7)
-- Black Sun's Zenith
+## Sorceries (9)
+- Bloodline Bidding
+- Demonic Tutor
 - Elvish Promenade
 - Exsanguinate
 - Green Sun's Zenith
 - Rampant Growth
+- Shamanic Revelation
 - Trystan's Command
-- Vat Emergence
-
-## Instants (3)
-- Atomize
-- Chord of Calling
 - Unnatural Restoration
 
-## Artifacts (8)
+## Instants (3)
+- Elven Ambush
+- Galadhrim Ambush
+- Heroic Intervention
+
+## Artifacts (6)
 - Arcane Signet
 - Chronicle of Victory
 - Coat of Arms
-- Contagion Clasp
-- Contagion Engine
 - Golgari Signet
-- Skullclamp
+- Lightning Greaves
 - Sol Ring
 
-## Enchantments (6)
+## Enchantments (9)
 - Blowfly Infestation
 - Crumbling Ashes
 - Doubling Season
+- Elderfang Venom
 - Flourishing Defenses
+- Guardian Project
 - Harald Unites the Elves
 - Parallel Lives
+- Prowess of the Fair
 
 ## Lands (36)
+- Abundant Countryside
 - Bojuka Bog
+- Boseiju, Who Endures
 - Command Tower
-- Darkbore Pathway
-- Deathcap Glade
-- Golgari Guildgate
-- Golgari Rot Farm
-- Ifnir Deadlands
-- Jungle Hollow
+- Gilt-Leaf Palace
+- Karn's Bastion
 - Llanowar Wastes
-- Necroblossom Snarl
-- Oran-Rief, the Vastwood
 - Overgrown Tomb
-- Path of Ancestry
-- Temple of Malady
-- Twilight Mire
-- Wirewood Lodge
-- Witherbloom Campus
+- Undergrowth Stadium
+- Urborg, Tomb of Yawgmoth
 - Woodland Cemetery
 - Yavimaya, Cradle of Growth
-- Forest x9
-- Swamp x8
+- Forest x12
+- Swamp x12
 
 ## Notes
 **Strategy:** This deck combines Elf tribal synergies with -1/-1 counter/proliferate themes. Morcant triggers blight on every Elf ETB, so the goal is to flood the board with Elves (via token generators like Lathril, Wolverine Riders, Elvish Promenade, Lys Alana Huntmaster) and then proliferate those counters to kill enemy creatures.
 
 **Key Synergies:**
 - Morcant + mass Elf token generation = mass blight triggers
-- Proliferate effects (Contagion Engine, Vraska, Grim Affliction) grow -1/-1 counters
+- Proliferate effects (Evolution Sage, Karn's Bastion) grow -1/-1 counters
 - Crumbling Ashes destroys creatures with -1/-1 counters each upkeep
 - Chronicle of Victory gives all Elves +2/+2, first strike, and trample
-- Skullclamp on 1/1 Elf tokens = massive card draw
+- Guardian Project / Beast Whisperer for card draw
 
 **Win Conditions:**
 - Overwhelm with pumped Elves (Coat of Arms, Ezuri, Chronicle of Victory)
