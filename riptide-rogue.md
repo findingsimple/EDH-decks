@@ -15,6 +15,7 @@
 - Goblin Electromancer
 - Gogo, Master of Mimicry
 - Guttersnipe
+- Hexing Squelcher
 - Hullbreaker Horror
 - Jori En, Ruin Diver
 - Kiln Fiend
@@ -54,7 +55,6 @@
 - Insidious Will
 - Izzet Charm
 - Lightning Bolt
-- Mana Leak
 - Mystic Confluence
 - Opt
 - Ponder
