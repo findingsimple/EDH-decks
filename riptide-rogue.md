@@ -6,7 +6,7 @@
 ## Planeswalkers (1)
 - Ral, Caller of Storms
 
-## Creatures (24)
+## Creatures (25)
 - Alania, Divergent Storm
 - Archmage Emeritus
 - Coruscation Mage
@@ -23,6 +23,7 @@
 - Mockingbird
 - Niv-Mizzet, Dracogenius
 - Niv-Mizzet, Parun
+- Niv-Mizzet, Visionary
 - Ovika, Enigma Goliath
 - Spellgorger Weird
 - Stormcatch Mentor
@@ -62,8 +63,7 @@
 - Teach by Example
 - Thunder Magic
 
-## Artifacts (7)
-- Core-Steel Cutter
+## Artifacts (6)
 - Izzet Signet
 - Lightning Greaves
 - Sol Ring
