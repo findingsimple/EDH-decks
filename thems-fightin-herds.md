@@ -33,13 +33,14 @@
 - Esper Sentinel
 - Summon: Ixion
 
-## Sorceries (6)
+## Sorceries (7)
 - Austere Command
 - Fumigate
 - Honor
 - Late to Dinner
 - Dusk // Dawn
 - Storm Herd
+- Idyllic Tutor
 
 ## Instants (8)
 - Akroma's Will
@@ -60,7 +61,7 @@
 - Swiftfoot Boots
 - Smuggler's Share
 
-## Enchantments (13)
+## Enchantments (12)
 - Angelic Destiny
 - Ashes of the Abhorrent
 - Authority of the Consuls
@@ -73,7 +74,6 @@
 - Sacred Mesa
 - Smothering Tithe
 - Super State
-- Idyllic Tutor
 
 ## Lands (36)
 - Ancient Tomb
