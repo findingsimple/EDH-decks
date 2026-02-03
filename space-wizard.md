@@ -20,9 +20,9 @@
 - Gorging Vulture
 - Kalakscion, Hunger Tyrant
 - Kokusho, the Evening Star
-- Lupine Prototype
 - Millikin
-- Nyxathid
+- Moonshadow
+- Oft-Nabbed Goat
 - Qarsi Revenant
 - Rot-Curse Rakshasa
 - Rotting Regisaur
@@ -30,11 +30,11 @@
 - Skeleton Crew
 - Stitcher's Supplier
 - Troll of Khazad-dum
+- Twilight Diviner
 - Umbral Collar Zealot
 - Undead Butler
 - Vile Entomber
 - Void Beckoner
-- Waning Wurm
 
 ## Sorceries (7)
 - Bone Shards
