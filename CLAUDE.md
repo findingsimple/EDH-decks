@@ -14,15 +14,15 @@ Each deck file (`*.md`) follows this structure:
 # Deck Name
 
 ## Commander
-Card Name
+- Card Name
 
 ## Planeswalkers (count)
-Card Name
-Card Name
+- Card Name
+- Card Name
 
 ## Creatures (count)
-Card Name
-Card Name
+- Card Name
+- Card Name
 
 ## Sorceries (count)
 ## Instants (count)
@@ -30,16 +30,16 @@ Card Name
 ## Enchantments (count)
 
 ## Lands (count)
-Named Land
-Named Land
-Basic Land xN
+- Named Land
+- Named Land
+- Basic Land xN
 
 ## Notes (optional)
 Strategy notes, upgrade ideas, etc.
 ```
 
 **Format rules:**
-- One card per line, no bullets or links
+- One card per line, using bullet points (`- Card Name`)
 - Section headers include card counts in parentheses
 - Basic lands use `Basic Land xN` format (e.g., `Swamp x12`)
 - Optional `## Notes` section for strategy/upgrade ideas
