@@ -9,21 +9,21 @@
 ## Creatures (36)
 - Abomination of Llanowar
 - Beast Whisperer
-- Canopy Tactician
+- Canopy Tactician (Proxy)
 - Champions of the Perfect
 - Circle of Dreams Druid
-- Craterhoof Behemoth
+- Craterhoof Behemoth (Proxy)
 - Dionus, Elvish Archdruid
 - Dwynen, Gilt-Leaf Daen
 - Dwynen's Elite
-- Elves of Deep Shadow
+- Elves of Deep Shadow (Proxy)
 - Elvish Archdruid
-- Elvish Champion
-- Elvish Harbinger
+- Elvish Champion (Proxy)
+- Elvish Harbinger (Proxy)
 - Elvish Mystic
 - Elvish Warmaster
 - Evolution Sage
-- Ezuri, Renegade Leader
+- Ezuri, Renegade Leader (Proxy)
 - Flissa Sunslayer
 - Formidable Speaker
 - Fyndhorn Elves
@@ -31,67 +31,66 @@
 - Lathril, Blade of the Elves
 - Leaf-Crowned Visionary
 - Llanowar Elves
-- Lys Alana Huntmaster
-- Maha, Its Feathers Night
+- Lys Alana Huntmaster (Proxy)
+- Maha, Its Feathers Night (Proxy)
 - Marwyn, the Nurturer
 - Morcant's Loyalist
 - Necroskitter
 - Poison-Tip Archer
-- Priest of Titania
+- Priest of Titania (Proxy)
 - Reclamation Sage
-- Selfless Safewright
-- Shaman of the Pack
+- Selfless Safewright (Proxy)
+- Shaman of the Pack (Proxy)
 - Virulent Emissary
 - Wolverine Riders
 
 ## Sorceries (9)
 - Bloodline Bidding
-- Demonic Tutor
-- Elvish Promenade
+- Demonic Tutor (Proxy)
+- Elvish Promenade (Proxy)
 - Exsanguinate
 - Green Sun's Zenith
 - Rampant Growth
 - Shamanic Revelation
 - Trystan's Command
-- Unnatural Restoration
+- Unnatural Restoration (Proxy)
 
 ## Instants (3)
-- Elven Ambush
-- Galadhrim Ambush
-- Heroic Intervention
+- Elven Ambush (Proxy)
+- Galadhrim Ambush (Proxy)
+- Heroic Intervention (Proxy)
 
 ## Artifacts (6)
 - Arcane Signet
 - Chronicle of Victory
 - Coat of Arms
 - Golgari Signet
-- Lightning Greaves
+- Lightning Greaves (Proxy)
 - Sol Ring
 
-## Enchantments (9)
+## Enchantments (8)
 - Blowfly Infestation
-- Crumbling Ashes
-- Doubling Season
+- Crumbling Ashes (Proxy)
+- Doubling Season (Proxy)
 - Elderfang Venom
 - Flourishing Defenses
-- Guardian Project
-- Harald Unites the Elves
-- Parallel Lives
-- Prowess of the Fair
+- Guardian Project (Proxy)
+- Parallel Lives (Proxy)
+- Prowess of the Fair (Proxy)
 
 ## Lands (36)
 - Abundant Countryside
-- Bojuka Bog
-- Boseiju, Who Endures
+- Bojuka Bog (Proxy)
+- Boseiju, Who Endures (Proxy)
 - Command Tower
-- Gilt-Leaf Palace
-- Karn's Bastion
-- Llanowar Wastes
+- Gilt-Leaf Palace (Proxy)
+- Karn's Bastion (Proxy)
+- Llanowar Wastes (Proxy)
 - Overgrown Tomb
-- Undergrowth Stadium
-- Urborg, Tomb of Yawgmoth
-- Woodland Cemetery
-- Yavimaya, Cradle of Growth
+- Undergrowth Stadium (Proxy)
+- Urborg, Tomb of Yawgmoth (Proxy)
+- Woodland Cemetery (Proxy)
+- Yavimaya, Cradle of Growth (Proxy)
 - Forest x12
 - Swamp x12
 
