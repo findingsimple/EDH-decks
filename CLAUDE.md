@@ -44,6 +44,10 @@ Strategy notes, upgrade ideas, etc.
 - Basic lands use `Basic Land xN` format (e.g., `Swamp x12`)
 - Optional `## Notes` section for strategy/upgrade ideas
 
+## Remember
+
+If you can't find a card or are not certain about any of the details - ask. Do not make assumptions about any details.
+
 ## Card Information
 
 Use the scryfall-local MCP server for looking up card information, finding cards by criteria, checking card legality, or any MTG-related queries.
