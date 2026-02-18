@@ -8,21 +8,21 @@
 
 ## Creatures (29)
 - Baird, Steward of Argive
-- Bloom Tender
+- Bloom Tender (Proxy)
 - Byrke, Long Ear of the Law
 - Chasm Skulker
-- Consecrated Sphinx
+- Consecrated Sphinx (Proxy)
 - Cosmogrand Zenith
-- Craterhoof Behemoth
-- Deepglow Skate
-- Elesh Norn, Mother of Machines
+- Craterhoof Behemoth (Proxy)
+- Deepglow Skate (Proxy)
+- Elesh Norn, Mother of Machines (Proxy)
 - Forgotten Ancient
 - Gluntch, the Bestower
 - Good-Fortune Unicorn
 - Heroes' Bane
 - Jolrael, Mwonvuli Recluse
 - Kalonian Hydra
-- Koma, Cosmos Serpent
+- Koma, Cosmos Serpent (Proxy)
 - Kwain, Itinerant Meddler
 - Loran of the Third Path
 - Managorger Hydra
@@ -39,20 +39,20 @@
 
 ## Instants (11)
 - Collective Resistance
-- Cyclonic Rift
-- Heroic Intervention
+- Cyclonic Rift (Proxy)
+- Heroic Intervention (Proxy)
 - Illusionist's Gambit
 - Mystic Confluence
 - Negate
 - Peerless Recycling
 - Perplexing Test
-- Pull from Tomorrow
+- Pull from Tomorrow (Proxy)
 - Swords to Plowshares
-- Teferi's Protection
+- Teferi's Protection (Proxy)
 
 ## Sorceries (6)
-- Approach of the Second Sun
-- Austere Command
+- Approach of the Second Sun (Proxy)
+- Austere Command (Proxy)
 - Cultivate
 - Farseek
 - Season of Gathering
@@ -60,28 +60,28 @@
 
 ## Artifacts (7)
 - Arcane Signet
-- Chromatic Lantern
-- Sensei's Divining Top
+- Chromatic Lantern (Proxy)
+- Sensei's Divining Top (Proxy)
 - Sol Ring
 - Swiftfoot Boots
-- The Great Henge
+- The Great Henge (Proxy)
 - Thought Vessel
 
 ## Enchantments (9)
 - Authority of the Consuls
-- Doubling Season
+- Doubling Season (Proxy)
 - Loading Zone
-- Mirari's Wake
-- Rhystic Study
+- Mirari's Wake (Proxy)
+- Rhystic Study (Proxy)
 - Rites of Flourishing
 - Simic Ascendancy
-- Smothering Tithe
-- Smuggler's Share
+- Smothering Tithe (Proxy)
+- Smuggler's Share (Proxy)
 
 ## Lands (36)
 - Adarkar Wastes
-- Alchemist's Refuge
-- Boseiju, Who Endures
+- Alchemist's Refuge (Proxy)
+- Boseiju, Who Endures (Proxy)
 - Breeding Pool
 - Brushland
 - Canopy Vista
@@ -89,7 +89,7 @@
 - Evolving Wilds
 - Exotic Orchard
 - Flooded Grove
-- Gavony Township
+- Gavony Township (Proxy)
 - Glacial Fortress
 - Hinterland Harbor
 - Misty Rainforest
@@ -99,7 +99,7 @@
 - Reliquary Tower
 - Seachrome Coast
 - Seaside Citadel
-- Spara's Headquarters
+- Spara's Headquarters (Proxy)
 - Sunpetal Grove
 - Thriving Isle
 - Yavimaya Coast
