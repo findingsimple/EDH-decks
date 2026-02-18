@@ -1,4 +1,4 @@
-# Them's Fightin' Herds
+# Pink Pony Club
 
 ## Commander
 - Thurid, Mare of Destiny
@@ -22,7 +22,7 @@
 - Regal Bunnicorn
 - Ronom Unicorn
 - Shepherd of the Clouds
-- Linvala, Keeper of Silence
+- Linvala, Keeper of Silence (Proxy)
 - Splendor Mare
 - Starnheim Courser
 - Steadfast Unicorn
@@ -43,25 +43,24 @@
 - Idyllic Tutor
 
 ## Instants (8)
-- Akroma's Will
-- Silence
+- Akroma's Will (Proxy)
+- Silence (Proxy)
 - Disenchant
-- Enlightened Tutor
-- Path to Exile
+- Enlightened Tutor (Proxy)
+- Path to Exile (Proxy)
 - Swords to Plowshares
-- Teferi's Protection
+- Teferi's Protection (Proxy)
 - You're Not Alone
 
-## Artifacts (7)
+## Artifacts (6)
 - Banner of Kinship
 - Heraldic Banner
 - Pearl Medallion
 - Spear of Heliod
 - Stormbeacon Blade
 - Swiftfoot Boots
-- Smuggler's Share
 
-## Enchantments (12)
+## Enchantments (13)
 - Angelic Destiny
 - Ashes of the Abhorrent
 - Authority of the Consuls
@@ -72,13 +71,14 @@
 - Land Tax
 - Oblivion Ring
 - Sacred Mesa
-- Smothering Tithe
+- Smothering Tithe (Proxy)
+- Smuggler's Share (Proxy)
 - Super State
 
 ## Lands (36)
-- Ancient Tomb
-- Emeria, the Sky Ruin
-- Serra's Sanctum
-- Rogue's Passage
-- War Room
+- Ancient Tomb (Proxy)
+- Emeria, the Sky Ruin (Proxy)
+- Serra's Sanctum (Proxy)
+- Rogue's Passage (Proxy)
+- War Room (Proxy)
 - Plains x31
