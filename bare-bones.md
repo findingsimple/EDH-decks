@@ -1,4 +1,4 @@
-# Space Wizard
+# Bare Bones
 
 ## Commander
 - Xu-Ifit, Osteoharmonist
@@ -17,7 +17,7 @@
 - Fell Gravship
 - Gisa, the Hellraiser
 - Gloomfang Mauler
-- Gorging Vulture
+- Phyrexian Soulgorger
 - Kalakscion, Hunger Tyrant
 - Kokusho, the Evening Star
 - Millikin
@@ -69,13 +69,13 @@
 - The Soul Stone
 - Thousand-Year Elixir
 - The Darkness Crystal
-- Zephyr Boots
+- Phyrexian Altar
 
 ## Enchantments (4)
 - Corpses of the Lost
 - Sothera, the Supervoid
 - The Sibsig Ceremony
-- Vampiric Rites
+- Ripples of Undeath
 
 ## Lands (38)
 - Ancient Tomb
@@ -93,9 +93,7 @@ Strategy: Reanimate "drawback creatures" as vanilla skeletons - they lose their 
 
 Upgrade ideas:
 - Phyrexian Tower
-- Phyrexian Altar
 - Phyrexian Dreadnought
-- Phyrexian Soulgorger
 - Desecration Elemental
 - Ghoulcaller Gisa
 - Shadowheart, Dark Justiciar
