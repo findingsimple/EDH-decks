@@ -3,7 +3,7 @@
 ## Commander
 - Cloud, Ex-SOLDIER
 
-## Creatures (24)
+## Creatures (22)
 - Adelbert Steiner
 - Barret Wallace
 - Barret, Avalanche Leader
@@ -17,8 +17,6 @@
 - Elspeth, Storm Slayer
 - Heidegger, Shinra Executive
 - Helitrooper
-- Hellkite Tyrant
-- Professional Face-Breaker
 - Professor Hojo
 - Puresteel Paladin
 - Red XIII, Proud Warrior
@@ -28,14 +26,13 @@
 - Yuffie, Materia Hunter
 - Zack Fair
 
-## Sorceries (11)
+## Sorceries (10)
 - Austere Command
 - Cultivate
 - Decimate
 - Harmonize
 - Nature's Lore
 - Rampant Growth
-- Secret Rendezvous
 - Ultimate Magic: Meteor
 - Unfinished Business
 - Vandalblast
@@ -50,7 +47,7 @@
 - Slash of Light
 - Ultimate Magic: Holy
 
-## Artifacts (21)
+## Artifacts (22)
 - Arcane Signet
 - Behemoth Sledge
 - Champion's Helm
@@ -65,6 +62,7 @@
 - Inspiring Statuary
 - Lightning Greaves
 - Mask of Memory
+- Samurai's Katana
 - Skullclamp
 - Sol Ring
 - Summoning Materia
