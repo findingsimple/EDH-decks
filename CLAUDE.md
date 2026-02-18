@@ -42,6 +42,7 @@ Strategy notes, upgrade ideas, etc.
 - One card per line, using bullet points (`- Card Name`)
 - Section headers include card counts in parentheses
 - Basic lands use `Basic Land xN` format (e.g., `Swamp x12`)
+- Proxy cards are indicated with `(Proxy)` after the card name (e.g., `- Craterhoof Behemoth (Proxy)`)
 - Optional `## Notes` section for strategy/upgrade ideas
 
 ## Remember
