@@ -9,7 +9,7 @@
 ## Creatures (36)
 - Abomination of Llanowar
 - Beast Whisperer
-- Canopy Tactician (Proxy)
+- Canopy Tactician
 - Champions of the Perfect
 - Circle of Dreams Druid
 - Craterhoof Behemoth (Proxy)
@@ -18,12 +18,12 @@
 - Dwynen's Elite
 - Elves of Deep Shadow (Proxy)
 - Elvish Archdruid
-- Elvish Champion (Proxy)
+- Elvish Champion
 - Elvish Harbinger (Proxy)
 - Elvish Mystic
 - Elvish Warmaster
 - Evolution Sage
-- Ezuri, Renegade Leader (Proxy)
+- Ezuri, Renegade Leader
 - Flissa Sunslayer
 - Formidable Speaker
 - Fyndhorn Elves
@@ -47,13 +47,13 @@
 ## Sorceries (9)
 - Bloodline Bidding
 - Demonic Tutor (Proxy)
-- Elvish Promenade (Proxy)
+- Elvish Promenade
 - Exsanguinate
 - Green Sun's Zenith
 - Rampant Growth
 - Shamanic Revelation
 - Trystan's Command
-- Unnatural Restoration (Proxy)
+- Unnatural Restoration
 
 ## Instants (3)
 - Elven Ambush (Proxy)
@@ -74,7 +74,7 @@
 - Doubling Season (Proxy)
 - Elderfang Venom
 - Flourishing Defenses
-- Guardian Project (Proxy)
+- Guardian Project
 - Parallel Lives (Proxy)
 - Prowess of the Fair (Proxy)
 
