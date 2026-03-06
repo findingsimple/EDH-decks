@@ -16,10 +16,10 @@
 - Dionus, Elvish Archdruid
 - Dwynen, Gilt-Leaf Daen
 - Dwynen's Elite
-- Elves of Deep Shadow (Proxy)
+- Elves of Deep Shadow
 - Elvish Archdruid
 - Elvish Champion
-- Elvish Harbinger (Proxy)
+- Elvish Harbinger
 - Elvish Mystic
 - Elvish Warmaster
 - Evolution Sage
@@ -57,7 +57,7 @@
 
 ## Instants (3)
 - Elven Ambush (Proxy)
-- Galadhrim Ambush (Proxy)
+- Galadhrim Ambush
 - Heroic Intervention (Proxy)
 
 ## Artifacts (6)
@@ -76,7 +76,7 @@
 - Flourishing Defenses
 - Guardian Project
 - Parallel Lives (Proxy)
-- Prowess of the Fair (Proxy)
+- Prowess of the Fair
 
 ## Lands (36)
 - Abundant Countryside
