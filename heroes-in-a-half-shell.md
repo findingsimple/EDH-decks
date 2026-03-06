@@ -4,74 +4,66 @@
 - Heroes in a Half Shell
 
 ## Creatures (32)
-
-### TMNT Characters (Precon)
 - April O'Neil, Live on the Scene
 - Baxter, Fly in the Ointment
 - Bebop, Skull & Crossbones
 - Casey Jones, Back Alley Brute
+- Corpsejack Menace
+- Dark Leo & Shredder (Proxy)
 - Donatello, the Brains
+- Genghis Frog (Proxy)
 - Irma, Part-Time Mutant
+- Karai, Future of the Foot (Proxy)
 - Leatherhead, Iron Gator
 - Leonardo, the Balance
+- Metallic Mimic (Proxy)
+- Michelangelo, On the Scene (Proxy)
 - Michelangelo, the Heart
+- Michelangelo, Weirdness to 11 (Proxy)
+- Mikey & Don, Party Planners (Proxy)
+- Mikey & Leo, Chaos & Order (Proxy)
+- Mikey & Mona, Mutant Sitters (Proxy)
+- Mutagen Man, Living Ooze (Proxy)
+- Raphael, Tag Team Tough (Proxy)
 - Raphael, the Muscle
+- Raphael, the Nightwatcher (Proxy)
 - Ray Fillet, Wave Warrior
 - Rocksteady, Mutant Marauder
 - Shredder, Shadow Master
+- Splinter & Leo, Father & Son (Proxy)
+- Splinter, Hamato Yoshi (Proxy)
+- Splinter, Radical Rat (Proxy)
 - Splinter, the Mentor
+- Super Shredder (Proxy)
 - Tokka & Rahzar, Unsupervised
-
-### TMNT Additions
-- Dark Leo & Shredder
-- Genghis Frog
-- Karai, Future of the Foot
-- Michelangelo, On the Scene
-- Michelangelo, Weirdness to 11
-- Mikey & Don, Party Planners
-- Mikey & Leo, Chaos & Order
-- Mikey & Mona, Mutant Sitters
-- Mutagen Man, Living Ooze
-- Raphael, Tag Team Tough
-- Raphael, the Nightwatcher
-- Splinter & Leo, Father & Son
-- Splinter, Hamato Yoshi
-- Splinter, Radical Rat
-- Super Shredder
-
-### Ninjas
-- Metallic Mimic
-
-### Counter Synergy
-- Corpsejack Menace
 
 ## Sorceries (7)
 - Cultivate
-- Farseek
-- Kodama's Reach
+- Farseek (Proxy)
+- Kodama's Reach (Proxy)
 - Lessons from Life
-- Nature's Lore
-- Study the Classics
+- Nature's Lore (Proxy)
+- Study the Classics (Proxy)
 - Wave Goodbye
 
 ## Instants (8)
 - Assassin's Trophy
 - Continue?
-- Flawless Maneuver
-- Heroic Intervention
+- Flawless Maneuver (Proxy)
+- Heroic Intervention (Proxy)
 - Shellshock
-- Swords to Plowshares
-- Teferi's Protection
-- Turtles Forever
+- Swords to Plowshares (Proxy)
+- Teferi's Protection (Proxy)
+- Turtles Forever (Proxy)
 
 ## Enchantments (8)
-- All Will Be One
-- Branching Evolution
-- Doubling Season
+- All Will Be One (Proxy)
+- Branching Evolution (Proxy)
+- Doubling Season (Proxy)
 - Endless Foot Assault
 - High Score
-- Rhythm of the Wild
-- Sphere Grid
+- Rhythm of the Wild (Proxy)
+- Sphere Grid (Proxy)
 - Together Forever
 
 ## Artifacts (7)
@@ -80,13 +72,12 @@
 - Chromatic Lantern
 - Foot Chopper
 - Sol Ring
-- The Ooze
-- The Ozolith
+- The Ooze (Proxy)
+- The Ozolith (Proxy)
 
 ## Lands (37)
-
-### Precon Lands
 - Ash Barrens
+- Cavern of Souls (Proxy)
 - Cinder Glade
 - City of Brass
 - Command Tower
@@ -96,25 +87,20 @@
 - Fabled Passage
 - Hidden Hideout
 - Hinterland Harbor
+- Mana Confluence (Proxy)
 - Path of Ancestry
+- Plaza of Heroes (Proxy)
+- Reflecting Pool (Proxy)
 - Rootbound Crag
+- Secluded Courtyard (Proxy)
 - Smoldering Marsh
 - Sodden Verdure
 - Spire Garden
 - Sunken Hollow
 - Turtle Lair
+- Unclaimed Territory (Proxy)
 - Undergrowth Stadium
 - Vernal Fen
-
-### Land Upgrades
-- Cavern of Souls
-- Mana Confluence
-- Plaza of Heroes
-- Reflecting Pool
-- Secluded Courtyard
-- Unclaimed Territory
-
-### Basics
 - Forest x3
 - Island x2
 - Mountain x2
