@@ -41,8 +41,8 @@
 - Cultivate
 - Farseek (Proxy)
 - Kodama's Reach (Proxy)
-- Lessons from Life
 - Nature's Lore (Proxy)
+- Splinter's Technique (Proxy)
 - Study the Classics (Proxy)
 - Wave Goodbye
 
@@ -61,38 +61,38 @@
 - Branching Evolution (Proxy)
 - Doubling Season (Proxy)
 - Endless Foot Assault
+- Hardened Scales (Proxy)
 - High Score
 - Rhythm of the Wild (Proxy)
 - Sphere Grid (Proxy)
-- Together Forever
 
 ## Artifacts (7)
 - Arcade Cabinet
 - Arcane Signet
 - Chromatic Lantern
-- Foot Chopper
+- Ozolith, the Shattered Spire (Proxy)
 - Sol Ring
 - The Ooze (Proxy)
 - The Ozolith (Proxy)
 
 ## Lands (37)
-- Ash Barrens
+- Bountiful Promenade (Proxy)
 - Cavern of Souls (Proxy)
 - Cinder Glade
 - City of Brass
 - Command Tower
-- Dragonskull Summit
-- Escape Tunnel
 - Exotic Orchard
 - Fabled Passage
-- Hidden Hideout
-- Hinterland Harbor
+- Godless Shrine (Proxy)
+- Luxury Suite (Proxy)
 - Mana Confluence (Proxy)
 - Path of Ancestry
 - Plaza of Heroes (Proxy)
 - Reflecting Pool (Proxy)
-- Rootbound Crag
+- Sacred Foundry (Proxy)
+- Sea of Clouds (Proxy)
 - Secluded Courtyard (Proxy)
+- Steam Vents (Proxy)
 - Smoldering Marsh
 - Sodden Verdure
 - Spire Garden
@@ -112,9 +112,10 @@
 ### Strategy
 Swing with Mutants, Ninjas, and Turtles to trigger Heroes in a Half Shell's
 combat damage ability -- drawing cards and growing your board with +1/+1 counters
-each combat. The deck snowballs quickly: counter doublers (Corpsejack Menace,
-Branching Evolution, Doubling Season, Michelangelo Weirdness to 11, High Score)
-stack multiplicatively, while evasion enablers (Baxter, Sphere Grid, Splinter
+each combat. The deck snowballs quickly: counter doublers (Hardened Scales,
+Ozolith the Shattered Spire, Corpsejack Menace, Branching Evolution, Doubling
+Season, Michelangelo Weirdness to 11, High Score) stack multiplicatively, while
+evasion enablers (Baxter, Sphere Grid, Splinter
 Radical Rat) ensure your creatures keep connecting. All Will Be One converts
 counter placement into direct damage, threatening kills without needing to attack.
 
@@ -125,10 +126,11 @@ counter placement into direct damage, threatening kills without needing to attac
   Ninja tokens. Splinter, Radical Rat doubles all Ninja triggered abilities and
   makes any Ninja unblockable for {1}{U}. Metallic Mimic (naming Ninja) gives
   each Ninja an extra +1/+1 counter on entry.
-- **Counter doublers**: Corpsejack Menace + Branching Evolution + Doubling Season
-  + Michelangelo Weirdness to 11 + High Score all stack multiplicatively. A single
-  +1/+1 counter from the commander becomes 10+ with just a few of these out.
-  Michelangelo W2E is Hardened Scales on a Mutant Ninja Turtle body.
+- **Counter doublers**: Hardened Scales + Ozolith the Shattered Spire + Corpsejack
+  Menace + Branching Evolution + Doubling Season + Michelangelo Weirdness to 11 +
+  High Score all stack multiplicatively. A single +1/+1 counter from the commander
+  becomes absurd with just a few of these out. Eight total counter-amplifying effects
+  means you'll almost always have at least one online.
 - **All Will Be One**: Converts every counter placement into direct damage to any
   target. With counter doublers stacking, a single combat can deal 20+ damage
   directly, threatening kills without creatures needing to connect again.
@@ -157,8 +159,9 @@ counter placement into direct damage, threatening kills without needing to attac
 - **Turtles Forever**: Tutor for 4 legendary TMNT characters, keep 2. Finds
   whatever you need from 20+ legends in the deck.
 
-### Upgrades (38 cards to buy)
+### Upgrades (47 cards to buy)
 - All Will Be One
+- Bountiful Promenade
 - Branching Evolution
 - Cavern of Souls
 - Dark Leo & Shredder
@@ -166,9 +169,12 @@ counter placement into direct damage, threatening kills without needing to attac
 - Farseek
 - Flawless Maneuver
 - Genghis Frog
+- Godless Shrine
+- Hardened Scales
 - Heroic Intervention
 - Karai, Future of the Foot
 - Kodama's Reach
+- Luxury Suite
 - Mana Confluence
 - Metallic Mimic
 - Michelangelo, On the Scene
@@ -178,16 +184,21 @@ counter placement into direct damage, threatening kills without needing to attac
 - Mikey & Mona, Mutant Sitters
 - Mutagen Man, Living Ooze
 - Nature's Lore
+- Ozolith, the Shattered Spire
 - Plaza of Heroes
 - Raphael, Tag Team Tough
 - Raphael, the Nightwatcher
 - Reflecting Pool
 - Rhythm of the Wild
+- Sacred Foundry
+- Sea of Clouds
 - Secluded Courtyard
 - Sphere Grid
+- Splinter's Technique
 - Splinter & Leo, Father & Son
 - Splinter, Hamato Yoshi
 - Splinter, Radical Rat
+- Steam Vents
 - Study the Classics
 - Super Shredder
 - Swords to Plowshares
@@ -197,8 +208,9 @@ counter placement into direct damage, threatening kills without needing to attac
 - Turtles Forever
 - Unclaimed Territory
 
-### Cards to Remove from Precon (38 cards + 1 basic swap)
+### Cards to Remove from Precon (47 cards + 1 basic swap)
 - Acidic Slime
+- Ash Barrens
 - Big Apple, 3 a.m.
 - Big Mother Mouser
 - Biogenic Ooze
@@ -206,16 +218,22 @@ counter placement into direct damage, threatening kills without needing to attac
 - Coin of Mastery
 - Dimension X Pizzasaur
 - Double Jump // Flying Kick
+- Dragonskull Summit
 - Electric Seaweed
+- Escape Tunnel
 - Everything Pizza
 - Evolving Wilds
 - Exploding Barrel
 - Fast Forward
+- Foot Chopper
 - Game Over
 - Grand Coliseum
 - Harmonize
 - Here Comes a New Hero!
+- Hidden Hideout
+- Hinterland Harbor
 - Krang, the All-Powerful
+- Lessons from Life
 - Level Up
 - Lita, Little Orphan Amphibian
 - Mole Module
@@ -224,6 +242,7 @@ counter placement into direct damage, threatening kills without needing to attac
 - Rain-Slicked Copse
 - Rat King, Pale Piper
 - Roadkill Rodney
+- Rootbound Crag
 - Special Move
 - Steelbane Hydra
 - Super Combo
@@ -232,6 +251,7 @@ counter placement into direct damage, threatening kills without needing to attac
 - Thriving Grove
 - Thriving Isle
 - Thriving Moor
+- Together Forever
 - Vanquish the Horde
 - Vibrant Cityscape
 - Vigor
@@ -251,10 +271,12 @@ any single oppressive card.
 - Super Shredder (grows very quickly)
 - Splinter, Radical Rat (doubles Ninja triggers, grants unblockable)
 - Raphael, the Nightwatcher (double strike for entire team)
-- Stacking counter doublers (Corpsejack + Branching Evolution + Doubling Season + Michelangelo W2E)
+- Splinter's Technique (unconditional tutor, 2 mana with Sneak)
+- Eight stacking counter doublers (Hardened Scales, Ozolith the Shattered Spire,
+  Corpsejack, Branching Evolution, Doubling Season, Michelangelo W2E, High Score)
 
 **What keeps it from going higher:**
-- No tutors beyond Turtles Forever (which gives opponent the choice)
+- Splinter's Technique is the only unconditional tutor, and requires bouncing an unblocked attacker to be efficient
 - No infinite combos or instant-win lines
 - Requires creatures to stick AND connect to generate value
 - Vulnerable to board wipes
