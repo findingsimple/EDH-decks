@@ -18,14 +18,14 @@
 - Fallen Angel
 - Gisela, Blade of Goldnight
 - Lathliss, Dragon Queen
+- Liesa, Forgotten Archangel
 - Lightkeeper of Emeria
 - Lyra Dawnbringer
 - Malfegor
 - Mana-Charged Dragon
-- Mother of Runes
-- Liesa, Forgotten Archangel
-- Oros, the Avenger
 - Master of Cruelties
+- Mother of Runes
+- Oros, the Avenger
 - Reiver Demon
 - Serra Angel
 - Shattered Angel
@@ -92,3 +92,20 @@
 - Mountain x8
 - Plains x8
 - Swamp x8
+
+## Notes
+**Strategy:** Attack with Kaalia to cheat Angels, Demons, and Dragons directly from hand onto the battlefield. Protect Kaalia with Lightning Greaves and Swiftfoot Boots, then overwhelm with high-impact creatures that would normally cost 6-8 mana.
+
+**Key Synergies:**
+- Kaalia + Aurelia, the Warleader = two attack triggers, two free creatures per turn
+- Kaalia + Master of Cruelties = instant kill on an unblocked opponent
+- Gisela, Blade of Goldnight doubles your damage and halves incoming damage
+- Avacyn, Angel of Hope makes your board indestructible
+- Anger in the graveyard gives everything haste
+- Vow cycle (Duty/Lightning/Malice) locks down opponents' creatures while buffing them politically
+
+**Win Conditions:**
+- Kaalia cheating in massive threats ahead of curve
+- Master of Cruelties setting an opponent to 1 life, then Kaalia's combat damage finishes them
+- Aurelia enabling double combat for lethal damage
+- Overwhelming board presence with evasive flyers

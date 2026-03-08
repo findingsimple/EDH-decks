@@ -6,7 +6,7 @@
 ## Planeswalkers (1)
 - Ral, Caller of Storms
 
-## Creatures (25)
+## Creatures (26)
 - Alania, Divergent Storm
 - Archmage Emeritus
 - Coruscation Mage
@@ -41,7 +41,7 @@
 - Rite of Replication
 - Suplex
 
-## Instants (21)
+## Instants (20)
 - Abrade
 - An Offer You Can't Refuse
 - Brainstorm
@@ -93,3 +93,20 @@
 - Terramorphic Expanse
 - Island x12
 - Mountain x12
+
+## Notes
+**Strategy:** Cast cheap instants and sorceries to trigger prowess across your entire board (courtesy of Bria) while making creatures unblockable. Chain spells together for massive damage turns with creatures that grow and can't be blocked.
+
+**Key Synergies:**
+- Bria + any noncreature spell = all creatures get prowess AND one becomes unblockable
+- Guttersnipe / Firebrand Archer deal direct damage on every spell cast
+- Thousand Year Storm copies spells exponentially on big turns
+- Niv-Mizzet, Parun draws cards and pings on every instant/sorcery (yours and opponents')
+- Archmage Emeritus draws a card on every spell, fuelling longer chains
+- Young Pyromancer / Ovika create tokens that also benefit from prowess
+
+**Win Conditions:**
+- Prowess-pumped unblockable attackers for lethal combat damage
+- Guttersnipe / Firebrand Archer pinging opponents to death through spell chains
+- Thousand Year Storm copying burn spells or Rite of Replication for explosive turns
+- Hullbreaker Horror locking down the board while bouncing threats

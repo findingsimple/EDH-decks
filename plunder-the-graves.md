@@ -88,5 +88,23 @@
 - Terramorphic Expanse
 - Vivid Grove
 - Vivid Marsh
-- Swamp x12
+- Swamp x13
 - Forest x12
+
+## Notes
+**Strategy:** Sacrifice creatures for value, then use Meren's end step trigger to reanimate them. Each creature death earns an experience counter, and once you have enough counters Meren brings creatures back directly to the battlefield instead of hand.
+
+**Key Synergies:**
+- Meren + Sakura-Tribe Elder = free ramp every turn
+- Meren + Eternal Witness = recur any card from graveyard repeatedly
+- Skullclamp + small creatures / tokens = card draw engine
+- Butcher of Malakir / Mazirek turn your sacrifices into opponent pain
+- Mycoloth devours creatures for tokens, which feed more sacrifice loops
+- Jarad, Golgari Lich Lord flings large creatures at all opponents
+
+**Win Conditions:**
+- Overwhelming board presence through repeated reanimation
+- Pathbreaker Ibex / Overwhelming Stampede for lethal overrun
+- Jarad flinging large creatures (Centaur Vinecrasher, Vulturous Zombie)
+- Kessig Cagebreakers creating massive Wolf token swarms
+- Eldrazi Monument making your recurring board indestructible and evasive

@@ -13,16 +13,15 @@
 - Death's Shadow
 - Disciple of Bolas
 - Doom Weaver
-- Entropic Battlecruiser
 - Fell Gravship
 - Gisa, the Hellraiser
 - Gloomfang Mauler
-- Phyrexian Soulgorger
 - Kalakscion, Hunger Tyrant
 - Kokusho, the Evening Star
 - Millikin
 - Moonshadow
 - Oft-Nabbed Goat
+- Phyrexian Soulgorger
 - Qarsi Revenant
 - Rot-Curse Rakshasa
 - Rotting Regisaur
@@ -55,27 +54,28 @@
 - Reckoner's Bargain
 - Sheoldred's Edict
 
-## Artifacts (14)
+## Artifacts (15)
 - Altar of Dementia
 - Conjurer's Closet
+- Entropic Battlecruiser
 - Jet Medallion
 - Lightning Greaves
 - Magewright's Stone
 - Mask of Griselbrand
 - Mind Stone
+- Phyrexian Altar
 - Sol Ring
 - Staff of Domination
 - Swiftfoot Boots
+- The Darkness Crystal
 - The Soul Stone
 - Thousand-Year Elixir
-- The Darkness Crystal
-- Phyrexian Altar
 
 ## Enchantments (4)
 - Corpses of the Lost
+- Ripples of Undeath
 - Sothera, the Supervoid
 - The Sibsig Ceremony
-- Ripples of Undeath
 
 ## Lands (38)
 - Ancient Tomb

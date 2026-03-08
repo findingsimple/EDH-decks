@@ -5,14 +5,15 @@
 
 ## Creatures (22)
 - Adelbert Steiner
-- Barret Wallace
+- Amy Rose
 - Barret, Avalanche Leader
+- Barret Wallace
 - Bastion Protector
 - Bugenhagen, Wise Elder
 - Cait Sith, Fortune Teller
 - Cid, Freeflier Pilot
-- Cloud, Planet's Champion
 - Cloud, Midgar Mercenary
+- Cloud, Planet's Champion
 - Elena, Turk Recruit
 - Elspeth, Storm Slayer
 - Heidegger, Shinra Executive
@@ -83,8 +84,8 @@
 - Cinder Glade
 - Clifftop Retreat
 - Command Tower
-- Exotic Orchard
 - Evolving Wilds
+- Exotic Orchard
 - Fire-Lit Thicket
 - Fortified Village
 - Furycalm Snarl
@@ -106,3 +107,20 @@
 - Mountain x3
 - Plains x3
 - Forest x3
+
+## Notes
+**Strategy:** Suit up Cloud and other creatures with Equipment, then attack to draw cards and generate Treasures. Cloud draws a card for each equipped attacker and creates Treasures when he hits 7+ power, so the deck snowballs once it gets rolling.
+
+**Key Synergies:**
+- Cloud + Colossus Hammer/Ultima Weapon = 7+ power for Treasure generation
+- Puresteel Paladin + multiple Equipment = free equip costs and card draw
+- Inspiring Statuary lets Equipment tap for mana via improvise
+- Hero's Blade auto-attaches to Cloud (legendary) for free
+- Lightning Greaves/Swiftfoot Boots protect Cloud while enabling immediate attacks
+- Sephiroth, Fallen Hero and other FF characters provide thematic support
+
+**Win Conditions:**
+- Voltron commander damage with heavily equipped Cloud
+- Card advantage from Cloud's attack trigger fuelling more Equipment
+- Treasure ramp accelerating into multiple equipped attackers
+- Vanquish the Horde / Austere Command to reset the board when behind

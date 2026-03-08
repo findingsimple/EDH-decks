@@ -92,10 +92,10 @@
 - Sacred Foundry (Proxy)
 - Sea of Clouds (Proxy)
 - Secluded Courtyard (Proxy)
-- Steam Vents (Proxy)
 - Smoldering Marsh
 - Sodden Verdure
 - Spire Garden
+- Steam Vents (Proxy)
 - Sunken Hollow
 - Turtle Lair
 - Unclaimed Territory (Proxy)

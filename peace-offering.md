@@ -106,3 +106,20 @@
 - Forest x4
 - Island x4
 - Plains x4
+
+## Notes
+**Strategy:** Group hug shell hiding a counter-based wincon. Ms. Bumbleflower gives opponents cards (keeping you politically safe) while growing your creatures with +1/+1 counters on every spell cast. On the second spell each turn she draws you two cards, so you pull ahead despite the gifts.
+
+**Key Synergies:**
+- Ms. Bumbleflower + double-spell turns = opponents get cards, you get counters AND 2 extra draws
+- Doubling Season / Deepglow Skate amplify +1/+1 counters and planeswalker loyalty
+- Kalonian Hydra / Managorger Hydra grow explosively with counter support
+- Elesh Norn, Mother of Machines doubles all your ETB triggers
+- Smothering Tithe / Rhystic Study / Smuggler's Share tax opponents drawing extra cards from Bumbleflower
+- Simic Ascendancy wins the game when it hits 20 growth counters
+
+**Win Conditions:**
+- Simic Ascendancy reaching 20 growth counters (fast with Doubling Season)
+- Approach of the Second Sun (card draw makes finding it twice easy)
+- Craterhoof Behemoth overrun with counter-grown creatures
+- Triskaidekaphile with 13+ cards in hand
