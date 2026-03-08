@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Repository Purpose
 
-This repository contains Magic: The Gathering EDH (Commander) decklists for a family's collection. Each deck is stored as a Markdown file.
+This repository contains Magic: The Gathering EDH (Commander) decklists for a family's collection. Each deck is stored as a Markdown file in the root directory. Decks in the `wip/` directory are works in progress and may be incomplete or not yet finalized.
 
 ## Deck File Format
 
