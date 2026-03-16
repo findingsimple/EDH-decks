@@ -16,8 +16,7 @@
 - Esper Sentinel
 - Guardian Sunmare (Proxy)
 - Keleth, Sunmane Familiar
-- Linden, the Steadfast Queen
-- Linvala, Keeper of Silence (Proxy)
+- Mondrak, Glory Dominus (Proxy)
 - Loyal Unicorn
 - Mesa Unicorn
 - Nyxborn Unicorn
@@ -30,6 +29,7 @@
 - Starnheim Courser
 - Steadfast Unicorn
 - Summon: Ixion
+- Sun Titan (Proxy)
 - Sungrace Pegasus
 - Trusted Pegasus
 
@@ -42,30 +42,29 @@
 - Late to Dinner
 - Storm Herd
 
-## Instants (8)
+## Instants (7)
 - Akroma's Will (Proxy)
 - Disenchant
 - Enlightened Tutor (Proxy)
 - Path to Exile (Proxy)
-- Silence (Proxy)
 - Swords to Plowshares
 - Teferi's Protection (Proxy)
-- You're Not Alone
+- Unbreakable Formation (Proxy)
 
-## Artifacts (6)
+## Artifacts (5)
 - Banner of Kinship
 - Heraldic Banner
 - Pearl Medallion
 - Spear of Heliod
-- Stormbeacon Blade
 - Swiftfoot Boots
 
-## Enchantments (13)
+## Enchantments (15)
 - Angelic Destiny
-- Ashes of the Abhorrent
+- Anointed Procession (Proxy)
 - Authority of the Consuls
 - Blessed Sanctuary
 - Caretaker's Talent
+- Ethereal Armor (Proxy)
 - Felidar Retreat
 - Journey to Nowhere
 - Land Tax
@@ -74,6 +73,7 @@
 - Smothering Tithe (Proxy)
 - Smuggler's Share (Proxy)
 - Super State
+- Tocasia's Welcome (Proxy)
 
 ## Lands (36)
 - Ancient Tomb (Proxy)
