@@ -73,7 +73,7 @@
 - Smothering Tithe (Proxy)
 - Smuggler's Share (Proxy)
 - Super State
-- Tocasia's Welcome (Proxy)
+- Tocasia's Welcome
 
 ## Lands (36)
 - Ancient Tomb (Proxy)
