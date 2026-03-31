@@ -16,3 +16,16 @@ Our family's EDH / Commander decklists. Each deck is stored as a Markdown file w
 | 🌊 [Riptide Rogue](riptide-rogue.md) | Bria, Riptide Rogue | UR | Chain spells to pump your whole team with prowess and sneak through unblocked |
 | 🐢 [Turtle Power](turtle-power.md) | Heroes in a Half Shell | WUBRG | TMNT tribal with +1/+1 counter doublers that snowball out of control |
 | 🐉 [The Ur-Dragon](ur-dragon.md) | The Ur-Dragon | WUBRG | Discount Dragons from the command zone, attack to draw cards and cheat permanents in |
+
+## Bar Decks
+
+I'm interested in building some [Bar Decks](https://edhrec.com/articles/can-bar-decks-fix-the-hassle-and-complexity-of-commander) — simplified Commander decks designed to be played in casual settings like a bar or restaurant.
+
+**Bar Deck rules:**
+
+- No counters
+- No tokens
+- No double-faced cards
+- No designations that require cards or reminders (The Monarch, The Initiative, The Ring, etc.)
+- No searching for cards (except maybe basic lands)
+- Only cards you don't mind falling on the floor or having a food/drink touching them
