@@ -3,7 +3,7 @@
 ## Commander
 - Alela, Cunning Conqueror
 
-## Creatures (22)
+## Creatures (21)
 - Archmage of Echoes
 - Blightwing Bandit
 - Brazen Borrower
@@ -25,12 +25,11 @@
 - Spellstutter Sprite
 - Talion, the Kindly Lord
 - Tegwyll, Duke of Splendor
-- Wavebreak Hippocamp
 
-## Instants (23)
+## Instants (22)
 - An Offer You Can't Refuse
 - Arcane Denial
-- Consider
+- Brainstorm
 - Counterspell
 - Countersquall
 - Cyclonic Rift
@@ -48,32 +47,32 @@
 - Rapid Hybridization
 - Reality Shift
 - Sink into Stupor // Soporific Springs
-- Snap
 - Swan Song
 - Fact or Fiction
 
 ## Sorceries (5)
-- Distant Melody
+- Candlekeep Inspiration
 - Kindred Dominance
 - Notorious Throng
 - Raise the Palisade
 - Toxic Deluge
 
-## Artifacts (7)
+## Artifacts (10)
 - Arcane Signet
+- Bident of Thassa
 - Dimir Signet
+- Lightning Greaves
 - Sapphire Medallion
 - Skullclamp
 - Sol Ring
 - Talisman of Dominance
 - Thought Vessel
+- Throne of the God-Pharaoh
 
-## Enchantments (7)
-- Bident of Thassa
+## Enchantments (5)
 - Bitterblossom
 - Kindred Discovery
 - Leyline of Anticipation
-- Reconnaissance Mission
 - Reflections of Littjara
 - Rhystic Study
 
@@ -107,15 +106,14 @@
 Strategy: Hold up mana, cast instants and flash creatures on opponents' turns to generate Faerie tokens. Goad opponents' creatures to keep them fighting each other while you build an evasive flying army.
 
 Key combos:
-- Alela + any instant = free Faerie token
+- Alela + first spell on each opponent's turn = free Faerie token
 - Obyra + Faerie tokens = drain all opponents
 - Mistbind Clique = tap out an opponent during upkeep
 - Kindred Discovery + Faeries = massive card draw (careful of decking yourself)
-- Archmage of Echoes + Faerie spells = double your board
+- Archmage of Echoes + Faerie/Wizard permanent spells = copy as token
 - Faerie Mastermind + wheel effects or Rhystic Study = massive draw
 - Bitterblossom = free Faerie token every upkeep for Obyra triggers
 - Skullclamp + 1/1 Faerie tokens = draw 2 cards each
-- Wavebreak Hippocamp + flash spells = draw on each opponent's turn
 - Kindred Dominance / Raise the Palisade = one-sided wipes naming Faeries
 - Notorious Throng = extra turn + Faerie tokens after combat damage with Rogues
 - Cyclonic Rift overload = clear the way for a lethal alpha strike
