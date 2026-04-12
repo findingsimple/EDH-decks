@@ -14,9 +14,9 @@
 - Diamond Mare
 - Emiel the Blessed
 - Esper Sentinel
-- Guardian Sunmare (Proxy)
+- Guardian Sunmare
 - Keleth, Sunmane Familiar
-- Mondrak, Glory Dominus (Proxy)
+- Mondrak, Glory Dominus
 - Loyal Unicorn
 - Mesa Unicorn
 - Nyxborn Unicorn
@@ -29,7 +29,7 @@
 - Starnheim Courser
 - Steadfast Unicorn
 - Summon: Ixion
-- Sun Titan (Proxy)
+- Sun Titan
 - Sungrace Pegasus
 - Trusted Pegasus
 
@@ -46,7 +46,7 @@
 - Akroma's Will (Proxy)
 - Disenchant
 - Enlightened Tutor (Proxy)
-- Path to Exile (Proxy)
+- Path to Exile
 - Swords to Plowshares
 - Teferi's Protection (Proxy)
 - Unbreakable Formation (Proxy)
@@ -64,7 +64,7 @@
 - Authority of the Consuls
 - Blessed Sanctuary
 - Caretaker's Talent
-- Ethereal Armor (Proxy)
+- Ethereal Armor
 - Felidar Retreat
 - Journey to Nowhere
 - Land Tax
