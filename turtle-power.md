@@ -16,17 +16,17 @@
 - Karai, Future of the Foot (Proxy)
 - Leatherhead, Iron Gator
 - Leonardo, the Balance
-- Metallic Mimic (Proxy)
+- Metallic Mimic
 - Michelangelo, On the Scene (Proxy)
 - Michelangelo, the Heart
-- Michelangelo, Weirdness to 11 (Proxy)
-- Mikey & Don, Party Planners (Proxy)
+- Michelangelo, Weirdness to 11
+- Mikey & Don, Party Planners
 - Mikey & Leo, Chaos & Order (Proxy)
 - Mikey & Mona, Mutant Sitters (Proxy)
 - Mutagen Man, Living Ooze (Proxy)
 - Raphael, Tag Team Tough (Proxy)
 - Raphael, the Muscle
-- Raphael, the Nightwatcher (Proxy)
+- Raphael, the Nightwatcher
 - Ray Fillet, Wave Warrior
 - Rocksteady, Mutant Marauder
 - Shredder, Shadow Master
@@ -42,7 +42,7 @@
 - Farseek (Proxy)
 - Kodama's Reach (Proxy)
 - Nature's Lore (Proxy)
-- Splinter's Technique (Proxy)
+- Splinter's Technique
 - Study the Classics (Proxy)
 - Wave Goodbye
 
@@ -54,12 +54,12 @@
 - Shellshock
 - Swords to Plowshares (Proxy)
 - Teferi's Protection (Proxy)
-- Turtles Forever (Proxy)
+- Turtles Forever
 
 ## Enchantments (8)
-- All Will Be One (Proxy)
+- All Will Be One
 - Branching Evolution (Proxy)
-- Doubling Season (Proxy)
+- Doubling Season
 - Endless Foot Assault
 - Hardened Scales (Proxy)
 - High Score
@@ -72,7 +72,7 @@
 - Chromatic Lantern
 - Ozolith, the Shattered Spire (Proxy)
 - Sol Ring
-- The Ooze (Proxy)
+- The Ooze
 - The Ozolith (Proxy)
 
 ## Lands (37)
