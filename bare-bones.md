@@ -18,7 +18,7 @@
 - Gloomfang Mauler
 - Kalakscion, Hunger Tyrant
 - Kokusho, the Evening Star
-- Millikin
+- Ghoulcaller Gisa
 - Moonshadow
 - Oft-Nabbed Goat
 - Phyrexian Soulgorger
@@ -95,5 +95,4 @@ Upgrade ideas:
 - Phyrexian Tower
 - Phyrexian Dreadnought
 - Desecration Elemental
-- Ghoulcaller Gisa
 - Shadowheart, Dark Justiciar
