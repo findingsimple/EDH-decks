@@ -8,7 +8,7 @@
 
 ## Creatures (29)
 - Baird, Steward of Argive
-- Bloom Tender (Proxy)
+- Bloom Tender
 - Byrke, Long Ear of the Law
 - Chasm Skulker
 - Consecrated Sphinx (Proxy)
