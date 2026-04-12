@@ -31,16 +31,16 @@
 - Lathril, Blade of the Elves
 - Leaf-Crowned Visionary
 - Llanowar Elves
-- Lys Alana Huntmaster (Proxy)
+- Lys Alana Huntmaster
 - Maha, Its Feathers Night (Proxy)
 - Marwyn, the Nurturer
 - Morcant's Loyalist
 - Necroskitter
 - Poison-Tip Archer
-- Priest of Titania (Proxy)
+- Priest of Titania
 - Reclamation Sage
-- Selfless Safewright (Proxy)
-- Shaman of the Pack (Proxy)
+- Selfless Safewright
+- Shaman of the Pack
 - Virulent Emissary
 - Wolverine Riders
 
@@ -70,7 +70,7 @@
 
 ## Enchantments (8)
 - Blowfly Infestation
-- Crumbling Ashes (Proxy)
+- Crumbling Ashes
 - Doubling Season (Proxy)
 - Elderfang Venom
 - Flourishing Defenses
