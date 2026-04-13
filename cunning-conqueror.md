@@ -1,35 +1,35 @@
 # Cunning Conqueror
 
 ## Commander
-- Alela, Cunning Conqueror
+- Alela, Cunning Conqueror ✅
 
 ## Creatures (21)
 - Archmage of Echoes
 - Blightwing Bandit
-- Brazen Borrower
-- Enduring Curiosity
+- Brazen Borrower ✅
+- Enduring Curiosity ✅
 - Faerie Bladecrafter
 - Faerie Harbinger
 - Faerie Mastermind
 - Glen Elendra Archmage
-- High Fae Trickster
+- High Fae Trickster ✅
 - Malleable Impostor
 - Mistbind Clique
 - Notion Thief
 - Nymris, Oona's Trickster
 - Obyra, Dreaming Duelist
 - Oona's Blackguard
-- Rankle, Master of Pranks
-- Scion of Oona
+- Rankle, Master of Pranks ✅
+- Scion of Oona ✅
 - Sower of Temptation
-- Spellstutter Sprite
+- Spellstutter Sprite ✅
 - Talion, the Kindly Lord
 - Tegwyll, Duke of Splendor
 
 ## Instants (22)
-- An Offer You Can't Refuse
+- An Offer You Can't Refuse ✅
 - Arcane Denial
-- Brainstorm
+- Brainstorm ✅
 - Counterspell
 - Countersquall
 - Cyclonic Rift
@@ -42,7 +42,7 @@
 - Infernal Grasp
 - Mana Drain
 - Narset's Reversal
-- Negate
+- Negate ✅
 - Pongify
 - Rapid Hybridization
 - Reality Shift
@@ -52,13 +52,13 @@
 
 ## Sorceries (5)
 - Candlekeep Inspiration
-- Kindred Dominance
-- Notorious Throng
+- Kindred Dominance ✅
+- Notorious Throng ✅
 - Raise the Palisade
 - Toxic Deluge
 
 ## Artifacts (10)
-- Arcane Signet
+- Arcane Signet ✅
 - Bident of Thassa
 - Dimir Signet
 - Lightning Greaves
@@ -70,7 +70,7 @@
 - Throne of the God-Pharaoh
 
 ## Enchantments (5)
-- Bitterblossom
+- Bitterblossom ✅
 - Kindred Discovery
 - Leyline of Anticipation
 - Reflections of Littjara
@@ -92,7 +92,7 @@
 - Path of Ancestry
 - Polluted Delta
 - Reliquary Tower
-- Secluded Glen
+- Secluded Glen ✅
 - Shipwreck Marsh
 - Sunken Hollow
 - Tainted Isle
@@ -122,3 +122,10 @@ Upgrade ideas:
 - Tetsuko Umezawa, Fugitive (makes 1/1 tokens unblockable)
 - Cover of Darkness (fear for all Faeries)
 - Opposition (tap down opponents with tokens)
+
+Other possible cards
+- Swiftfoot Boots ✅
+- Opt ✅
+- Flitterwing Nuisance ✅
+- Glen Elendra's Answer ✅
+- Glen Elendra Liege ✅
