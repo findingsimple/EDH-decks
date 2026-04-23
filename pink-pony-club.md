@@ -43,13 +43,13 @@
 - Storm Herd
 
 ## Instants (7)
-- Akroma's Will (Proxy)
+- Akroma's Will
 - Disenchant
+- Erode
 - Enlightened Tutor (Proxy)
 - Path to Exile
 - Swords to Plowshares
 - Teferi's Protection (Proxy)
-- Unbreakable Formation (Proxy)
 
 ## Artifacts (5)
 - Banner of Kinship
@@ -76,11 +76,11 @@
 - Tocasia's Welcome
 
 ## Lands (36)
-- Ancient Tomb (Proxy)
-- Emeria, the Sky Ruin (Proxy)
-- Rogue's Passage (Proxy)
+- Ancient Tomb
+- Emeria, the Sky Ruin
+- Rogue's Passage
 - Serra's Sanctum (Proxy)
-- War Room (Proxy)
+- War Room
 - Plains x31
 
 ## Notes
