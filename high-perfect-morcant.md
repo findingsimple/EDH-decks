@@ -12,7 +12,6 @@
 - Canopy Tactician
 - Champions of the Perfect
 - Circle of Dreams Druid
-- Craterhoof Behemoth (Proxy)
 - Dionus, Elvish Archdruid
 - Dwynen, Gilt-Leaf Daen
 - Dwynen's Elite
@@ -42,6 +41,7 @@
 - Selfless Safewright
 - Shaman of the Pack
 - Virulent Emissary
+- Witherbloom, the Balancer
 - Wolverine Riders
 
 ## Sorceries (9)
@@ -52,11 +52,11 @@
 - Green Sun's Zenith
 - Rampant Growth
 - Shamanic Revelation
+- Triumph of the Hordes
 - Trystan's Command
 - Unnatural Restoration
 
 ## Instants (3)
-- Elven Ambush (Proxy)
 - Galadhrim Ambush
 - Heroic Intervention (Proxy)
 
