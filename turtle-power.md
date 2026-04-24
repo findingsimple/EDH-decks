@@ -61,7 +61,7 @@
 - Branching Evolution (Proxy)
 - Doubling Season
 - Endless Foot Assault
-- Hardened Scales (Proxy)
+- Hardened Scales
 - High Score
 - Rhythm of the Wild (Proxy)
 - Sphere Grid (Proxy)
@@ -70,7 +70,7 @@
 - Arcade Cabinet
 - Arcane Signet
 - Chromatic Lantern
-- Ozolith, the Shattered Spire (Proxy)
+- Ozolith, the Shattered Spire
 - Sol Ring
 - The Ooze
 - The Ozolith (Proxy)
