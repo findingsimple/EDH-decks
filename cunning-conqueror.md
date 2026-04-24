@@ -10,7 +10,7 @@
 - Enduring Curiosity ✅
 - Faerie Bladecrafter
 - Faerie Harbinger
-- Faerie Mastermind
+- Faerie Mastermind ✅
 - Glen Elendra Archmage
 - High Fae Trickster ✅
 - Malleable Impostor
@@ -32,7 +32,7 @@
 - Brainstorm ✅
 - Counterspell
 - Countersquall
-- Cyclonic Rift
+- Cyclonic Rift ✅
 - Deadly Dispute
 - Deadly Rollick
 - Fierce Guardianship
@@ -43,7 +43,7 @@
 - Mana Drain
 - Narset's Reversal
 - Negate ✅
-- Pongify
+- Pongify ✅
 - Rapid Hybridization
 - Reality Shift
 - Sink into Stupor // Soporific Springs
@@ -55,13 +55,13 @@
 - Kindred Dominance ✅
 - Notorious Throng ✅
 - Raise the Palisade
-- Toxic Deluge
+- Toxic Deluge ✅
 
 ## Artifacts (10)
 - Arcane Signet ✅
 - Bident of Thassa
 - Dimir Signet
-- Lightning Greaves
+- Lightning Greaves ✅
 - Sapphire Medallion
 - Skullclamp
 - Sol Ring
@@ -78,29 +78,40 @@
 
 ## Lands (35)
 - Bojuka Bog
-- Choked Estuary
+- Choked Estuary ✅
 - Clearwater Pathway
 - Command Tower
 - Darkwater Catacombs
 - Dimir Aqueduct
 - Drowned Catacomb
-- Exotic Orchard
+- Exotic Orchard ✅
 - Gloomlake Verge
 - Morphic Pool
 - Mystic Sanctuary
 - Otawara, Soaring City
 - Path of Ancestry
 - Polluted Delta
-- Reliquary Tower
+- Reliquary Tower ✅
 - Secluded Glen ✅
 - Shipwreck Marsh
 - Sunken Hollow
 - Tainted Isle
-- Temple of Deceit
+- Temple of Deceit ✅
 - Underground River
-- Watery Grave
+- Watery Grave ✅
 - Island x7
 - Swamp x6
+
+## Other Acquisitions
+- Vampiric Tutor
+- Flusterstorm
+- Glen Elendra's Answer
+- Opt
+- Bitterbloom Bearer
+- Glen Elendra Liege
+- Flitterwing Nuisance
+- Swiftfoot Boots
+- Mana sculpt
 
 ## Notes
 Strategy: Hold up mana, cast instants and flash creatures on opponents' turns to generate Faerie tokens. Goad opponents' creatures to keep them fighting each other while you build an evasive flying army.
