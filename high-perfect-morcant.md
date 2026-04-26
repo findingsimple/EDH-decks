@@ -31,7 +31,7 @@
 - Leaf-Crowned Visionary
 - Llanowar Elves
 - Lys Alana Huntmaster
-- Maha, Its Feathers Night (Proxy)
+- Maha, Its Feathers Night
 - Marwyn, the Nurturer
 - Morcant's Loyalist
 - Necroskitter
