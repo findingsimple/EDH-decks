@@ -32,9 +32,9 @@
 - Cultivate
 - Decimate
 - Harmonize
+- Jeska's Will
 - Nature's Lore
 - Rampant Growth
-- Ultimate Magic: Meteor
 - Unfinished Business
 - Vandalblast
 - Vanquish the Horde
@@ -45,7 +45,7 @@
 - Cloud's Limit Break
 - Dispatch
 - Lifestream's Blessing
-- Slash of Light
+- Lorehold Charm
 - Ultimate Magic: Holy
 
 ## Artifacts (22)
@@ -118,9 +118,12 @@
 - Hero's Blade auto-attaches to Cloud (legendary) for free
 - Lightning Greaves/Swiftfoot Boots protect Cloud while enabling immediate attacks
 - Sephiroth, Fallen Hero and other FF characters provide thematic support
+- Jeska's Will as a burst ritual (mana per card in opponent's hand) + impulse 3 — powers out multi-equipment turns
+- Lorehold Charm flexes between opponent artifact sac, recurring a killed mana rock or small creature, or giving Cloud +1/+1 and trample at instant speed for a voltron finisher
 
 **Win Conditions:**
 - Voltron commander damage with heavily equipped Cloud
 - Card advantage from Cloud's attack trigger fuelling more Equipment
 - Treasure ramp accelerating into multiple equipped attackers
+- Jeska's Will burst into a double-equip Cloud turn with trample via Lorehold Charm
 - Vanquish the Horde / Austere Command to reset the board when behind

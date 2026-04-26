@@ -3,110 +3,133 @@
 ## Commander
 - Bria, Riptide Rogue
 
-## Planeswalkers (1)
-- Ral, Caller of Storms
+## Plansewaker (1)
+- Ral, Crackling Wit (Proxy)
 
-## Creatures (26)
+## Creatures (24)
 - Alania, Divergent Storm
 - Archmage Emeritus
 - Coruscation Mage
-- Firebrand Archer
+- Emeritus of Ideation // Ancestral Recall
 - Frolicking Familiar
 - Goblin Electromancer
 - Gogo, Master of Mimicry
 - Guttersnipe
 - Hexing Squelcher
-- Hullbreaker Horror
 - Jori En, Ruin Diver
 - Kiln Fiend
-- Kindlespark Duo
 - Kitsa, Otterball Elite
 - Mockingbird
+- Muddle, the Ever-Changing
 - Niv-Mizzet, Dracogenius
 - Niv-Mizzet, Parun
-- Niv-Mizzet, Visionary
-- Ovika, Enigma Goliath
+- Prismari, the Inspiration
 - Spellgorger Weird
-- Stormcatch Mentor
-- Tempest Angler
+- Storm-kiln Artist
+- Stormsplitter (Proxy)
 - Vivi Ornitier
 - Wavebreak Hippocamp
 - Wee Dragonauts
 - Young Pyromancer
 
-## Sorceries (5)
-- Mind Spring
+## Sorceries (6)
+- Jeska's Will (Proxy)
 - Otterball Antics
-- Pearl of Wisdom
-- Rite of Replication
-- Suplex
+- Serum Visions (Proxy)
+- Ponder
+- Preordain (Proxy)
+- Expressive Iteration
 
 ## Instants (20)
 - Abrade
-- An Offer You Can't Refuse
 - Brainstorm
 - Burst Lightning
 - Counterspell
-- Earthquake
 - Electrolyze
 - Fire // Ice
 - Flame of Anor
+- Flashback
+- Flusterstorm
 - Galvanic Iteration
-- Insidious Will
 - Izzet Charm
 - Lightning Bolt
 - Mystic Confluence
-- Opt
-- Ponder
-- Shock
+- Prismari Charm
 - Snap
 - Teach by Example
-- Thunder Magic
+- Expedite (Proxy)
+- Consider (Proxy)
+- Deflecting Swat (Proxy)
+- Mystical Tutor (Proxy)
 
-## Artifacts (6)
+## Artifacts (8)
 - Izzet Signet
 - Lightning Greaves
+- Resonating Lute
 - Sol Ring
-- Spellbook
 - Swiftfoot Boots
 - The Water Crystal
+- Saphire Medallion (Proxy)
+- Ruby Medallion (Proxy)
 
-## Enchantments (3)
+## Enchantments (5)
 - Frostcliff Siege
 - Rhystic Study
 - Thousand Year Storm
+- Stormhaser's Talent (Proxy)
+- Artist's Talen (Proxy)
 
-## Lands (38)
-- Ancient Tomb
+## Lands (35)
 - Baron, Airship Kingdom
 - Command Tower
 - Demolition Field
 - Evolving Wilds
-- Highland Lake
-- Izzet Guildgate
-- Meteor Crater
 - Reliquary Tower
 - Rogue's Passage
 - Silverbluff Bridge
-- Swiftwater Cliffs
 - Temple of Epiphany
 - Terramorphic Expanse
+- Fiery Islet (Proxy)
+- Steam Vents (Proxy)
 - Island x12
 - Mountain x12
 
 ## Notes
-**Strategy:** Cast cheap instants and sorceries to trigger prowess across your entire board (courtesy of Bria) while making creatures unblockable. Chain spells together for massive damage turns with creatures that grow and can't be blocked.
+**Strategy:** Cast cheap instants and sorceries to trigger prowess across your entire board (courtesy of Bria) while making creatures unblockable. Chain spells together for massive damage turns with creatures that grow and can't be blocked. Cost reducers and Treasure-on-cast effects let single turns spiral into 8+ spell storms.
 
 **Key Synergies:**
-- Bria + any noncreature spell = all creatures get prowess AND one becomes unblockable
-- Guttersnipe / Firebrand Archer deal direct damage on every spell cast
-- Thousand Year Storm copies spells exponentially on big turns
-- Niv-Mizzet, Parun draws cards and pings on every instant/sorcery (yours and opponents')
-- Archmage Emeritus draws a card on every spell, fuelling longer chains
-- Young Pyromancer / Ovika create tokens that also benefit from prowess
+- **Bria + any noncreature spell** = all creatures get prowess AND one becomes unblockable
+- **Niv-Mizzet, Parun + Niv-Mizzet, Dracogenius** = infinite combo: activate Dracogenius {U}{R} to ping, Dracogenius draw triggers, Parun pings on draw, Parun damage triggers Dracogenius draw — loop for infinite damage and deck-out
+- **Prismari, the Inspiration** gives **storm** to every instant and sorcery you cast — exponential spell copies on big turns, often lethal
+- **Thousand-Year Storm** copies spells exponentially during long chains
+- **Storm-Kiln Artist** creates a Treasure every instant/sorcery cast — fuels longer chains and works with cost reducers to push deeper into the spell stack
+- **Stormsplitter** creates a token copy of itself on every instant/sorcery cast (exiles EOT) — wide haste board with prowess
+- **Muddle, the Ever-Changing** copies any of your nonlegendary creatures on every instant/sorcery cast, and the copy has **myriad** — multi-token attacks per spell
+- **Emeritus of Ideation** casts **Ancestral Recall** ({U}, draw 3) via Prepare, then sticks around as a 5/5 flyer
+- **Cost reducers stack**: Goblin Electromancer + Sapphire Medallion + Ruby Medallion can drop a 4-mana spell to free with the right colors, enabling longer chains
+- **Hexing Squelcher** = uncounterable spells + ward 2 life on all your creatures — locks out opposing interaction during your storm turn
+- **Resonating Lute** lets all lands tap for 2 mana toward instants/sorceries — effectively doubles your mana for spells
+- **Jeska's Will** floods mana based on an opponent's hand AND impulses 3 cards
+- **Archmage Emeritus** draws a card on every spell
+- **Guttersnipe** pings opponents on every instant/sorcery cast
+- **Young Pyromancer** creates Elemental tokens that benefit from prowess
 
 **Win Conditions:**
-- Prowess-pumped unblockable attackers for lethal combat damage
-- Guttersnipe / Firebrand Archer pinging opponents to death through spell chains
-- Thousand Year Storm copying burn spells or Rite of Replication for explosive turns
-- Hullbreaker Horror locking down the board while bouncing threats
+- Prowess-pumped unblockable attackers for lethal combat damage (Bria's unblockable trigger on every noncreature spell)
+- Stormsplitter token swarm — a turn of 5+ spells creates a wide haste army that benefits from prowess pumps and Bria unblockable
+- Guttersnipe pings adding up across spell chains, especially with Thousand-Year Storm or Prismari copies
+- Thousand-Year Storm copying burn or draw spells for explosive turns
+- Prismari, the Inspiration turning a storm turn into a finisher — every Lightning Bolt / Burst Lightning / Electrolyze copies for each prior spell
+- Dracogenius + Parun infinite damage combo (often the cleanest win once both are on the board)
+
+
+Missing
+- Ancient Tomb
+- Highland Lake
+- Meteor Crater
+- Izzet Guildgate
+- Swiftwater Cliffs
+- Kindlespark Duo
+- Stormcatch Mentor
+- Firebrand Archer
+- Tempest Angler

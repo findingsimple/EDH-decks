@@ -29,32 +29,32 @@
 - Mangara, the Diplomat
 - Mr. Foxglove
 - Psychosis Crawler
+- Quandrix, the Proof
 - Rishkar, Peema Renegade
 - Selvala, Explorer Returned
 - Spore Frog
-- Sunscorch Regent
 - Triskaidekaphile
 - Twenty-Toed Toad
 - Uthros Psionicist
 
-## Instants (11)
+## Instants (10)
 - Collective Resistance
-- Cyclonic Rift (Proxy)
+- Cyclonic Rift
+- Erode
 - Heroic Intervention (Proxy)
-- Illusionist's Gambit
 - Mystic Confluence
-- Negate
-- Peerless Recycling
 - Perplexing Test
 - Pull from Tomorrow (Proxy)
+- Quandrix Charm
 - Swords to Plowshares
 - Teferi's Protection (Proxy)
 
-## Sorceries (6)
+## Sorceries (7)
 - Approach of the Second Sun (Proxy)
 - Austere Command (Proxy)
 - Cultivate
 - Farseek
+- Mathemagics
 - Season of Gathering
 - Tempt with Discovery
 
@@ -117,9 +117,21 @@
 - Elesh Norn, Mother of Machines doubles all your ETB triggers
 - Smothering Tithe / Rhystic Study / Smuggler's Share tax opponents drawing extra cards from Bumbleflower
 - Simic Ascendancy wins the game when it hits 20 growth counters
+- Quandrix, the Proof cascades itself AND all your instants/sorceries from hand — every spell generates extra value
+- Mathemagics (2^X draws to target player) fits the group hug theme; doubled by Unbound Flourishing copies and cascaded by Quandrix for massive card floods
+- Quandrix Charm flexes between counterspell, enchantment removal, or pumping a creature to 5/5
 
 **Win Conditions:**
 - Simic Ascendancy reaching 20 growth counters (fast with Doubling Season)
 - Approach of the Second Sun (card draw makes finding it twice easy)
 - Craterhoof Behemoth overrun with counter-grown creatures
 - Triskaidekaphile with 13+ cards in hand
+
+**Tutor Targets:**
+- **Tempt with Discovery** (each opponent may search a land; you get one land of your choice per opponent who accepts) priorities:
+  - **Gavony Township** (Proxy) — repeatable +1/+1 counter activation for the counter theme.
+  - **Boseiju, Who Endures** (Proxy) — utility land that destroys an artifact / enchantment / nonbasic.
+  - **Alchemist's Refuge** (Proxy) — flash enabler for surprise combo or instant-speed threats.
+  - **Reliquary Tower** — no max hand size for Bumbleflower overflow turns.
+  - **Breeding Pool** / **Hallowed Fountain** / **Temple Garden** — shock duals if color fixing is tight.
+  - **Misty Rainforest** if you have a Sensei's Divining Top online and want repeated library shuffles.

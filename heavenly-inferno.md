@@ -20,6 +20,7 @@
 - Lathliss, Dragon Queen
 - Liesa, Forgotten Archangel
 - Lightkeeper of Emeria
+- Lorehold, the Historian
 - Lyra Dawnbringer
 - Malfegor
 - Mana-Charged Dragon
@@ -27,7 +28,6 @@
 - Mother of Runes
 - Oros, the Avenger
 - Reiver Demon
-- Serra Angel
 - Shattered Angel
 - Tariel, Reckoner of Souls
 - Twinmore Stormbrood
@@ -43,17 +43,17 @@
 
 ## Instants (12)
 - Bathe in Light
-- Cleansing Beam
 - Comet Storm
 - Congregate
+- Deflecting Palm
 - Master Warcraft
 - Mortify
 - Orim's Thunder
 - Path to Exile
 - Return to Dust
+- Silverquill Charm
 - Sulfurous Blast
 - Terminate
-- Wrecking Ball
 
 ## Artifacts (8)
 - Armillary Sphere
@@ -85,7 +85,7 @@
 - Molten Slagheap
 - Orzhov Basilica
 - Rakdos Carnarium
-- Rupture Spire
+- Sacred Foundry
 - Secluded Steppe
 - Vivid Meadow
 - Zoetic Cavern
@@ -99,13 +99,24 @@
 **Key Synergies:**
 - Kaalia + Aurelia, the Warleader = two attack triggers, two free creatures per turn
 - Kaalia + Master of Cruelties = instant kill on an unblocked opponent
+- Kaalia + Lorehold, the Historian = cheats in a 5/5 flying haste Dragon that turns on miracle {2} for all your instants/sorceries
 - Gisela, Blade of Goldnight doubles your damage and halves incoming damage
 - Avacyn, Angel of Hope makes your board indestructible
 - Anger in the graveyard gives everything haste
 - Vow cycle (Duty/Lightning/Malice) locks down opponents' creatures while buffing them politically
+- Deflecting Palm redirects big single-source damage (opposing voltron or combat hits) back at the caster — protection + political deterrent
 
 **Win Conditions:**
 - Kaalia cheating in massive threats ahead of curve
 - Master of Cruelties setting an opponent to 1 life, then Kaalia's combat damage finishes them
 - Aurelia enabling double combat for lethal damage
 - Overwhelming board presence with evasive flyers
+
+**Tutor Targets:**
+- **Diabolic Tutor** (any card to hand) priorities:
+  - **Master of Cruelties** — combo piece with Kaalia (cheat in, attack alone for "opponent to 1 life," then Kaalia's damage finishes).
+  - **Aurelia, the Warleader** — double combat = two Kaalia cheat triggers per turn.
+  - **Avacyn, Angel of Hope** — your board becomes indestructible, a near-lock.
+  - **Gisela, Blade of Goldnight** — damage doubler turns any Kaalia attack into lethal.
+  - **Lightning Greaves** / **Swiftfoot Boots** — protect Kaalia the turn she lands.
+  - **Kaalia of the Vast** only if she's been repeatedly killed and command-zone tax is steep — usually tutor the enabler instead.

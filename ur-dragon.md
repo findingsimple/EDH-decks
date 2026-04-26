@@ -92,8 +92,8 @@
 - Mystic Monastery
 - Nomad Outpost
 - Opulent Palace
+- Breeding Pool
 - Overgrown Tomb
-- Radiant Fountain
 - Riverpyre Verge
 - Rogue's Passage
 - Sacred Foundry
@@ -129,3 +129,26 @@
 - Atarka, World Render giving all Dragons double strike
 - Cruel Ultimatum for card advantage and opponent disruption
 - Mana Echoes generating huge mana from Dragon tribal synergy
+
+**Tutor Targets:**
+- **Tiamat** (ETB: search up to 5 Dragons with different names to hand) priorities — build the lethal turn:
+  - **Utvara Hellkite** — 6/6 Dragon tokens for each attacking Dragon = lethal token avalanche.
+  - **Miirym, Sentinel Wyrm** — copies all nonlegendary Dragons on ETB, massive board explosion.
+  - **Atarka, World Render** — double strike on all Dragons on attack = 2x combat damage.
+  - **Dragonlord Kolaghan** — haste anthem so all Dragons attack immediately.
+  - **Savage Ventmaw** — mana generation per attack for chaining more spells mid-combat.
+  - If behind, swap a finisher for **Dragonspeaker Shaman** / **Dragonlord's Servant** to ramp out.
+- **Scion of the Ur-Dragon** (activated: any Dragon to graveyard, Scion becomes a copy) priorities:
+  - **Atarka, World Render** for immediate double strike (alpha strike turn).
+  - **Utvara Hellkite** to copy-and-spawn tokens on each attacking Dragon this combat.
+  - **Dragonlord Kolaghan** when your board needs haste to push through.
+  - Into graveyard for later reanimation: **Bladewing the Risen** (self-reanimates Dragons on ETB).
+- **Sarkhan's Triumph** ({1}{R}, tutor Dragon to hand) priorities:
+  - Early-game: **Dragonspeaker Shaman** / **Dragonlord's Servant** for eminence-stacking cost reduction.
+  - Mid-game: **Savage Ventmaw** for mid-turn mana OR **Miirym** for value engine.
+  - Late-game: **Utvara Hellkite** / **Atarka** as a finisher.
+- **Garth One-Eye** activated ability — the Demonic Tutor mode grabs anything. Best picks:
+  - **The Ur-Dragon** if he's been repeatedly killed and command-zone tax is steep (usually still cheap enough to just re-cast).
+  - **Dragon's Hoard** for ramp + card draw on Dragon cast.
+  - **Mana Echoes** for huge Dragon-count mana.
+  - A combo Dragon (Atarka / Utvara / Miirym) the game is missing.

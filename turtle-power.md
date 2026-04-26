@@ -159,7 +159,27 @@ counter placement into direct damage, threatening kills without needing to attac
 - **Turtles Forever**: Tutor for 4 legendary TMNT characters, keep 2. Finds
   whatever you need from 20+ legends in the deck.
 
-### Upgrades (47 cards to buy)
+### Win Conditions
+- **Combat damage through counter-stacked creatures**: With Hardened Scales, Corpsejack Menace, and a counter-doubler or two online, a single combat trigger from Heroes in a Half Shell places 4+ counters per creature, turning the board into lethal threats in 1-2 swings.
+- **All Will Be One direct damage**: Converts counter placement into pings. A combat round with multiple counter events and a few doublers stacks to 20+ damage distributed across opponents without relying on combat connections.
+- **Ninjutsu commander damage**: Raphael the Nightwatcher's double strike on ninjutsu-swapped attackers = double combat triggers, double counters, often one-shot commander damage via Splinter Radical Rat's unblockable mode.
+- **Triumph of the Hordes-style overrun**: A wide, counter-grown board with trample enablers (Sphere Grid, Rhythm of the Wild) closes out games through chump blockers.
+- **Mill via Altar + Mutagen**: Altar of Dementia + The Ooze / Mutagen sacrifices can mill opponents when combat is locked down.
+
+### Tutor Targets
+- **Turtles Forever** (reveal top cards, grab legendary TMNT characters) priorities depend on what's missing — usually:
+  - **Splinter, Hamato Yoshi** (Proxy) — Ninja lord + ninjutsu enabler.
+  - **Raphael, the Nightwatcher** — double strike on all attackers = double counter triggers.
+  - **Splinter, Radical Rat** (Proxy) — Ninja unblockable + trigger doubler.
+  - **Michelangelo, Weirdness to 11** — counter doubler.
+  - **Mikey & Don, Party Planners** — top-of-library casting with bonus counters.
+  - **Raphael, Tag Team Tough** (Proxy) — extra combat phase enabler.
+- **Splinter's Technique** (unconditional tutor, 2 mana with Sneak) priorities:
+  - **Doubling Season** / **Hardened Scales** / **Corpsejack Menace** / **Branching Evolution** — counter multiplication (biggest missing piece usually wins games).
+  - **All Will Be One** — converts counters to direct damage, alt wincon.
+  - **The Ozolith** / **Ozolith, the Shattered Spire** — counter preservation against wipes.
+  - **Sol Ring** or a **Cavern of Souls** / key mana fixer if ramp-starved.
+  - **Heroes in a Half Shell** is already in the command zone, so never tutored — grab an enabler the board is missing instead.
 - All Will Be One
 - Bountiful Promenade
 - Branching Evolution

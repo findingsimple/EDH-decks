@@ -3,7 +3,7 @@
 ## Commander
 - Meren of Clan Nel Toth
 
-## Creatures (37)
+## Creatures (38)
 - Acidic Slime
 - Banshee of the Dread Choir
 - Blood Bairn
@@ -17,6 +17,7 @@
 - Eater of Hope
 - Eternal Witness
 - Extractor Demon
+- Grave Researcher // Reanimate
 - Great Oak Guardian
 - Indrik Stomphowler
 - Jarad, Golgari Lich Lord
@@ -42,37 +43,34 @@
 - Wall of Blossoms
 - Wood Elves
 
-## Sorceries (10)
+## Sorceries (8)
 - Ambition's Cost
 - Barter in Blood
 - Dread Summons
-- Mulch
 - Overwhelming Stampede
 - Primal Growth
-- Rise from the Grave
 - Sever the Bloodline
 - Spider Spawning
 - Victimize
 
-## Instants (6)
-- Altar's Reap
+## Instants (7)
+- Dina's Guidance
 - Golgari Charm
 - Grisly Salvage
 - Putrefy
 - Tribute to the Wild
+- Witherbloom Charm
 - Wretched Confluence
 
-## Artifacts (7)
+## Artifacts (8)
 - Bonehoard
+- Cauldron of Essence
 - Eldrazi Monument
 - Golgari Signet
 - Lightning Greaves
 - Skullclamp
 - Sol Ring
 - Thought Vessel
-
-## Enchantments (1)
-- Diabolic Servitude
 
 ## Lands (38)
 - Command Tower
@@ -82,8 +80,8 @@
 - Grim Backwoods
 - High Market
 - Jungle Hollow
+- Festering Thicket
 - Polluted Mire
-- Slippery Karst
 - Tainted Wood
 - Terramorphic Expanse
 - Vivid Grove
@@ -97,6 +95,10 @@
 **Key Synergies:**
 - Meren + Sakura-Tribe Elder = free ramp every turn
 - Meren + Eternal Witness = recur any card from graveyard repeatedly
+- Grave Researcher gives access to Reanimate ({B}) via Prepare — cheap reanimation spell attached to a 3/3 Surveil body
+- Cauldron of Essence = sac outlet + reanimation + drain on creature death, all in one artifact
+- Dina's Guidance instant-speed tutor finds a creature to hand or dumps it to the graveyard for Meren to raise
+- Witherbloom Charm flexes between sac-for-draw-2, 5 life, or killing a small permanent
 - Skullclamp + small creatures / tokens = card draw engine
 - Butcher of Malakir / Mazirek turn your sacrifices into opponent pain
 - Mycoloth devours creatures for tokens, which feed more sacrifice loops
@@ -108,3 +110,14 @@
 - Jarad flinging large creatures (Centaur Vinecrasher, Vulturous Zombie)
 - Kessig Cagebreakers creating massive Wolf token swarms
 - Eldrazi Monument making your recurring board indestructible and evasive
+
+**Tutor Targets:**
+- **Dina's Guidance** (instant-speed creature card to hand OR graveyard) priorities:
+  - **To graveyard** for Meren to raise at end step: **Eternal Witness** (recur any card), **Butcher of Malakir** (death-trigger sac), **Phyrexian Plaguelord** (repeated sac + removal), or **Extractor Demon** (mill on unearth).
+  - **To hand** for immediate play: **Sakura-Tribe Elder** (free ramp via sac), **Mycoloth** (devour → token engine), **Viridian Emissary** (ramp on death).
+  - **Finisher grab**: **Kessig Cagebreakers** (massive Wolf swarm on attack) or **Pathbreaker Ibex** (overrun).
+- **Grave Researcher // Reanimate** (Prepare: cast the creature side OR cast Reanimate for {B}) priorities:
+  - Reanimate targets in graveyard: **Mycoloth** / **Terastodon** / **Verdant Force** / **Centaur Vinecrasher** / **Vulturous Zombie** — any big body that opponents answered.
+- **Grisly Salvage** (top 5, creature OR land to hand, rest to graveyard) priorities:
+  - Early game: grab a land to fix mana, dump creatures for Meren/Reanimate later.
+  - Mid-late: grab a utility creature (Eternal Witness, Sakura-Tribe Elder) and dump threats for reanimation.
