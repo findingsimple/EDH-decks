@@ -9,7 +9,7 @@
 - Bebop, Skull & Crossbones
 - Casey Jones, Back Alley Brute
 - Corpsejack Menace
-- Dark Leo & Shredder (Proxy)
+- Dark Leo & Shredder 💌
 - Donatello, the Brains
 - Genghis Frog (Proxy)
 - Irma, Part-Time Mutant
@@ -21,18 +21,18 @@
 - Michelangelo, the Heart
 - Michelangelo, Weirdness to 11
 - Mikey & Don, Party Planners
-- Mikey & Leo, Chaos & Order (Proxy)
+- Mikey & Leo, Chaos & Order 💌
 - Mikey & Mona, Mutant Sitters (Proxy)
 - Mutagen Man, Living Ooze (Proxy)
-- Raphael, Tag Team Tough (Proxy)
+- Raphael, Tag Team Tough 💌
 - Raphael, the Muscle
 - Raphael, the Nightwatcher
 - Ray Fillet, Wave Warrior
 - Rocksteady, Mutant Marauder
 - Shredder, Shadow Master
-- Splinter & Leo, Father & Son (Proxy)
+- Splinter & Leo, Father & Son 💌
 - Splinter, Hamato Yoshi (Proxy)
-- Splinter, Radical Rat (Proxy)
+- Splinter, Radical Rat 💌
 - Splinter, the Mentor
 - Super Shredder (Proxy)
 - Tokka & Rahzar, Unsupervised

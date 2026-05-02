@@ -4,7 +4,7 @@
 - Alela, Cunning Conqueror ✅
 
 ## Creatures (21)
-- Archmage of Echoes
+- Archmage of Echoes 💌
 - Blightwing Bandit
 - Brazen Borrower ✅
 - Enduring Curiosity ✅
@@ -14,9 +14,9 @@
 - Glen Elendra Archmage
 - High Fae Trickster ✅
 - Malleable Impostor
-- Mistbind Clique
+- Mistbind Clique 💌
 - Notion Thief
-- Nymris, Oona's Trickster
+- Nymris, Oona's Trickster 💌
 - Obyra, Dreaming Duelist
 - Oona's Blackguard
 - Rankle, Master of Pranks ✅
@@ -41,13 +41,13 @@
 - Go for the Throat
 - Infernal Grasp
 - Mana Drain
-- Narset's Reversal
+- Narset's Reversal 💌
 - Negate ✅
 - Pongify ✅
 - Rapid Hybridization
 - Reality Shift
 - Sink into Stupor // Soporific Springs
-- Swan Song
+- Swan Song 💌
 - Fact or Fiction
 
 ## Sorceries (5)
@@ -71,8 +71,8 @@
 
 ## Enchantments (5)
 - Bitterblossom ✅
-- Kindred Discovery
-- Leyline of Anticipation
+- Kindred Discovery 💌
+- Leyline of Anticipation 💌
 - Reflections of Littjara
 - Rhystic Study
 
@@ -103,15 +103,17 @@
 - Swamp x6
 
 ## Other Acquisitions
-- Vampiric Tutor
-- Flusterstorm
-- Glen Elendra's Answer
-- Opt
-- Bitterbloom Bearer
-- Glen Elendra Liege
-- Flitterwing Nuisance
-- Swiftfoot Boots
-- Mana sculpt
+- Vampiric Tutor ✅
+- Flusterstorm ✅
+- Glen Elendra's Answer ✅
+- Opt ✅
+- Bitterbloom Bearer ✅
+- Glen Elendra Liege ✅
+- Flitterwing Nuisance ✅
+- Swiftfoot Boots ✅
+- Mana sculpt ✅
+- Vendilion Clique 💌
+- Fae of Wishes || Granted (SC) 💌
 
 ## Notes
 Strategy: Hold up mana, cast instants and flash creatures on opponents' turns to generate Faerie tokens. Goad opponents' creatures to keep them fighting each other while you build an evasive flying army.
@@ -133,10 +135,3 @@ Upgrade ideas:
 - Tetsuko Umezawa, Fugitive (makes 1/1 tokens unblockable)
 - Cover of Darkness (fear for all Faeries)
 - Opposition (tap down opponents with tokens)
-
-Other possible cards
-- Swiftfoot Boots ✅
-- Opt ✅
-- Flitterwing Nuisance ✅
-- Glen Elendra's Answer ✅
-- Glen Elendra Liege ✅
