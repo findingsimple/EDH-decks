@@ -3,7 +3,7 @@
 ## Commander
 - Bria, Riptide Rogue
 
-## Plansewaker (1)
+## Planeswalker (1)
 - Ral, Crackling Wit (Proxy)
 
 ## Creatures (24)
@@ -69,15 +69,15 @@
 - Sol Ring
 - Swiftfoot Boots
 - The Water Crystal
-- Saphire Medallion (Proxy)
+- Sapphire Medallion (Proxy)
 - Ruby Medallion (Proxy)
 
 ## Enchantments (5)
 - Frostcliff Siege
 - Rhystic Study
 - Thousand Year Storm
-- Stormhaser's Talent (Proxy)
-- Artist's Talen (Proxy)
+- Stormchaser's Talent (Proxy)
+- Artist's Talent (Proxy)
 
 ## Lands (35)
 - Baron, Airship Kingdom
