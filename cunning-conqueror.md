@@ -98,7 +98,7 @@
 - Tainted Isle
 - Temple of Deceit ✅
 - Underground River
-- Watery Grave ✅
+- Watery Grave (Proxy)
 - Island x7
 - Swamp x6
 
