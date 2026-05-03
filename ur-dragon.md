@@ -82,10 +82,9 @@
 - Blood Crypt
 - Command Tower
 - Crumbling Necropolis
-- Evolving Wilds
-- Exotic Orchard
 - Fabled Passage
 - Frontier Bivouac
+- Godless Shrine
 - Hallowed Fountain
 - Jungle Shrine
 - Misty Rainforest
@@ -103,6 +102,7 @@
 - Steam Vents
 - Stomping Ground
 - Temple Garden
+- Watery Grave
 - Windswept Heath
 - Wooded Foothills
 - Plains x2
