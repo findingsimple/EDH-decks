@@ -80,8 +80,8 @@
 - Bojuka Bog
 - Boros Garrison
 - Command Tower
-- Evolving Wilds
 - Forgotten Cave
+- Godless Shrine (Proxy)
 - Molten Slagheap
 - Orzhov Basilica
 - Rakdos Carnarium
