@@ -10,14 +10,14 @@
 - Casey Jones, Back Alley Brute
 - Corpsejack Menace
 - Dark Leo & Shredder 💌
+- Donatello, Gadget Master 💌
 - Donatello, the Brains
-- Genghis Frog (Proxy)
+- Genghis Frog 💌
 - Irma, Part-Time Mutant
-- Karai, Future of the Foot (Proxy)
 - Leatherhead, Iron Gator
 - Leonardo, the Balance
 - Metallic Mimic
-- Michelangelo, On the Scene (Proxy)
+- Michelangelo, On the Scene 💌
 - Michelangelo, the Heart
 - Michelangelo, Weirdness to 11
 - Mikey & Don, Party Planners
@@ -31,7 +31,7 @@
 - Rocksteady, Mutant Marauder
 - Shredder, Shadow Master
 - Splinter & Leo, Father & Son 💌
-- Splinter, Hamato Yoshi (Proxy)
+- Splinter, Hamato Yoshi 💌
 - Splinter, Radical Rat 💌
 - Splinter, the Mentor
 - Super Shredder 💌
