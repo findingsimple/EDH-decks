@@ -75,23 +75,23 @@
 - Super State
 
 ## Lands (38)
-- Daily Bugle Building
-- Multiversal Passage
-- Savage Lands
-- Evolving Wilds
-- Terramorphic Expanse
-- Lavaclaw Reaches
-- Thriving Bluff
-- Temple of Malice
-- Bloodfell Caves
-- Foreboding Ruins
-- Rakdos Guildgate
-- Master Emerald Shrine
-- Darksteel Citadel
-- Great Furnace
-- Vault of Whispers
-- Treasure Vault
-- Blood Crypt
-- Badlands
+- Daily Bugle Building ✅
+- Multiversal Passage ✅
+- Savage Lands ✅
+- Evolving Wilds ✅
+- Terramorphic Expanse ✅
+- Lavaclaw Reaches ✅
+- Thriving Bluff ✅
+- Temple of Malice ✅
+- Bloodfell Caves ✅
+- Foreboding Ruins ✅
+- Rakdos Guildgate ✅
+- Master Emerald Shrine ✅
+- Darksteel Citadel ✅
+- Great Furnace (Proxy)
+- Vault of Whispers (Proxy)
+- Treasure Vault (Proxy)
+- Blood Crypt (Proxy)
+- Badlands (Proxy)
 - Mountain x10
 - Swamp x10

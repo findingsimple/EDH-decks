@@ -4,100 +4,100 @@
 - Alela, Cunning Conqueror ✅
 
 ## Creatures (21)
-- Archmage of Echoes 💌
-- Blightwing Bandit
+- Archmage of Echoes 💌 (Proxy)
+- Blightwing Bandit (Proxy)
 - Brazen Borrower ✅
 - Enduring Curiosity ✅
-- Faerie Bladecrafter
-- Faerie Harbinger
+- Faerie Bladecrafter (Proxy)
+- Faerie Harbinger (Proxy)
 - Faerie Mastermind ✅
-- Glen Elendra Archmage
+- Glen Elendra Archmage (Proxy)
 - High Fae Trickster ✅
-- Malleable Impostor
-- Mistbind Clique 💌
-- Notion Thief
-- Nymris, Oona's Trickster 💌
-- Obyra, Dreaming Duelist
-- Oona's Blackguard
+- Malleable Impostor (Proxy)
+- Mistbind Clique 💌 (Proxy)
+- Notion Thief (Proxy)
+- Nymris, Oona's Trickster 💌 (Proxy)
+- Obyra, Dreaming Duelist (Proxy)
+- Oona's Blackguard (Proxy)
 - Rankle, Master of Pranks ✅
 - Scion of Oona ✅
-- Sower of Temptation
+- Sower of Temptation (Proxy)
 - Spellstutter Sprite ✅
-- Talion, the Kindly Lord
-- Tegwyll, Duke of Splendor
+- Talion, the Kindly Lord (Proxy)
+- Tegwyll, Duke of Splendor (Proxy)
 
 ## Instants (22)
 - An Offer You Can't Refuse ✅
-- Arcane Denial
+- Arcane Denial (Proxy)
 - Brainstorm ✅
-- Counterspell
-- Countersquall
+- Counterspell (Proxy)
+- Countersquall (Proxy)
 - Cyclonic Rift ✅
-- Deadly Dispute
-- Deadly Rollick
-- Fierce Guardianship
-- Force of Negation
-- Frantic Search
-- Go for the Throat
-- Infernal Grasp
-- Mana Drain
-- Narset's Reversal 💌
+- Deadly Dispute (Proxy)
+- Deadly Rollick (Proxy)
+- Fierce Guardianship (Proxy)
+- Force of Negation (Proxy)
+- Frantic Search (Proxy)
+- Go for the Throat (Proxy)
+- Infernal Grasp (Proxy)
+- Mana Drain (Proxy)
+- Narset's Reversal 💌 (Proxy)
 - Negate ✅
 - Pongify ✅
-- Rapid Hybridization
-- Reality Shift
-- Sink into Stupor // Soporific Springs
-- Swan Song 💌
-- Fact or Fiction
+- Rapid Hybridization (Proxy)
+- Reality Shift (Proxy)
+- Sink into Stupor // Soporific Springs (Proxy)
+- Swan Song 💌 (Proxy)
+- Fact or Fiction (Proxy)
 
 ## Sorceries (5)
-- Candlekeep Inspiration
+- Candlekeep Inspiration (Proxy)
 - Kindred Dominance ✅
 - Notorious Throng ✅
-- Raise the Palisade
+- Raise the Palisade (Proxy)
 - Toxic Deluge ✅
 
 ## Artifacts (10)
 - Arcane Signet ✅
-- Bident of Thassa
-- Dimir Signet
+- Bident of Thassa (Proxy)
+- Dimir Signet (Proxy)
 - Lightning Greaves ✅
-- Sapphire Medallion
-- Skullclamp
-- Sol Ring
-- Talisman of Dominance
-- Thought Vessel
-- Throne of the God-Pharaoh
+- Sapphire Medallion (Proxy)
+- Skullclamp (Proxy)
+- Sol Ring (Proxy)
+- Talisman of Dominance (Proxy)
+- Thought Vessel (Proxy)
+- Throne of the God-Pharaoh (Proxy)
 
 ## Enchantments (5)
 - Bitterblossom ✅
-- Kindred Discovery 💌
-- Leyline of Anticipation 💌
-- Reflections of Littjara
-- Rhystic Study
+- Kindred Discovery 💌 (Proxy)
+- Leyline of Anticipation 💌 (Proxy)
+- Reflections of Littjara (Proxy)
+- Rhystic Study (Proxy)
 
 ## Lands (35)
-- Bojuka Bog
+- Bojuka Bog (Proxy)
 - Choked Estuary ✅
-- Clearwater Pathway
-- Command Tower
-- Darkwater Catacombs
-- Dimir Aqueduct
-- Drowned Catacomb
+- Clearwater Pathway (Proxy)
+- Command Tower (Proxy)
+- Darkwater Catacombs (Proxy)
+- Dimir Aqueduct (Proxy)
+- Drowned Catacomb (Proxy)
 - Exotic Orchard ✅
-- Gloomlake Verge
-- Morphic Pool
-- Mystic Sanctuary
-- Otawara, Soaring City
-- Path of Ancestry
-- Polluted Delta
+- Gloomlake Verge (Proxy)
+- Morphic Pool (Proxy)
+- Mystic Sanctuary (Proxy)
+- Otawara, Soaring City (Proxy)
+- Path of Ancestry (Proxy)
+- Polluted Delta (Proxy)
 - Reliquary Tower ✅
 - Secluded Glen ✅
-- Shipwreck Marsh
-- Sunken Hollow
-- Tainted Isle
+- Shipwreck Marsh (Proxy)
+- Sunken Hollow (Proxy)
+- Tainted Isle (Proxy)
 - Temple of Deceit ✅
-- Underground River
+- Underground River (Proxy)
 - Watery Grave (Proxy)
 - Island x7
 - Swamp x6

@@ -45,6 +45,20 @@ Strategy notes, upgrade ideas, etc.
 - Proxy cards are indicated with `(Proxy)` after the card name (e.g., `- Craterhoof Behemoth (Proxy)`)
 - Optional `## Notes` section for strategy/upgrade ideas
 
+## Lands Tracking
+
+Real (non-proxy) land ownership is tracked centrally in `lands.md`. Always update it alongside any deck change that affects a real land:
+
+- **Moving a real land between decks**: update `lands.md` AND both deck files in the same commit.
+- **Acquiring a new real land**: add to `lands.md` and to the destination deck file (or to the "Loose Collection" section if not yet slotted).
+- **Replacing a real with a proxy in a deck**: mark the deck-file entry `(Proxy)` and update `lands.md`'s `In Deck` column.
+- **Conflict resolution**: if `lands.md` shows the same real card in two decks, that's a duplicate-ownership flag — investigate which copy is real and mark the other as `(Proxy)` in its deck file.
+
+Conventions:
+- `(Proxy)` after a card name in a deck file = proxy (not owned).
+- Unmarked land in a deck file = owned (real).
+- `lands.md` is the source of truth for "which real lands do I own and where do they live?"
+
 ## Remember
 
 If you can't find a card or are not certain about any of the details - ask. Do not make assumptions about any details.
