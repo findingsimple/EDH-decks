@@ -4,7 +4,7 @@
 - Alela, Cunning Conqueror ✅
 
 ## Creatures (21)
-- Archmage of Echoes 💌 (Proxy)
+- Archmage of Echoes 💌
 - Blightwing Bandit (Proxy)
 - Brazen Borrower ✅
 - Enduring Curiosity ✅
@@ -14,9 +14,9 @@
 - Glen Elendra Archmage (Proxy)
 - High Fae Trickster ✅
 - Malleable Impostor (Proxy)
-- Mistbind Clique 💌 (Proxy)
+- Mistbind Clique 💌
 - Notion Thief (Proxy)
-- Nymris, Oona's Trickster 💌 (Proxy)
+- Nymris, Oona's Trickster 💌
 - Obyra, Dreaming Duelist (Proxy)
 - Oona's Blackguard (Proxy)
 - Rankle, Master of Pranks ✅
@@ -24,7 +24,7 @@
 - Sower of Temptation (Proxy)
 - Spellstutter Sprite ✅
 - Talion, the Kindly Lord (Proxy)
-- Tegwyll, Duke of Splendor (Proxy)
+- Tegwyll, Duke of Splendor 💌
 
 ## Instants (22)
 - An Offer You Can't Refuse ✅
@@ -41,7 +41,7 @@
 - Go for the Throat (Proxy)
 - Infernal Grasp (Proxy)
 - Mana Drain (Proxy)
-- Narset's Reversal 💌 (Proxy)
+- Narset's Reversal 💌
 - Negate ✅
 - Pongify ✅
 - Rapid Hybridization (Proxy)
@@ -71,8 +71,8 @@
 
 ## Enchantments (5)
 - Bitterblossom ✅
-- Kindred Discovery 💌 (Proxy)
-- Leyline of Anticipation 💌 (Proxy)
+- Kindred Discovery 💌
+- Leyline of Anticipation 💌 
 - Reflections of Littjara (Proxy)
 - Rhystic Study (Proxy)
 
