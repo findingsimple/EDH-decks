@@ -22,8 +22,8 @@
 - Michelangelo, Weirdness to 11
 - Mikey & Don, Party Planners
 - Mikey & Leo, Chaos & Order 💌
-- Mikey & Mona, Mutant Sitters (Proxy)
-- Mutagen Man, Living Ooze (Proxy)
+- Mikey & Mona, Mutant Sitters 💌
+- Mutagen Man, Living Ooze 💌
 - Raphael, Tag Team Tough 💌
 - Raphael, the Muscle
 - Raphael, the Nightwatcher
@@ -34,7 +34,7 @@
 - Splinter, Hamato Yoshi (Proxy)
 - Splinter, Radical Rat 💌
 - Splinter, the Mentor
-- Super Shredder (Proxy)
+- Super Shredder 💌
 - Tokka & Rahzar, Unsupervised
 
 ## Sorceries (7)
