@@ -3,52 +3,51 @@
 ## Commander
 - Heroes in a Half Shell
 
-## Creatures (32)
+## Creatures (29)
 - April O'Neil, Live on the Scene
 - Baxter, Fly in the Ointment
-- Bebop, Skull & Crossbones
-- Casey Jones, Back Alley Brute
+- Bloom Tender (Proxy)
 - Corpsejack Menace
-- Dark Leo & Shredder 💌
-- Donatello, Gadget Master 💌
+- Dark Leo & Shredder
+- Donatello, Gadget Master
 - Donatello, the Brains
-- Genghis Frog 💌
-- Irma, Part-Time Mutant
-- Leatherhead, Iron Gator
+- Genghis Frog
 - Leonardo, the Balance
 - Metallic Mimic
-- Michelangelo, On the Scene 💌
+- Michelangelo, On the Scene
 - Michelangelo, the Heart
 - Michelangelo, Weirdness to 11
 - Mikey & Don, Party Planners
-- Mikey & Leo, Chaos & Order 💌
-- Mikey & Mona, Mutant Sitters 💌
-- Mutagen Man, Living Ooze 💌
-- Raphael, Tag Team Tough 💌
+- Mikey & Leo, Chaos & Order
+- Mikey & Mona, Mutant Sitters
+- Mutagen Man, Living Ooze
+- Raphael, Tag Team Tough
 - Raphael, the Muscle
 - Raphael, the Nightwatcher
 - Ray Fillet, Wave Warrior
 - Rocksteady, Mutant Marauder
 - Shredder, Shadow Master
-- Splinter & Leo, Father & Son 💌
-- Splinter, Hamato Yoshi 💌
-- Splinter, Radical Rat 💌
+- Splinter & Leo, Father & Son
+- Splinter, Hamato Yoshi
+- Splinter, Radical Rat
 - Splinter, the Mentor
-- Super Shredder 💌
+- Super Shredder
 - Tokka & Rahzar, Unsupervised
 
-## Sorceries (7)
+## Sorceries (8)
 - Cultivate
 - Farseek (Proxy)
 - Kodama's Reach (Proxy)
 - Nature's Lore (Proxy)
 - Splinter's Technique
 - Study the Classics (Proxy)
+- Triumph of the Hordes (Proxy)
 - Wave Goodbye
 
-## Instants (8)
+## Instants (9)
 - Assassin's Trophy
 - Continue?
+- Cyclonic Rift (Proxy)
 - Flawless Maneuver (Proxy)
 - Heroic Intervention (Proxy)
 - Shellshock
@@ -56,11 +55,12 @@
 - Teferi's Protection (Proxy)
 - Turtles Forever
 
-## Enchantments (8)
+## Enchantments (9)
 - All Will Be One
 - Branching Evolution (Proxy)
 - Doubling Season
 - Endless Foot Assault
+- Guardian Project (Proxy)
 - Hardened Scales
 - High Score
 - Rhythm of the Wild (Proxy)
@@ -76,36 +76,38 @@
 - The Ozolith (Proxy)
 
 ## Lands (37)
+- Blood Crypt (Proxy)
 - Bountiful Promenade (Proxy)
+- Breeding Pool (Proxy)
 - Cavern of Souls (Proxy)
-- Cinder Glade
 - City of Brass
 - Command Tower
 - Exotic Orchard
 - Fabled Passage
 - Godless Shrine (Proxy)
+- Hallowed Fountain (Proxy)
 - Luxury Suite (Proxy)
 - Mana Confluence (Proxy)
+- Overgrown Tomb (Proxy)
 - Path of Ancestry
 - Plaza of Heroes (Proxy)
 - Reflecting Pool (Proxy)
 - Sacred Foundry (Proxy)
 - Sea of Clouds (Proxy)
 - Secluded Courtyard (Proxy)
-- Smoldering Marsh
-- Sodden Verdure
 - Spire Garden
 - Steam Vents (Proxy)
-- Sunken Hollow
+- Stomping Ground (Proxy)
+- Temple Garden (Proxy)
 - Turtle Lair
 - Unclaimed Territory (Proxy)
 - Undergrowth Stadium
-- Vernal Fen
-- Forest x3
+- Watery Grave (Proxy)
+- Forest x2
 - Island x2
 - Mountain x2
 - Plains x2
-- Swamp x3
+- Swamp x2
 
 ## Notes
 

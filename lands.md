@@ -17,16 +17,16 @@ Definitive record of which real (non-proxy) lands are in the collection and whic
 
 | Card | Colors | Owned | In Deck | Notes |
 |------|--------|:-----:|---------|-------|
-| Hallowed Fountain | W/U | ✅ | Ur-Dragon | |
-| Watery Grave | U/B | ✅ | Ur-Dragon | |
-| Blood Crypt | B/R | ✅ | Ur-Dragon | Shadow the Hedgehog runs proxy |
-| Stomping Ground | R/G | ✅ | Ur-Dragon | |
-| Temple Garden | G/W | ✅ | Ur-Dragon | |
-| Godless Shrine | W/B | ✅ | Ur-Dragon | |
+| Hallowed Fountain | W/U | ✅ | Ur-Dragon | Turtle Power runs proxy |
+| Watery Grave | U/B | ✅ | Ur-Dragon | Turtle Power runs proxy |
+| Blood Crypt | B/R | ✅ | Ur-Dragon | Shadow the Hedgehog & Turtle Power run proxies |
+| Stomping Ground | R/G | ✅ | Ur-Dragon | Turtle Power runs proxy |
+| Temple Garden | G/W | ✅ | Ur-Dragon | Turtle Power runs proxy |
+| Godless Shrine | W/B | ✅ | Ur-Dragon | Turtle Power runs proxy |
 | Steam Vents | U/R | ✅ | Ur-Dragon | Turtle Power & Riptide Rogue run proxies |
-| Overgrown Tomb | B/G | ✅×2 | Ur-Dragon, High-Perfect Morcant | |
+| Overgrown Tomb | B/G | ✅×2 | Ur-Dragon, High-Perfect Morcant | Turtle Power runs proxy |
 | Sacred Foundry | R/W | ✅×2 | Ur-Dragon, Heavenly Inferno | Turtle Power runs proxy |
-| Breeding Pool | G/U | ✅×2 | Ur-Dragon, Peace Offering | |
+| Breeding Pool | G/U | ✅×2 | Ur-Dragon, Peace Offering | Turtle Power runs proxy |
 
 **Status:** complete cycle owned.
 
@@ -313,6 +313,11 @@ Owned lands not currently slotted into any deck.
 - Deathcap Glade (B/G) — Slowlands cycle (SOS)
 - Sundown Pass (R/W) — Slowlands cycle (SOS)
 - Dreamroot Cascade (G/U) — Slowlands cycle (SOS)
+- Cinder Glade (R/G) — Battle Lands cycle (TMC reprint)
+- Smoldering Marsh (B/R) — Battle Lands cycle (TMC reprint)
+- Sunken Hollow (U/B) — Battle Lands cycle (TMC reprint)
+- Sodden Verdure (G/U) — Battle Lands cycle (SOC reprint)
+- Vernal Fen (B/G) — Battle Lands cycle (SOC reprint)
 
 ---
 
@@ -371,7 +376,7 @@ Cheap/common cycles excluded from priority tracking above. Tracked here for inve
 | Amonkhet Cycling Sac-Lands (uncommon, 5 total) | 3 | Hashep Oasis, Ifnir Deadlands, Ramunap Ruins. Missing: Sunscorched Desert (have it loose), Scavenger Grounds (in Limit Break) |
 | Tarkir Village Lands (TDM) | 2 | Kishla Village, Cori Mountain Monastery |
 | BFZ Blighted Cycle (activated colorless) | 4 | Blighted Cataract, Blighted Fen, Blighted Gorge, Blighted Woodland. Missing: Blighted Steppe |
-| Battle Lands / Tango Lands (BFZ rare fetchable) | 1 | Prairie Stream (W/U). Cycle of 10 — others not owned |
+| Battle Lands / Tango Lands (BFZ rare fetchable) | 6 | Prairie Stream (W/U), Cinder Glade (R/G, TMC), Smoldering Marsh (B/R, TMC), Sunken Hollow (U/B, TMC), Sodden Verdure (G/U, SOC), Vernal Fen (B/G, SOC) — all Loose (cut from Turtle Power for shock upgrade). Cycle of 10. |
 | Amonkhet Cycling Duals (Irrigated Farmland cycle) | 1 | Irrigated Farmland (W/U). Cycle of 5 — others not owned |
 
 ### Notable Loose Singletons (worth knowing about)
