@@ -135,3 +135,4 @@ Upgrade ideas:
 - Tetsuko Umezawa, Fugitive (makes 1/1 tokens unblockable)
 - Cover of Darkness (fear for all Faeries)
 - Opposition (tap down opponents with tokens)
+- Faerie Vandal
