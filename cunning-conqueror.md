@@ -90,7 +90,7 @@
 - Mystic Sanctuary (Proxy)
 - Otawara, Soaring City (Proxy)
 - Path of Ancestry (Proxy)
-- Polluted Delta (Proxy)
+- Polluted Delta ✅
 - Reliquary Tower ✅
 - Secluded Glen ✅
 - Shipwreck Marsh (Proxy)
