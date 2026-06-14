@@ -44,7 +44,7 @@
 - Frantic Search 💌
 - Go for the Throat 💌
 - Infernal Grasp (Proxy)
-- Mana Drain (Proxy)
+- Mana Sculpt ✅
 - Narset's Reversal 💌
 - Peppersmoke ✅
 - Pongify ✅
@@ -85,7 +85,6 @@
 - Exotic Orchard ✅
 - Gloomlake Verge (Proxy)
 - Mystic Sanctuary (Proxy)
-- Otawara, Soaring City (Proxy)
 - Path of Ancestry (Proxy)
 - Polluted Delta ✅
 - Reliquary Tower ✅
@@ -96,7 +95,7 @@
 - Temple of Deceit ✅
 - Underground River 💌
 - Watery Grave (Proxy)
-- Island x12
+- Island x13
 - Swamp x5
 
 ## Other Acquisitions
@@ -104,7 +103,6 @@
 - Opt 💌
 - Flitterwing Nuisance ✅
 - Swiftfoot Boots ✅
-- Mana Sculpt ✅
 - Fae of Wishes || Granted (SC) 💌
 - Faerie Slumber Party ✅
 - Wydwen, the Biting Gale ✅
@@ -158,4 +156,6 @@
 - Cover of Darkness (fear for all Faeries)
 - Opposition (tap down opponents with tokens)
 - Faerie Vandal
-- On the bench (Other Acquisitions) for meta-dependent swaps: Glen Elendra's Answer, Mana Sculpt, Daze, Wydwen, Faerie Macabre, Opt
+- Mana Drain (premium counter + ramp — a ~A$100 "money" upgrade over Mana Sculpt)
+- Otawara, Soaring City (blue utility land + channel-bounce — ~A$57+; running a basic Island for now)
+- On the bench (Other Acquisitions) for meta-dependent swaps: Glen Elendra's Answer, Daze, Wydwen, Faerie Macabre, Opt
