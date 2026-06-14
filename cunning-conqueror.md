@@ -84,7 +84,6 @@
 - Drowned Catacomb (Proxy)
 - Exotic Orchard ✅
 - Gloomlake Verge (Proxy)
-- Mystic Sanctuary (Proxy)
 - Path of Ancestry (Proxy)
 - Polluted Delta ✅
 - Reliquary Tower ✅
@@ -95,7 +94,7 @@
 - Temple of Deceit ✅
 - Underground River 💌
 - Watery Grave (Proxy)
-- Island x13
+- Island x14
 - Swamp x5
 
 ## Other Acquisitions
