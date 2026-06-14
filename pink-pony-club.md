@@ -78,8 +78,8 @@
 ## Lands (36)
 - Ancient Tomb
 - Emeria, the Sky Ruin
+- Minas Tirith 💌
 - Rogue's Passage
-- Serra's Sanctum (Proxy)
 - War Room
 - Plains x31
 
