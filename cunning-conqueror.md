@@ -3,80 +3,78 @@
 ## Commander
 - Alela, Cunning Conqueror ✅
 
-## Creatures (21)
+## Creatures (26)
 - Archmage of Echoes 💌
+- Bitterbloom Bearer ✅
 - Blightwing Bandit (Proxy)
 - Brazen Borrower ✅
+- Cunning Nightbonder ✅
 - Enduring Curiosity ✅
-- Faerie Bladecrafter (Proxy)
-- Faerie Harbinger (Proxy)
+- Faerie Bladecrafter ✅
+- Faerie Harbinger ✅
 - Faerie Mastermind ✅
-- Glen Elendra Archmage (Proxy)
+- Glen Elendra Archmage 💌
+- Glen Elendra Liege ✅
 - High Fae Trickster ✅
-- Malleable Impostor (Proxy)
+- Malleable Impostor ✅
 - Mistbind Clique 💌
-- Notion Thief (Proxy)
+- Notion Thief 💌
 - Nymris, Oona's Trickster 💌
-- Obyra, Dreaming Duelist (Proxy)
-- Oona's Blackguard (Proxy)
+- Obyra, Dreaming Duelist ✅
+- Oona's Blackguard 💌
 - Rankle, Master of Pranks ✅
 - Scion of Oona ✅
-- Sower of Temptation (Proxy)
+- Sower of Temptation ✅
 - Spellstutter Sprite ✅
 - Talion, the Kindly Lord (Proxy)
-- Tegwyll, Duke of Splendor 💌
+- Tegwyll, Duke of Splendor ✅
+- Vendilion Clique 💌
+- Wan Shi Tong, Librarian 💌
 
-## Instants (22)
-- An Offer You Can't Refuse ✅
-- Arcane Denial (Proxy)
+## Instants (19)
+- Arcane Denial 💌
+- Archmage's Charm 💌
 - Brainstorm ✅
 - Counterspell (Proxy)
-- Countersquall (Proxy)
+- Countersquall 💌
 - Cyclonic Rift ✅
 - Deadly Dispute (Proxy)
-- Deadly Rollick (Proxy)
-- Fierce Guardianship (Proxy)
-- Force of Negation (Proxy)
-- Frantic Search (Proxy)
-- Go for the Throat (Proxy)
+- Deadly Rollick 💌
+- Flusterstorm ✅
+- Frantic Search 💌
+- Go for the Throat 💌
 - Infernal Grasp (Proxy)
 - Mana Drain (Proxy)
 - Narset's Reversal 💌
-- Negate ✅
+- Peppersmoke ✅
 - Pongify ✅
-- Rapid Hybridization (Proxy)
-- Reality Shift (Proxy)
-- Sink into Stupor // Soporific Springs (Proxy)
-- Swan Song 💌 (Proxy)
-- Fact or Fiction (Proxy)
+- Swan Song 💌
+- Undermine 💌
+- Vampiric Tutor ✅
 
-## Sorceries (5)
-- Candlekeep Inspiration (Proxy)
+## Sorceries (3)
 - Kindred Dominance ✅
 - Notorious Throng ✅
-- Raise the Palisade (Proxy)
-- Toxic Deluge ✅
+- Raise the Palisade 💌
 
-## Artifacts (10)
+## Artifacts (8)
 - Arcane Signet ✅
-- Bident of Thassa (Proxy)
 - Dimir Signet (Proxy)
 - Lightning Greaves ✅
 - Sapphire Medallion (Proxy)
-- Skullclamp (Proxy)
-- Sol Ring (Proxy)
+- Skullclamp 💌
+- Sol Ring 💌
 - Talisman of Dominance (Proxy)
 - Thought Vessel (Proxy)
-- Throne of the God-Pharaoh (Proxy)
 
 ## Enchantments (5)
 - Bitterblossom ✅
+- Faerie Tauntings ✅
 - Kindred Discovery 💌
-- Leyline of Anticipation 💌 
-- Reflections of Littjara (Proxy)
+- Leyline of Anticipation 💌
 - Rhystic Study (Proxy)
 
-## Lands (35)
+## Lands (38)
 - Bojuka Bog (Proxy)
 - Choked Estuary ✅
 - Clearwater Pathway (Proxy)
@@ -86,7 +84,6 @@
 - Drowned Catacomb (Proxy)
 - Exotic Orchard ✅
 - Gloomlake Verge (Proxy)
-- Morphic Pool (Proxy)
 - Mystic Sanctuary (Proxy)
 - Otawara, Soaring City (Proxy)
 - Path of Ancestry (Proxy)
@@ -97,42 +94,68 @@
 - Sunken Hollow (Proxy)
 - Tainted Isle (Proxy)
 - Temple of Deceit ✅
-- Underground River (Proxy)
+- Underground River 💌
 - Watery Grave (Proxy)
-- Island x7
-- Swamp x6
+- Island x12
+- Swamp x5
 
 ## Other Acquisitions
-- Vampiric Tutor ✅
-- Flusterstorm ✅
 - Glen Elendra's Answer ✅
-- Opt ✅
-- Bitterbloom Bearer ✅
-- Glen Elendra Liege ✅
+- Opt 💌
 - Flitterwing Nuisance ✅
 - Swiftfoot Boots ✅
-- Mana sculpt ✅
-- Vendilion Clique 💌
+- Mana Sculpt ✅
 - Fae of Wishes || Granted (SC) 💌
+- Faerie Slumber Party ✅
+- Wydwen, the Biting Gale ✅
+- Faerie Macabre 💌
+- Daze 💌
+- Thought Scour 💌
 
 ## Notes
-Strategy: Hold up mana, cast instants and flash creatures on opponents' turns to generate Faerie tokens. Goad opponents' creatures to keep them fighting each other while you build an evasive flying army.
+**Strategy:** A U/B Faerie tempo/control deck. Hold up instants and flash creatures and cast them on *opponents'* turns — Alela rewards your first spell each opponent's turn with a 1/1 flying Faerie, and your Faeries goad blockers so the evasive swarm gets through. Grind value with flash interaction, flood the board with Faeries, pump them with anthems, and close with flying beats, incremental drain, or a Cyclonic Rift alpha strike.
 
-Key combos:
-- Alela + first spell on each opponent's turn = free Faerie token
-- Obyra + Faerie tokens = drain all opponents
-- Mistbind Clique = tap out an opponent during upkeep
-- Kindred Discovery + Faeries = massive card draw (careful of decking yourself)
-- Archmage of Echoes + Faerie/Wizard permanent spells = copy as token
-- Faerie Mastermind + wheel effects or Rhystic Study = massive draw
-- Bitterblossom = free Faerie token every upkeep for Obyra triggers
-- Skullclamp + 1/1 Faerie tokens = draw 2 cards each
-- Kindred Dominance / Raise the Palisade = one-sided wipes naming Faeries
-- Notorious Throng = extra turn + Faerie tokens after combat damage with Rogues
-- Cyclonic Rift overload = clear the way for a lethal alpha strike
+**Core engine — "first spell on each opponent's turn":** Multiple payoffs fire off the *same* first spell you cast on an opponent's turn. One cheap instant per turn cycle nets:
+- **Alela** → a 1/1 flying Faerie Rogue (goads on damage)
+- **Nymris, Oona's Trickster** → dig 2 (one to hand, one to graveyard)
+- **Blightwing Bandit** → exile the top of that player's library and play it
+- **Faerie Tauntings** → each opponent loses 1 life
 
-Upgrade ideas:
+**Flash enablers (turn sorceries into the engine):**
+- **High Fae Trickster** / **Leyline of Anticipation** — cast anything (even creatures) at instant speed, so every spell can be the opponent's-turn trigger.
+- **Cunning Nightbonder** — flash spells cost {1} less and can't be countered.
+
+**Token engines → payoffs:**
+- Makers: **Bitterblossom**, **Bitterbloom Bearer**, **Alela**, **Notorious Throng**.
+- **Obyra, Dreaming Duelist** — each Faerie ETB drains every opponent for 1.
+- **Skullclamp** on a 1/1 token = draw 2.
+- **Enduring Curiosity** — draw a card for *each* creature that connects (huge on a wide flying board); returns as an enchantment if it dies.
+- **Kindred Discovery** (name Faeries) — draw when a Faerie enters *or attacks* (can deck you — count first).
+- **Faerie Bladecrafter** — grows on Faerie combat damage, then dies for a big drain/lifegain.
+- **Archmage of Echoes** — copies your Faerie *or* Wizard permanent spells (most of the creature base qualifies).
+
+**Anthems & evasion (the kill):** **Scion of Oona** (+1/+1 *and* shroud to protect them), **Tegwyll, Duke of Splendor** (+1/+1, draw when a Faerie dies), **Glen Elendra Liege** (+1/+1 to blue *and* black — your tokens benefit most). Everything flies; goad keeps opposing blockers swinging elsewhere.
+
+**Disruption & control:**
+- Board-scaling counters: **Spellstutter Sprite** (MV ≤ Faeries you control), **Glen Elendra Archmage** (repeatable via persist), atop a deep hard-counter suite.
+- **Mistbind Clique** — champion a Faerie (a token works) to tap a player's lands during upkeep — pseudo-Time Walk.
+- **Notion Thief** + a symmetric draw (Faerie Mastermind's {3}{U} activation, opposing wheels) = you draw, they don't.
+- **Wan Shi Tong, Librarian** taxes the table's fetchlands/tutors; **Vendilion Clique** strips a threat.
+- **Oona's Blackguard** — Rogues enter with a +1/+1 counter and force discards on combat damage (lots of Faerie Rogues + Notion Thief + Cunning Nightbonder).
+
+**Win conditions:**
+- Go wide + anthems + flying, goad away blockers → alpha strike (Cyclonic Rift overload clears the path).
+- Incremental drain: Obyra triggers + Faerie Tauntings + Faerie Bladecrafter's death.
+- Notorious Throng off Rogue damage → extra turn + a wave of Faerie tokens.
+
+**Watch-outs:**
+- **Kindred Dominance** (destroy non-Faeries) / **Raise the Palisade** (bounce non-Faeries) are *not* fully one-sided for you — they also hit your non-Faerie creatures: **Wan Shi Tong**, **Notion Thief**, **Cunning Nightbonder**, **Enduring Curiosity**, plus any creature stolen with **Sower of Temptation**. (Malleable Impostor becomes a Faerie, so it survives.)
+- Kindred Discovery + a token flood can deck you.
+- Mana base is blue-leaning by design (~29 U / ~22 B across 38 lands) to support the double-blue cards. Black is thinner, so prioritise a black source early when holding a double-black card (Bitterbloom Bearer, Rankle, Kindred Dominance).
+
+**Upgrade ideas:**
 - Tetsuko Umezawa, Fugitive (makes 1/1 tokens unblockable)
 - Cover of Darkness (fear for all Faeries)
 - Opposition (tap down opponents with tokens)
 - Faerie Vandal
+- On the bench (Other Acquisitions) for meta-dependent swaps: Glen Elendra's Answer, Mana Sculpt, Daze, Wydwen, Faerie Macabre, Opt
