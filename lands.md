@@ -41,13 +41,13 @@ Definitive record of which real (non-proxy) lands are in the collection and whic
 | Bloodstained Mire | B/R | ✅ | | |
 | Wooded Foothills | R/G | ✅ | Ur-Dragon | |
 | Windswept Heath | G/W | ✅ | Ur-Dragon | |
-| Marsh Flats | W/B | | | |
-| Scalding Tarn | U/R | | | |
-| Verdant Catacombs | B/G | | | |
+| Marsh Flats | W/B | ✅ | Loose | Incoming 2026-06 (MM3) |
+| Scalding Tarn | U/R | ✅ | Loose | Incoming 2026-06 (MH2) |
+| Verdant Catacombs | B/G | ✅ | Loose | Incoming 2026-06 (MH2) |
 | Arid Mesa | R/W | ✅ | Ur-Dragon | |
 | Misty Rainforest | G/U | ✅ | Ur-Dragon | |
 
-**Status:** 7 of 10. Missing: Marsh Flats, Scalding Tarn, Verdant Catacombs.
+**Status:** complete cycle owned (10 of 10). Marsh Flats, Scalding Tarn, Verdant Catacombs incoming 2026-06 — all Loose.
 
 ---
 
@@ -113,7 +113,7 @@ Definitive record of which real (non-proxy) lands are in the collection and whic
 | Card | Colors | Owned | In Deck | Notes |
 |------|--------|:-----:|---------|-------|
 | Adarkar Wastes | W/U | ✅ | Peace Offering | |
-| Underground River | U/B | | | Cunning Conqueror runs proxy |
+| Underground River | U/B | ✅ | Loose | Incoming 2026-06; destined for Cunning Conqueror (runs proxy) |
 | Sulfurous Springs | B/R | | | |
 | Karplusan Forest | R/G | | | |
 | Brushland | G/W | ✅×2 | Limit Break, Peace Offering | |
@@ -123,7 +123,7 @@ Definitive record of which real (non-proxy) lands are in the collection and whic
 | Battlefield Forge | R/W | ✅ | Limit Break | |
 | Yavimaya Coast | G/U | ✅×2 | Peace Offering, Loose | Second copy in Old Loose Lands |
 
-**Status:** ~4 of 10. Several conflicts to resolve.
+**Status:** ~5 of 10. Several conflicts to resolve.
 
 ---
 
@@ -243,7 +243,7 @@ Enter tapped unless you control 2+ other lands. Enemy-color cycle (5 originally 
 | Card | Colors | Owned | In Deck | Notes |
 |------|--------|:-----:|---------|-------|
 | Sea of Clouds | W/U | | | Turtle Power runs proxy |
-| Morphic Pool | U/B | | | Cunning Conqueror runs proxy |
+| Morphic Pool | U/B | | | |
 | Luxury Suite | B/R | | | Turtle Power runs proxy |
 | Spire Garden | R/G | ✅ | Turtle Power | Unmarked in deck (Turtle Power uses (Proxy)) — owned |
 | Bountiful Promenade | G/W | | | Turtle Power runs proxy |
@@ -287,7 +287,7 @@ High-value or singleton lands worth tracking individually.
 | Yavimaya, Cradle of Growth | | | High-Perfect Morcant runs proxy |
 | Urborg, Tomb of Yawgmoth | | | High-Perfect Morcant runs proxy |
 | Karn's Bastion | | | High-Perfect Morcant runs proxy |
-| Serra's Sanctum | | | Pink Pony Club runs proxy |
+| Serra's Sanctum | | | Proxy removed from Pink Pony Club 2026-06 (replaced by Minas Tirith); not owned, not proxied |
 | Gilt-Leaf Palace | | | High-Perfect Morcant runs proxy |
 | Fabled Passage | ✅×2 | Ur-Dragon, Turtle Power | |
 | Prismatic Vista | | | |
@@ -296,6 +296,7 @@ High-value or singleton lands worth tracking individually.
 | Secluded Glen | ✅ | Cunning Conqueror | |
 | Temple of Deceit | ✅ | Cunning Conqueror | |
 | Exotic Orchard | ✅×3+ | Cunning Conqueror, Turtle Power, Limit Break, Loose | All deck copies now confirmed real (trusted decks) — possible 4 copies including Loose |
+| Minas Tirith | ✅ | Loose | Incoming 2026-06 (LTR, foil); destined for Pink Pony Club |
 
 ---
 
@@ -318,6 +319,11 @@ Owned lands not currently slotted into any deck.
 - Sunken Hollow (U/B) — Battle Lands cycle (TMC reprint)
 - Sodden Verdure (G/U) — Battle Lands cycle (SOC reprint)
 - Vernal Fen (B/G) — Battle Lands cycle (SOC reprint)
+- Marsh Flats (W/B) — Fetchlands cycle (MM3) — incoming 2026-06
+- Scalding Tarn (U/R) — Fetchlands cycle (MH2) — incoming 2026-06
+- Verdant Catacombs (B/G) — Fetchlands cycle (MH2) — incoming 2026-06
+- Underground River (U/B) — Painlands cycle; destined for Cunning Conqueror (runs proxy) — incoming 2026-06
+- Minas Tirith — utility legendary land (LTR, foil); destined for Pink Pony Club — incoming 2026-06
 
 ---
 
