@@ -37,7 +37,7 @@ Definitive record of which real (non-proxy) lands are in the collection and whic
 | Card | Colors | Owned | In Deck | Notes |
 |------|--------|:-----:|---------|-------|
 | Flooded Strand | W/U | ✅ | | |
-| Polluted Delta | U/B | ✅ | Cunning Conqueror | |
+| Polluted Delta | U/B |  | | Cunning Conqueror runs proxy (never confirmed owned) |
 | Bloodstained Mire | B/R | ✅ | | |
 | Wooded Foothills | R/G | ✅ | Ur-Dragon | |
 | Windswept Heath | G/W | ✅ | Ur-Dragon | |
@@ -47,7 +47,7 @@ Definitive record of which real (non-proxy) lands are in the collection and whic
 | Arid Mesa | R/W | ✅ | Ur-Dragon | |
 | Misty Rainforest | G/U | ✅ | Ur-Dragon | |
 
-**Status:** complete cycle owned (10 of 10). Marsh Flats, Scalding Tarn, Verdant Catacombs incoming 2026-06 — all Loose.
+**Status:** 9 of 10 owned. Missing: Polluted Delta (Cunning Conqueror runs a proxy). Marsh Flats, Scalding Tarn, Verdant Catacombs incoming 2026-06 — all Loose.
 
 ---
 

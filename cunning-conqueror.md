@@ -1,113 +1,113 @@
 # Cunning Conqueror
 
 ## Commander
-- Alela, Cunning Conqueror ✅
+- Alela, Cunning Conqueror
 
 ## Creatures (26)
-- Archmage of Echoes 💌
-- Bitterbloom Bearer ✅
+- Archmage of Echoes
+- Bitterbloom Bearer
 - Blightwing Bandit (Proxy)
-- Brazen Borrower ✅
-- Cunning Nightbonder ✅
-- Enduring Curiosity ✅
-- Faerie Bladecrafter ✅
-- Faerie Harbinger ✅
-- Faerie Mastermind ✅
-- Glen Elendra Archmage 💌
-- Glen Elendra Liege ✅
-- High Fae Trickster ✅
-- Malleable Impostor ✅
-- Mistbind Clique 💌
-- Notion Thief 💌
-- Nymris, Oona's Trickster 💌
-- Obyra, Dreaming Duelist ✅
-- Oona's Blackguard 💌
-- Rankle, Master of Pranks ✅
-- Scion of Oona ✅
-- Sower of Temptation ✅
-- Spellstutter Sprite ✅
+- Brazen Borrower
+- Cunning Nightbonder
+- Enduring Curiosity
+- Faerie Bladecrafter
+- Faerie Harbinger
+- Faerie Mastermind
+- Glen Elendra Archmage
+- Glen Elendra Liege
+- High Fae Trickster
+- Malleable Impostor
+- Mistbind Clique
+- Notion Thief
+- Nymris, Oona's Trickster
+- Obyra, Dreaming Duelist
+- Oona's Blackguard
+- Rankle, Master of Pranks
+- Scion of Oona
+- Sower of Temptation
+- Spellstutter Sprite
 - Talion, the Kindly Lord (Proxy)
-- Tegwyll, Duke of Splendor ✅
-- Vendilion Clique 💌
-- Wan Shi Tong, Librarian 💌
+- Tegwyll, Duke of Splendor
+- Vendilion Clique
+- Wan Shi Tong, Librarian
 
 ## Instants (19)
-- Arcane Denial 💌
-- Archmage's Charm 💌
-- Brainstorm ✅
+- Arcane Denial
+- Archmage's Charm
+- Brainstorm
 - Counterspell (Proxy)
-- Countersquall 💌
-- Cyclonic Rift ✅
+- Countersquall
+- Cyclonic Rift
 - Deadly Dispute (Proxy)
-- Deadly Rollick 💌
-- Flusterstorm ✅
-- Frantic Search 💌
-- Go for the Throat 💌
+- Deadly Rollick
+- Flusterstorm
+- Frantic Search
+- Go for the Throat
 - Infernal Grasp (Proxy)
-- Mana Sculpt ✅
-- Narset's Reversal 💌
-- Peppersmoke ✅
-- Pongify ✅
-- Swan Song 💌
-- Undermine 💌
-- Vampiric Tutor ✅
+- Mana Sculpt
+- Narset's Reversal
+- Peppersmoke
+- Pongify
+- Swan Song
+- Undermine
+- Vampiric Tutor
 
 ## Sorceries (3)
-- Kindred Dominance ✅
-- Notorious Throng ✅
-- Raise the Palisade 💌
+- Kindred Dominance
+- Notorious Throng
+- Raise the Palisade
 
 ## Artifacts (8)
-- Arcane Signet ✅
-- Dimir Signet (Proxy)
-- Lightning Greaves ✅
+- Arcane Signet
+- Dimir Signet
+- Lightning Greaves
 - Sapphire Medallion (Proxy)
-- Skullclamp 💌
-- Sol Ring 💌
+- Skullclamp
+- Sol Ring
 - Talisman of Dominance (Proxy)
 - Thought Vessel (Proxy)
 
 ## Enchantments (5)
-- Bitterblossom ✅
-- Faerie Tauntings ✅
-- Kindred Discovery 💌
-- Leyline of Anticipation 💌
+- Bitterblossom
+- Faerie Tauntings
+- Kindred Discovery
+- Leyline of Anticipation
 - Rhystic Study (Proxy)
 
 ## Lands (38)
 - Bojuka Bog (Proxy)
-- Choked Estuary ✅
+- Choked Estuary
 - Clearwater Pathway (Proxy)
 - Command Tower (Proxy)
 - Darkwater Catacombs (Proxy)
 - Dimir Aqueduct (Proxy)
 - Drowned Catacomb (Proxy)
-- Exotic Orchard ✅
+- Exotic Orchard
 - Gloomlake Verge (Proxy)
 - Path of Ancestry (Proxy)
-- Polluted Delta ✅
-- Reliquary Tower ✅
-- Secluded Glen ✅
+- Polluted Delta (Proxy)
+- Reliquary Tower
+- Secluded Glen
 - Shipwreck Marsh (Proxy)
 - Sunken Hollow (Proxy)
 - Tainted Isle (Proxy)
-- Temple of Deceit ✅
-- Underground River 💌
+- Temple of Deceit
+- Underground River
 - Watery Grave (Proxy)
 - Island x14
 - Swamp x5
 
 ## Other Acquisitions
-- Glen Elendra's Answer ✅
-- Opt 💌
-- Flitterwing Nuisance ✅
-- Swiftfoot Boots ✅
-- Fae of Wishes || Granted (SC) 💌
-- Faerie Slumber Party ✅
-- Wydwen, the Biting Gale ✅
-- Faerie Macabre 💌
-- Daze 💌
-- Thought Scour 💌
+- Glen Elendra's Answer
+- Opt
+- Flitterwing Nuisance
+- Swiftfoot Boots
+- Fae of Wishes || Granted (SC)
+- Faerie Slumber Party
+- Wydwen, the Biting Gale
+- Faerie Macabre
+- Daze
+- Thought Scour
 
 ## Notes
 **Strategy:** A U/B Faerie tempo/control deck. Hold up instants and flash creatures and cast them on *opponents'* turns — Alela rewards your first spell each opponent's turn with a 1/1 flying Faerie, and your Faeries goad blockers so the evasive swarm gets through. Grind value with flash interaction, flood the board with Faeries, pump them with anthems, and close with flying beats, incremental drain, or a Cyclonic Rift alpha strike.
