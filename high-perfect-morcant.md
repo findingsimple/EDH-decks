@@ -58,7 +58,7 @@
 
 ## Instants (3)
 - Galadhrim Ambush
-- Heroic Intervention (Proxy)
+- Heroic Intervention
 
 ## Artifacts (6)
 - Arcane Signet
