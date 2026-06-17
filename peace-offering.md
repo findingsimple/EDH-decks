@@ -50,7 +50,7 @@
 - Teferi's Protection (Proxy)
 
 ## Sorceries (7)
-- Approach of the Second Sun (Proxy)
+- Approach of the Second Sun
 - Austere Command (Proxy)
 - Cultivate
 - Farseek
