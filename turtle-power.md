@@ -41,7 +41,7 @@
 - Nature's Lore (Proxy)
 - Splinter's Technique
 - Study the Classics (Proxy)
-- Triumph of the Hordes (Proxy)
+- Triumph of the Hordes (Proxy) ***
 - Wave Goodbye
 
 ## Instants (9)
@@ -85,10 +85,8 @@
 - Exotic Orchard
 - Fabled Passage
 - Godless Shrine (Proxy)
-- Hallowed Fountain (Proxy)
 - Luxury Suite (Proxy)
 - Mana Confluence (Proxy)
-- Overgrown Tomb (Proxy)
 - Path of Ancestry
 - Plaza of Heroes (Proxy)
 - Reflecting Pool (Proxy)
@@ -103,11 +101,11 @@
 - Unclaimed Territory (Proxy)
 - Undergrowth Stadium
 - Watery Grave (Proxy)
-- Forest x2
+- Forest x3
 - Island x2
 - Mountain x2
 - Plains x2
-- Swamp x2
+- Swamp x3
 
 ## Notes
 
