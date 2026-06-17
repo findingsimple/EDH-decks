@@ -37,7 +37,7 @@
 ## Sorceries (8)
 - Cultivate
 - Farseek (Proxy)
-- Kodama's Reach (Proxy)
+- Kodama's Reach
 - Nature's Lore (Proxy)
 - Splinter's Technique
 - Study the Classics (Proxy)
@@ -51,7 +51,7 @@
 - Flawless Maneuver (Proxy)
 - Heroic Intervention (Proxy)
 - Shellshock
-- Swords to Plowshares (Proxy)
+- Swords to Plowshares
 - Teferi's Protection (Proxy)
 - Turtles Forever
 
@@ -63,7 +63,7 @@
 - Guardian Project (Proxy)
 - Hardened Scales
 - High Score
-- Rhythm of the Wild (Proxy)
+- Rhythm of the Wild
 - Sphere Grid (Proxy)
 
 ## Artifacts (7)
@@ -73,7 +73,7 @@
 - Ozolith, the Shattered Spire
 - Sol Ring
 - The Ooze
-- The Ozolith (Proxy)
+- The Ozolith
 
 ## Lands (37)
 - Blood Crypt (Proxy)
