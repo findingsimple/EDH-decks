@@ -46,10 +46,10 @@
 - Akroma's Will
 - Disenchant
 - Erode
-- Enlightened Tutor (Proxy)
+- Enlightened Tutor
 - Path to Exile
 - Swords to Plowshares
-- Teferi's Protection (Proxy)
+- Teferi's Protection
 
 ## Artifacts (5)
 - Banner of Kinship
@@ -70,7 +70,7 @@
 - Land Tax
 - Oblivion Ring
 - Sacred Mesa
-- Smothering Tithe (Proxy)
+- Smothering Tithe
 - Smuggler's Share (Proxy)
 - Super State
 - Tocasia's Welcome
@@ -78,7 +78,7 @@
 ## Lands (36)
 - Ancient Tomb
 - Emeria, the Sky Ruin
-- Minas Tirith 💌
+- Minas Tirith
 - Rogue's Passage
 - War Room
 - Plains x31
