@@ -46,8 +46,8 @@
 - Infernal Grasp (Proxy)
 - Mana Sculpt
 - Narset's Reversal
+- Opt
 - Peppersmoke
-- Pongify
 - Swan Song
 - Undermine
 - Vampiric Tutor
@@ -99,7 +99,6 @@
 
 ## Other Acquisitions
 - Glen Elendra's Answer
-- Opt
 - Flitterwing Nuisance
 - Swiftfoot Boots
 - Fae of Wishes || Granted (SC)
@@ -157,4 +156,4 @@
 - Faerie Vandal
 - Mana Drain (premium counter + ramp — a ~A$100 "money" upgrade over Mana Sculpt)
 - Otawara, Soaring City (blue utility land + channel-bounce — ~A$57+; running a basic Island for now)
-- On the bench (Other Acquisitions) for meta-dependent swaps: Glen Elendra's Answer, Daze, Wydwen, Faerie Macabre, Opt
+- On the bench (Other Acquisitions) for meta-dependent swaps: Glen Elendra's Answer, Daze, Wydwen, Faerie Macabre
