@@ -113,7 +113,7 @@ Definitive record of which real (non-proxy) lands are in the collection and whic
 | Card | Colors | Owned | In Deck | Notes |
 |------|--------|:-----:|---------|-------|
 | Adarkar Wastes | W/U | ✅ | Peace Offering | |
-| Underground River | U/B | ✅ | Loose | Incoming 2026-06; destined for Cunning Conqueror (runs proxy) |
+| Underground River | U/B | ✅ | Cunning Conqueror | Real copy confirmed in deck 2026-06-22 |
 | Sulfurous Springs | B/R | | | |
 | Karplusan Forest | R/G | | | |
 | Brushland | G/W | ✅×2 | Limit Break, Peace Offering | |
@@ -322,7 +322,6 @@ Owned lands not currently slotted into any deck.
 - Marsh Flats (W/B) — Fetchlands cycle (MM3) — incoming 2026-06
 - Scalding Tarn (U/R) — Fetchlands cycle (MH2) — incoming 2026-06
 - Verdant Catacombs (B/G) — Fetchlands cycle (MH2) — incoming 2026-06
-- Underground River (U/B) — Painlands cycle; destined for Cunning Conqueror (runs proxy) — incoming 2026-06
 - Minas Tirith — utility legendary land (LTR, foil); destined for Pink Pony Club — incoming 2026-06
 
 ---
