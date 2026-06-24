@@ -94,7 +94,7 @@ Definitive record of which real (non-proxy) lands are in the collection and whic
 | Card | Colors | Owned | In Deck | Notes |
 |------|--------|:-----:|---------|-------|
 | Floodfarm Verge | W/U | | | |
-| Gloomlake Verge | U/B | | | Cunning Conqueror runs proxy |
+| Gloomlake Verge | U/B | | | Cunning Conqueror runs proxy — acquisition target |
 | Blazemire Verge | B/R | | | |
 | Thornspire Verge | R/G | | | |
 | Hushwood Verge | G/W | | | |
@@ -191,7 +191,7 @@ Enter tapped unless you control 2+ other lands. Enemy-color cycle (5 originally 
 | Card | Colors | Owned | In Deck | Notes |
 |------|--------|:-----:|---------|-------|
 | Deserted Beach | W/U | | | MID enemy |
-| Shipwreck Marsh | U/B | | | MID enemy. Cunning Conqueror runs proxy |
+| Shipwreck Marsh | U/B | | | MID enemy. Cunning Conqueror runs proxy — acquisition target |
 | Haunted Ridge | B/R | | | MID enemy |
 | Rockfall Vale | R/G | | | MID enemy |
 | Overgrown Farmland | G/W | | | MID enemy |
@@ -382,6 +382,7 @@ Cheap/common cycles excluded from priority tracking above. Tracked here for inve
 | BFZ Blighted Cycle (activated colorless) | 4 | Blighted Cataract, Blighted Fen, Blighted Gorge, Blighted Woodland. Missing: Blighted Steppe |
 | Battle Lands / Tango Lands (BFZ rare fetchable) | 6 | Prairie Stream (W/U), Cinder Glade (R/G, TMC), Smoldering Marsh (B/R, TMC), Sunken Hollow (U/B, TMC — now in Cunning Conqueror), Sodden Verdure (G/U, SOC), Vernal Fen (B/G, SOC) — rest Loose (cut from Turtle Power for shock upgrade). Cycle of 10. |
 | Amonkhet Cycling Duals (Irrigated Farmland cycle) | 1 | Irrigated Farmland (W/U). Cycle of 5 — others not owned |
+| Torment "Tainted" Lands (require a Swamp) | 0 | Tainted Isle (U/B) — acquisition target for Cunning Conqueror (runs proxy). Cycle of 4. |
 
 ### Notable Loose Singletons (worth knowing about)
 
