@@ -37,7 +37,7 @@ Definitive record of which real (non-proxy) lands are in the collection and whic
 | Card | Colors | Owned | In Deck | Notes |
 |------|--------|:-----:|---------|-------|
 | Flooded Strand | W/U | ✅ | | |
-| Polluted Delta | U/B |  | | Cunning Conqueror runs proxy (never confirmed owned) |
+| Polluted Delta | U/B | ✅ | Cunning Conqueror | Real copy acquired 2026-06 |
 | Bloodstained Mire | B/R | ✅ | | |
 | Wooded Foothills | R/G | ✅ | Ur-Dragon | |
 | Windswept Heath | G/W | ✅ | Ur-Dragon | |
@@ -47,7 +47,7 @@ Definitive record of which real (non-proxy) lands are in the collection and whic
 | Arid Mesa | R/W | ✅ | Ur-Dragon | |
 | Misty Rainforest | G/U | ✅ | Ur-Dragon | |
 
-**Status:** 9 of 10 owned. Missing: Polluted Delta (Cunning Conqueror runs a proxy). Marsh Flats, Scalding Tarn, Verdant Catacombs incoming 2026-06 — all Loose.
+**Status:** 10 of 10 owned (complete cycle). Marsh Flats, Scalding Tarn, Verdant Catacombs incoming 2026-06 — all Loose.
 
 ---
 
@@ -132,7 +132,7 @@ Definitive record of which real (non-proxy) lands are in the collection and whic
 | Card | Colors | Owned | In Deck | Notes |
 |------|--------|:-----:|---------|-------|
 | Glacial Fortress | W/U | ✅×2 | Peace Offering, Loose | Second copy in Old Loose Lands |
-| Drowned Catacomb | U/B | | | Cunning Conqueror runs proxy |
+| Drowned Catacomb | U/B | ✅ | Cunning Conqueror | Real copy confirmed 2026-06 |
 | Dragonskull Summit | B/R | | | |
 | Rootbound Crag | R/G | ✅ | Limit Break | |
 | Sunpetal Grove | G/W | ✅×2 | Peace Offering, Limit Break | |
@@ -142,7 +142,7 @@ Definitive record of which real (non-proxy) lands are in the collection and whic
 | Clifftop Retreat | R/W | ✅ | Limit Break | |
 | Hinterland Harbor | G/U | ✅ | Peace Offering | |
 
-**Status:** 5 of 10.
+**Status:** 6 of 10.
 
 ---
 
@@ -151,7 +151,7 @@ Definitive record of which real (non-proxy) lands are in the collection and whic
 | Card | Colors | Owned | In Deck | Notes |
 |------|--------|:-----:|---------|-------|
 | Seachrome Coast | W/U | ✅ | Peace Offering | |
-| Darkslick Shores | U/B | | | |
+| Darkslick Shores | U/B | ✅ | Cunning Conqueror | Acquired 2026-06 |
 | Blackcleave Cliffs | B/R | | | |
 | Copperline Gorge | R/G | | | |
 | Razorverge Thicket | G/W | ✅ | Peace Offering | |
@@ -161,7 +161,7 @@ Definitive record of which real (non-proxy) lands are in the collection and whic
 | Inspiring Vantage | R/W | | | |
 | Botanical Sanctum | G/U | | | |
 
-**Status:** 2 of 10.
+**Status:** 3 of 10.
 
 ---
 
@@ -210,7 +210,7 @@ Enter tapped unless you control 2+ other lands. Enemy-color cycle (5 originally 
 | Card | Colors | Owned | In Deck | Notes |
 |------|--------|:-----:|---------|-------|
 | Hengegate Pathway | W/U | | | |
-| Clearwater Pathway | U/B | | | Cunning Conqueror runs proxy |
+| Clearwater Pathway | U/B | ✅ | Cunning Conqueror | Real copy confirmed 2026-06 |
 | Blightstep Pathway | B/R | | | |
 | Cragcrown Pathway | R/G | | | |
 | Branchloft Pathway | G/W | | | |
@@ -220,7 +220,7 @@ Enter tapped unless you control 2+ other lands. Enemy-color cycle (5 originally 
 | Needleverge Pathway | R/W | | | |
 | Barkchannel Pathway | G/U | | | |
 
-**Status:** 0–1 of 10.
+**Status:** 1 of 10 (Clearwater Pathway, in Cunning Conqueror).
 
 ---
 
@@ -243,12 +243,12 @@ Enter tapped unless you control 2+ other lands. Enemy-color cycle (5 originally 
 | Card | Colors | Owned | In Deck | Notes |
 |------|--------|:-----:|---------|-------|
 | Sea of Clouds | W/U | | | Turtle Power runs proxy |
-| Morphic Pool | U/B | | | |
+| Morphic Pool | U/B | ✅ | Cunning Conqueror | Acquired 2026-06 |
 | Luxury Suite | B/R | | | Turtle Power runs proxy |
 | Spire Garden | R/G | ✅ | Turtle Power | Unmarked in deck (Turtle Power uses (Proxy)) — owned |
 | Bountiful Promenade | G/W | | | Turtle Power runs proxy |
 
-**Status:** 1 of 5 ally bondlands (Spire Garden only).
+**Status:** 2 of 5 ally bondlands (Spire Garden, Morphic Pool).
 
 ---
 
@@ -280,7 +280,7 @@ High-value or singleton lands worth tracking individually.
 | Plaza of Heroes | | | Turtle Power runs proxy |
 | City of Brass | ✅ | Turtle Power | |
 | Ancient Tomb | ✅×2 | Bare Bones, Pink Pony Club | |
-| Bojuka Bog | ✅×2 | Heavenly Inferno, Plunder the Graves | Cunning Conqueror & High-Perfect Morcant run proxies |
+| Bojuka Bog | ✅×3 | Heavenly Inferno, Plunder the Graves, Cunning Conqueror | High-Perfect Morcant runs proxy |
 | Reliquary Tower | ✅×3 | Cunning Conqueror, Peace Offering, Riptide Rogue | |
 | Boseiju, Who Endures | | | High-Perfect Morcant & Peace Offering both run proxies |
 | Otawara, Soaring City | | | Cunning Conqueror runs proxy |
@@ -316,7 +316,6 @@ Owned lands not currently slotted into any deck.
 - Dreamroot Cascade (G/U) — Slowlands cycle (SOS)
 - Cinder Glade (R/G) — Battle Lands cycle (TMC reprint)
 - Smoldering Marsh (B/R) — Battle Lands cycle (TMC reprint)
-- Sunken Hollow (U/B) — Battle Lands cycle (TMC reprint)
 - Sodden Verdure (G/U) — Battle Lands cycle (SOC reprint)
 - Vernal Fen (B/G) — Battle Lands cycle (SOC reprint)
 - Marsh Flats (W/B) — Fetchlands cycle (MM3) — incoming 2026-06
@@ -377,11 +376,11 @@ Cheap/common cycles excluded from priority tracking above. Tracked here for inve
 |-------|------:|-------|
 | Khans Tri-Lands (3-color tap, 10 total) | 7 | Sandsteppe Citadel, Mystic Monastery, Seaside Citadel, Frontier Bivouac, Jungle Shrine (loose) + Savage Lands (×2: Shadow the Hedgehog + Loose). Missing: Arcane Sanctum, Crumbling Necropolis, Nomad Outpost, Opulent Palace |
 | Reveal Lands (Innistrad/SOI) | 3 | Port Town (W/U, loose), Game Trail (R/G, loose), Foreboding Ruins (B/R, in Shadow the Hedgehog). Missing: Choked Estuary, Fortified Village |
-| Odyssey Filter Lands | 2 | Skycloud Expanse, Sungrass Prairie. (Note: also listed "Overflowing Basin" — likely Sungrass Prairie typo or different card) |
+| Odyssey Filter Lands | 3 | Skycloud Expanse, Sungrass Prairie, Darkwater Catacombs (U/B, in Cunning Conqueror). (Note: also listed "Overflowing Basin" — likely Sungrass Prairie typo or different card) |
 | Amonkhet Cycling Sac-Lands (uncommon, 5 total) | 3 | Hashep Oasis, Ifnir Deadlands, Ramunap Ruins. Missing: Sunscorched Desert (have it loose), Scavenger Grounds (in Limit Break) |
 | Tarkir Village Lands (TDM) | 2 | Kishla Village, Cori Mountain Monastery |
 | BFZ Blighted Cycle (activated colorless) | 4 | Blighted Cataract, Blighted Fen, Blighted Gorge, Blighted Woodland. Missing: Blighted Steppe |
-| Battle Lands / Tango Lands (BFZ rare fetchable) | 6 | Prairie Stream (W/U), Cinder Glade (R/G, TMC), Smoldering Marsh (B/R, TMC), Sunken Hollow (U/B, TMC), Sodden Verdure (G/U, SOC), Vernal Fen (B/G, SOC) — all Loose (cut from Turtle Power for shock upgrade). Cycle of 10. |
+| Battle Lands / Tango Lands (BFZ rare fetchable) | 6 | Prairie Stream (W/U), Cinder Glade (R/G, TMC), Smoldering Marsh (B/R, TMC), Sunken Hollow (U/B, TMC — now in Cunning Conqueror), Sodden Verdure (G/U, SOC), Vernal Fen (B/G, SOC) — rest Loose (cut from Turtle Power for shock upgrade). Cycle of 10. |
 | Amonkhet Cycling Duals (Irrigated Farmland cycle) | 1 | Irrigated Farmland (W/U). Cycle of 5 — others not owned |
 
 ### Notable Loose Singletons (worth knowing about)
