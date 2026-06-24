@@ -35,15 +35,15 @@
 - Arcane Denial
 - Archmage's Charm
 - Brainstorm
-- Counterspell (Proxy)
+- Counterspell
 - Countersquall
 - Cyclonic Rift
-- Deadly Dispute (Proxy)
+- Deadly Dispute
 - Deadly Rollick
 - Flusterstorm
 - Frantic Search
 - Go for the Throat
-- Infernal Grasp (Proxy)
+- Infernal Grasp
 - Mana Sculpt
 - Narset's Reversal
 - Opt
@@ -75,26 +75,27 @@
 - Rhystic Study (Proxy)
 
 ## Lands (38)
-- Bojuka Bog (Proxy)
+- Bojuka Bog
 - Choked Estuary
-- Clearwater Pathway (Proxy)
+- Clearwater Pathway
 - Command Tower (Proxy)
-- Darkwater Catacombs (Proxy)
-- Dimir Aqueduct (Proxy)
-- Drowned Catacomb (Proxy)
+- Darkslick Shores
+- Darkwater Catacombs
+- Dimir Aqueduct
+- Drowned Catacomb
 - Exotic Orchard
 - Gloomlake Verge (Proxy)
-- Path of Ancestry (Proxy)
-- Polluted Delta (Proxy)
+- Morphic Pool
+- Polluted Delta
 - Reliquary Tower
 - Secluded Glen
 - Shipwreck Marsh (Proxy)
-- Sunken Hollow (Proxy)
+- Sunken Hollow
 - Tainted Isle (Proxy)
 - Temple of Deceit
 - Underground River
 - Watery Grave (Proxy)
-- Island x14
+- Island x13
 - Swamp x5
 
 ## Other Acquisitions
