@@ -15,6 +15,7 @@
 - Emiel the Blessed
 - Esper Sentinel
 - Guardian Sunmare
+- Inspiring Unicorn
 - Keleth, Sunmane Familiar
 - Mondrak, Glory Dominus
 - Loyal Unicorn
@@ -89,10 +90,10 @@
 **Key Synergies:**
 - Thurid + any Pegasus/Unicorn/Horse = free token copy of every creature you cast
 - Crested Sunmare + lifelink creatures (Thurid, Mesa Unicorn, Sungrace Pegasus) = 5/5 Horse tokens each end step
-- Blessed Sanctuary prevents damage to your creatures and creates Unicorn tokens on non-token ETBs
-- Doubling effects: Thurid copies spells, Blessed Sanctuary makes tokens on ETB
+- Blessed Sanctuary prevents all *noncombat* damage to you and your creatures, and creates 2/2 Unicorn tokens on non-token creature ETBs
+- Doubling effects: Thurid copies tribal creature spells, Mondrak doubles all token creation (stacks with everything below)
 - Caretaker's Talent draws cards as creatures enter, fuelling more casts
-- Guardian Sunmare (saddled) tutors any nonland permanent with MV 3 or less onto the battlefield
+- Guardian Sunmare (attacking while saddled) tutors any nonland permanent with MV 3 or less onto the battlefield
 - Land Tax / Smothering Tithe / Smuggler's Share keep resources flowing in mono-white
 
 **Win Conditions:**
@@ -110,7 +111,7 @@
   - **Felidar Retreat** — +1/+1 counters + Cat Beast tokens on land drops.
 - **Enlightened Tutor** (artifact or enchantment to top of library) priorities:
   - All Idyllic Tutor picks above, plus: **Spear of Heliod** (anthem + removal), **Banner of Kinship** (tribal anthem), **Swiftfoot Boots** (commander protection), **Pearl Medallion** (cost reduction), **The Mind Stone** (indestructible ramp; harnessed = free end-step blink).
-- **Guardian Sunmare** (saddled: tutor a nonland permanent MV 3 or less to the battlefield) priorities:
+- **Guardian Sunmare** (attacks while saddled: tutor a nonland permanent MV 3 or less to the battlefield) priorities:
   - **Esper Sentinel** (1 mana) — taxes opponents and draws cards.
   - **The Mind Stone** (2 mana) — indestructible white mana rock; once harnessed ({5}{W}, tap), blinks a permanent each end step (re-trigger Blessed Sanctuary/Caretaker's Talent, reset Oblivion Ring/Journey to Nowhere).
   - **Land Tax** (1 mana enchantment) — 3 basics every upkeep.
