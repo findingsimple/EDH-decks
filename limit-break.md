@@ -14,7 +14,6 @@
 - Cid, Freeflier Pilot
 - Cloud, Midgar Mercenary
 - Cloud, Planet's Champion
-- Elena, Turk Recruit
 - Elspeth, Storm Slayer
 - Heidegger, Shinra Executive
 - Helitrooper
@@ -22,6 +21,7 @@
 - Puresteel Paladin
 - Red XIII, Proud Warrior
 - Sephiroth, Fallen Hero
+- Stoneforge Mystic
 - Tifa, Martial Artist
 - Vincent, Vengeful Atoner
 - Yuffie, Materia Hunter
@@ -51,13 +51,13 @@
 ## Artifacts (22)
 - Arcane Signet
 - Behemoth Sledge
+- Buster Sword
 - Champion's Helm
 - Colossus Hammer
 - Conformer Shuriken
 - Conqueror's Flail
 - Dancer's Chakrams
 - Darksteel Plate
-- Explorer's Scope
 - Hero's Blade
 - Hero's Heirloom
 - Inspiring Statuary
@@ -114,9 +114,11 @@
 **Key Synergies:**
 - Cloud + Colossus Hammer/Ultima Weapon = 7+ power for Treasure generation
 - Puresteel Paladin + multiple Equipment = free equip costs and card draw
+- Stoneforge Mystic tutors the right Equipment, then cheats it onto the battlefield for {1}{W} (dodges Colossus Hammer's cast; pair with Cloud's ETB attach or Puresteel's equip {0} to skip the {8} equip too)
 - Inspiring Statuary lets Equipment tap for mana via improvise
 - Hero's Blade auto-attaches to Cloud (legendary) for free
-- Lightning Greaves/Swiftfoot Boots protect Cloud while enabling immediate attacks
+- Lightning Greaves protects Cloud while enabling immediate attacks
+- Buster Sword on Cloud: connect for 7+ = draw + free-cast a big spell (and it pushes him to 7 power for Treasures)
 - Sephiroth, Fallen Hero and other FF characters provide thematic support
 - Jeska's Will as a burst ritual (mana per card in opponent's hand) + impulse 3 — powers out multi-equipment turns
 - Lorehold Charm flexes between opponent artifact sac, recurring a killed mana rock or small creature, or giving Cloud +1/+1 and trample at instant speed for a voltron finisher
