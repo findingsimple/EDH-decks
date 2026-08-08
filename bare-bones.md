@@ -14,8 +14,8 @@
 - Disciple of Bolas
 - Doom Weaver
 - Fell Gravship
+- Galactus, Devourer of Worlds
 - Gisa, the Hellraiser
-- Gloomfang Mauler
 - Kalakscion, Hunger Tyrant
 - Kokusho, the Evening Star
 - Ghoulcaller Gisa
@@ -92,7 +92,8 @@
 **Strategy:** Xu-Ifit, Osteoharmonist taps to reanimate creatures from your graveyard as vanilla Skeletons — they lose ALL abilities (including downsides) but keep their power/toughness. Load the deck with creatures that have huge stats tied to punishing drawbacks, dump them in the graveyard, then reanimate them as plain beaters. The bigger the body and the nastier the drawback, the better the target.
 
 **Key Synergies:**
-- Xu-Ifit + drawback creatures (Rotting Regisaur, Phyrexian Soulgorger, Troll of Khazad-dum, Doom Weaver, Clackbridge Troll, Gloomfang Mauler, Moonshadow) = strip downsides, keep stats
+- Xu-Ifit + drawback creatures (Rotting Regisaur, Phyrexian Soulgorger, Troll of Khazad-dum, Doom Weaver, Clackbridge Troll, Moonshadow, Galactus) = strip downsides, keep stats
+- Galactus, Devourer of Worlds is dual-mode: reanimated he's a vanilla 12/12 Skeleton (forced-attack clause stripped); hard-cast off Ancient Tomb/Cabal Stronghold/rituals he's a 12/12 flying, trample, indestructible that exiles any permanent on entry — mono-black's answer to problem enchantments
 - Buried Alive / Entomb / Stitcher's Supplier / Vile Entomber = targeted graveyard setup to find the best reanimation target
 - Night's Whisper / Sign in Blood / Disciple of Bolas / Scrounge for Eternity = card draw to dig for enablers
 - Cabal Ritual / Dark Ritual / Jet Medallion / Sol Ring = fast mana to drop Xu-Ifit early
@@ -102,14 +103,14 @@
 - Lightning Greaves / Swiftfoot Boots = protect Xu-Ifit from removal on the critical turn
 
 **Win Conditions:**
-- Swing with reanimated fatties (7/6 Rotting Regisaur, 8/8 Phyrexian Soulgorger, 6/5 Troll of Khazad-dûm) for commander damage or raw beats
+- Swing with reanimated fatties (12/12 Galactus, 8/8 Phyrexian Soulgorger, 7/6 Rotting Regisaur, 6/5 Troll of Khazad-dûm) for commander damage or raw beats
 - Kokusho reanimation loops for incremental drain kills
 - Altar of Dementia + Buried Alive + reanimation = mill opponents to death
 - Cabal Stronghold / Ancient Tomb + X-cost drain spells as backup burn
 
 **Tutor Targets:**
-- **Entomb / Vile Entomber** (1 creature to graveyard) — target biggest drawback body for immediate Xu-Ifit reanimation. Top picks: **Phyrexian Soulgorger** (8/8), **Rotting Regisaur** (7/6), **Kokusho, the Evening Star** (5/5 with death drain trigger — reanimated Kokusho is a vanilla 5/5 but the death trigger works if you kill it via hard-cast or sac).
-- **Buried Alive** (3 creatures to graveyard) — load Xu-Ifit's reanimation queue. Ideal trio: **Phyrexian Soulgorger + Rotting Regisaur + Kokusho** for one big body now and two more on subsequent Xu-Ifit taps. Alternate trio: **Clackbridge Troll + Troll of Khazad-dûm + Doom Weaver** if you need raw combat pressure.
+- **Entomb / Vile Entomber** (1 creature to graveyard) — target biggest drawback body for immediate Xu-Ifit reanimation. Top picks: **Galactus** (12/12), **Phyrexian Soulgorger** (8/8), **Rotting Regisaur** (7/6), **Kokusho, the Evening Star** (5/5 with death drain trigger — reanimated Kokusho is a vanilla 5/5 but the death trigger works if you kill it via hard-cast or sac).
+- **Buried Alive** (3 creatures to graveyard) — load Xu-Ifit's reanimation queue. Ideal trio: **Galactus + Phyrexian Soulgorger + Rotting Regisaur** for one huge body now and two more on subsequent Xu-Ifit taps. Alternate trio: **Clackbridge Troll + Troll of Khazad-dûm + Doom Weaver** if you need raw combat pressure.
 - **Rune-Scarred Demon** (ETB tutor any card) — pull the piece the game is missing. Best grabs: **Phyrexian Altar** (sac outlet + mana), **Altar of Dementia** (mill wincon enabler), missing land (Cabal Stronghold or Ancient Tomb), or **Buried Alive** to reload the graveyard.
 
 **Upgrade ideas:**
