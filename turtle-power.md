@@ -19,7 +19,6 @@
 - Michelangelo, Weirdness to 11
 - Mikey & Don, Party Planners
 - Mikey & Leo, Chaos & Order
-- Mikey & Mona, Mutant Sitters
 - Mutagen Man, Living Ooze
 - Raphael, Tag Team Tough
 - Raphael, the Muscle
@@ -27,12 +26,13 @@
 - Ray Fillet, Wave Warrior
 - Rocksteady, Mutant Marauder
 - Shredder, Shadow Master
-- Splinter & Leo, Father & Son
 - Splinter, Hamato Yoshi
 - Splinter, Radical Rat
 - Splinter, the Mentor
 - Super Shredder
 - Tokka & Rahzar, Unsupervised
+- Wolverine, Claws Out
+- X-23, Deadly Weapon
 
 ## Sorceries (8)
 - Cultivate
@@ -131,6 +131,13 @@ counter placement into direct damage, threatening kills without needing to attac
   High Score all stack multiplicatively. A single +1/+1 counter from the commander
   becomes absurd with just a few of these out. Eight total counter-amplifying effects
   means you'll almost always have at least one online.
+- **Wolverine, Claws Out**: Every Mutant you control doubles its power when it
+  attacks — a counter-stacked board hits for absurd totals, and it stacks with
+  Raphael the Muscle's damage doubling and the Nightwatcher's double strike.
+  Wolverine himself can assign damage as though unblocked.
+- **X-23, Deadly Weapon**: Every other Mutant ETB puts a counter on it and on
+  her — each placement amplified by the doublers, drawing with Mikey & Leo, and
+  pinging with All Will Be One.
 - **All Will Be One**: Converts every counter placement into direct damage to any
   target. With counter doublers stacking, a single combat can deal 20+ damage
   directly, threatening kills without creatures needing to connect again.
@@ -156,8 +163,9 @@ counter placement into direct damage, threatening kills without needing to attac
   connects, doubling all your triggers.
 - **Super Shredder**: Grows whenever ANY permanent leaves -- ninjutsu/sneak
   bounces, Mutagen sacrifices, fetchlands, opponent removal. Snowballs fast.
-- **Turtles Forever**: Tutor for 4 legendary TMNT characters, keep 2. Finds
-  whatever you need from 20+ legends in the deck.
+- **Turtles Forever**: Search for any four legendary creature cards with
+  different names — an opponent chooses the two you keep (not TMNT-only:
+  Wolverine and X-23 are fetchable too). Pick four where any two are great.
 
 ### Win Conditions
 - **Combat damage through counter-stacked creatures**: With Hardened Scales, Corpsejack Menace, and a counter-doubler or two online, a single combat trigger from Heroes in a Half Shell places 4+ counters per creature, turning the board into lethal threats in 1-2 swings.
@@ -167,13 +175,14 @@ counter placement into direct damage, threatening kills without needing to attac
 - **Mill via Altar + Mutagen**: Altar of Dementia + The Ooze / Mutagen sacrifices can mill opponents when combat is locked down.
 
 ### Tutor Targets
-- **Turtles Forever** (reveal top cards, grab legendary TMNT characters) priorities depend on what's missing — usually:
-  - **Splinter, Hamato Yoshi** (Proxy) — Ninja lord + ninjutsu enabler.
+- **Turtles Forever** (search for four legendary creatures with different names; an opponent picks the two you keep) priorities depend on what's missing — usually:
+  - **Splinter, Hamato Yoshi** — Ninja lord + ninjutsu enabler.
   - **Raphael, the Nightwatcher** — double strike on all attackers = double counter triggers.
-  - **Splinter, Radical Rat** (Proxy) — Ninja unblockable + trigger doubler.
+  - **Splinter, Radical Rat** — Ninja unblockable + trigger doubler.
   - **Michelangelo, Weirdness to 11** — counter doubler.
   - **Mikey & Don, Party Planners** — top-of-library casting with bonus counters.
-  - **Raphael, Tag Team Tough** (Proxy) — extra combat phase enabler.
+  - **Raphael, Tag Team Tough** — extra combat phase enabler.
+  - **Wolverine, Claws Out** — Mutant power-doubling finisher.
 - **Splinter's Technique** (unconditional tutor, 2 mana with Sneak) priorities:
   - **Doubling Season** / **Hardened Scales** / **Corpsejack Menace** / **Branching Evolution** — counter multiplication (biggest missing piece usually wins games).
   - **All Will Be One** — converts counters to direct damage, alt wincon.
