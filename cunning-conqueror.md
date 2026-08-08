@@ -145,6 +145,13 @@
 - Incremental drain: Obyra triggers + Faerie Tauntings + Faerie Bladecrafter's death.
 - Notorious Throng off Rogue damage → extra turn + a wave of Faerie tokens.
 
+**Counters & Markers Needed:**
+- **+1/+1 counters ×15–20** — Oona's Blackguard puts one on every other Rogue as it enters (all the Faerie Rogue tokens qualify, and counter-carriers force discards on damage); Wan Shi Tong enters with X and grows on opponent searches; Faerie Bladecrafter grows each combat your Faeries connect.
+- **−1/−1 counter ×1–2** — Glen Elendra Archmage's persist return (use a different colour die).
+- **Goad markers ×3–4** — Alela goads a creature every time your Faeries hit a player; each goad lasts until your next turn, so several can be live at once across opponents.
+- **Number die for Talion** — set to the chosen number (2 is usually the sweet spot: Signets, Counterspell, most two-drops).
+- Mistbind Clique's champion needs no marker — the exiled Faerie sits under the Clique.
+
 **Watch-outs:**
 - **Kindred Dominance** (destroy non-Faeries) / **Raise the Palisade** (bounce non-Faeries) are *not* fully one-sided for you — they also hit your non-Faerie creatures: **Wan Shi Tong**, **Notion Thief**, **Cunning Nightbonder**, **Enduring Curiosity**, plus any creature stolen with **Sower of Temptation**. (Malleable Impostor becomes a Faerie, so it survives.)
 - Kindred Discovery + a token flood can deck you.
