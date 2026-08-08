@@ -26,7 +26,7 @@
 - Scion of Oona
 - Sower of Temptation
 - Spellstutter Sprite
-- Talion, the Kindly Lord (Proxy)
+- Talion, the Kindly Lord
 - Tegwyll, Duke of Splendor
 - Vendilion Clique
 - Wan Shi Tong, Librarian
