@@ -102,6 +102,26 @@
 - Sacred Mesa for steady Pegasus token generation
 - Akroma's Will as a one-turn alpha strike
 
+**Tokens Needed** (mtgprint.net paste list below; quantities assume Mondrak doubling):
+- **Copy** ×10 — Thurid copies every Pegasus/Unicorn/Horse creature spell; Caretaker's Talent level 2 copies a token.
+- **Pegasus 1/1 white flying** ×10 — Storm Herd (X = life total; supplement with dice), Sacred Mesa, Pegasus Guardian.
+- **Pegasus 2/2 white flying** ×4 — Archon of Sun's Grace (constellation).
+- **Horse 5/5 white** ×4 — Crested Sunmare (end step if you gained life).
+- **Unicorn 2/2 white** ×6 — Blessed Sanctuary (nontoken creature ETBs). *No official Unicorn token exists* — print a vanilla 2/2 white stand-in (Ox from the Marvel token set fits) or a custom card; it's still a Unicorn for Thurid/Emiel.
+- **Cat Beast 2/2 white** ×4 — Felidar Retreat (landfall mode).
+- **Food** ×4 — Bill the Pony (2 on ETB), Late to Dinner.
+- **Treasure** ×6 — Smothering Tithe, Smuggler's Share.
+
+```
+10 Copy
+14 Pegasus
+4 Horse
+6 Ox
+4 Cat Beast
+4 Food
+6 Treasure
+```
+
 **Tutor Targets:**
 - **Idyllic Tutor** (enchantment to hand) priorities:
   - **Smothering Tithe** — treasure ramp whenever opponents draw; premium mono-white engine.
