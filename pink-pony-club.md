@@ -51,16 +51,16 @@
 - Swords to Plowshares
 - Teferi's Protection
 
-## Artifacts (5)
+## Artifacts (6)
 - Banner of Kinship
 - Heraldic Banner
 - Pearl Medallion
 - Spear of Heliod
 - Swiftfoot Boots
+- The Mind Stone
 
-## Enchantments (15)
+## Enchantments (14)
 - Angelic Destiny
-- Anointed Procession (Proxy)
 - Authority of the Consuls
 - Blessed Sanctuary
 - Caretaker's Talent
@@ -103,16 +103,16 @@
 
 **Tutor Targets:**
 - **Idyllic Tutor** (enchantment to hand) priorities:
-  - **Anointed Procession** (Proxy) — doubles every token including Thurid's copies.
-  - **Smothering Tithe** (Proxy) — treasure ramp whenever opponents draw; premium mono-white engine.
+  - **Smothering Tithe** — treasure ramp whenever opponents draw; premium mono-white engine.
   - **Smuggler's Share** (Proxy) — clue tokens + treasures off opponent card draw / land drops.
   - **Sacred Mesa** — steady Pegasus token generation as an alt wincon.
   - **Blessed Sanctuary** — damage prevention + Unicorn tokens on creature ETBs.
   - **Felidar Retreat** — +1/+1 counters + Cat Beast tokens on land drops.
 - **Enlightened Tutor** (artifact or enchantment to top of library) priorities:
-  - All Idyllic Tutor picks above, plus: **Spear of Heliod** (anthem + removal), **Banner of Kinship** (tribal anthem), **Swiftfoot Boots** (commander protection), **Pearl Medallion** (cost reduction).
+  - All Idyllic Tutor picks above, plus: **Spear of Heliod** (anthem + removal), **Banner of Kinship** (tribal anthem), **Swiftfoot Boots** (commander protection), **Pearl Medallion** (cost reduction), **The Mind Stone** (indestructible ramp; harnessed = free end-step blink).
 - **Guardian Sunmare** (saddled: tutor a nonland permanent MV 3 or less to the battlefield) priorities:
   - **Esper Sentinel** (1 mana) — taxes opponents and draws cards.
+  - **The Mind Stone** (2 mana) — indestructible white mana rock; once harnessed ({5}{W}, tap), blinks a permanent each end step (re-trigger Blessed Sanctuary/Caretaker's Talent, reset Oblivion Ring/Journey to Nowhere).
   - **Land Tax** (1 mana enchantment) — 3 basics every upkeep.
   - **Caretaker's Talent** (2 mana enchantment) — card draw on creature ETBs.
   - **Heraldic Banner** (3 mana artifact) — anthem + mana.
