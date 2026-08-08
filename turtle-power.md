@@ -41,7 +41,7 @@
 - Nature's Lore (Proxy)
 - Splinter's Technique
 - Study the Classics (Proxy)
-- Triumph of the Hordes (Proxy) ***
+- Triumph of the Hordes (Proxy — real copy in High Perfect Morcant)
 - Wave Goodbye
 
 ## Instants (9)
